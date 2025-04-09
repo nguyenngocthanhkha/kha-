@@ -1,0 +1,37 @@
+/* Ẩn menu mặc định */
+.group > ul {
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.5s ease-in-out, visibility 0s 0.5s;
+  }
+  
+  /* Khi hover lên group thì menu sẽ xuất hiện */
+  .group:hover > ul {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.5s ease-in-out, visibility 0s 0s;
+  }
+  
+  /* Để menu không tự động ẩn đi khi nhấp vào */
+  .open > ul {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.5s ease-in-out, visibility 0s 0s;
+  }
+  
+  /* Thêm hiệu ứng mũi tên */
+  .group > a::after {
+    content: ' ▼';
+    font-size: 12px;
+    margin-left: 4px;
+    transition: transform 0.3s ease;
+  }
+  
+  /* Khi menu mở thì mũi tên sẽ xoay */
+  .open > a::after {
+    transform: rotate(180deg);
+  }
+ 

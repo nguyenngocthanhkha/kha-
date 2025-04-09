@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>QNTour Menu</title>
+  <!-- Thêm thư viện TailwindCSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    /* Xử lý hiển thị submenu khi hover */
+    nav li:hover > ul {
+      display: block;
+    }
+
+    /* Ẩn các submenu mặc định */
+    nav ul ul {
+      display: none;
+    }
+  </style>
+</head>
+<body class="font-sans bg-white text-gray-800">
+
+<!-- Navbar -->
+<nav class="bg-white shadow-md px-6 py-4 flex items-center justify-between flex-wrap">
+  <!-- Logo -->
+  <div class="flex items-center gap-2">
+    <!-- Hình ảnh logo -->
+    <img src="https://icon-library.com/images/icon-for-travel/icon-for-travel-13.jpg" alt="Logo Icon" class="w-8 h-8 object-contain" />
+    <h1 class="text-2xl font-bold text-black">QNTour</h1>
+  </div>
+
+  <!-- Menu chính -->
+  <ul class="flex flex-wrap gap-6 text-gray-800 font-medium">
+    <!-- Mục Trang chủ -->
+    <li><a href="#" class="hover:text-orange-500">Trang chủ</a></li>
+
+    <!-- Dropdown Cẩm nang du lịch -->
+    <li class="relative group">
+      <a href="#" class="hover:text-orange-500 flex items-center gap-1">Cẩm nang du lịch</a>
+      <ul class="absolute left-0 bg-white shadow-md mt-2 rounded-md w-48 z-10">
+        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Mẹo đi tour</a></li>
+        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Chuẩn bị hành lý</a></li>
+        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Kinh nghiệm du lịch</a></li>
+      </ul>
+    </li>
+
+    <!-- Dropdown Kênh Homestay -->
+    <li class="relative group">
+      <a href="#" class="hover:text-orange-500 flex items-center gap-1">Kênh Homestay</a>
+      <ul class="absolute left-0 bg-white shadow-md mt-2 rounded-md w-52 z-10">
+        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Homestay gần biển</a></li>
+        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Homestay núi</a></li>
+        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Homestay giá rẻ</a></li>
+      </ul>
+    </li>
+
+    <!-- Dropdown Nghiện Cafe -->
+    <li class="relative group">
+      <a href="#" class="hover:text-orange-500 flex items-center gap-1">Nghiện Cafe</a>
+      <ul class="absolute left-0 bg-white shadow-md mt-2 rounded-md w-48 z-10">
+        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Quán view đẹp</a></li>
+        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Cafe vintage</a></li>
+        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Cafe mở khuya</a></li>
+      </ul>
+    </li>
+
+    <!-- Dropdown Địa điểm ăn uống -->
+    <li class="relative group">
+      <a href="#" class="hover:text-orange-500 flex items-center gap-1">Địa điểm ăn uống</a>
+      <ul class="absolute left-0 bg-white shadow-md mt-2 rounded-md w-52 z-10">
+        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Món ngon</a></li>
+        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Ăn vặt</a></li>
+        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Quán ăn nổi tiếng</a></li>
+      </ul>
+    </li>
+
+    <!-- Dropdown Sự kiện nổi bật -->
+    <li class="relative group">
+      <a href="#" class="hover:text-orange-500 flex items-center gap-1">Sự kiện nổi bật</a>
+      <ul class="absolute left-0 bg-white shadow-md mt-2 rounded-md w-56 z-10">
+        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Lễ hội</a></li>
+        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Sự kiện địa phương</a></li>
+        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Chương trình khuyến mãi</a></li>
+      </ul>
+    </li>
+
+    <!-- Mục Hỏi đáp -->
+    <li><a href="#" class="hover:text-orange-500">Hỏi đáp</a></li>
+  </ul>
+
+  <!-- Tìm kiếm + đăng ký -->
+  <div class="flex items-center gap-3 mt-4 md:mt-0">
+    <input type="text" placeholder="Tìm kiếm" class="border px-2 py-1 rounded-md text-sm focus:outline-none" />
+    <a href="#" class="text-blue-600 hover:underline">Đăng k</a>
+    <a href="#" class="bg-orange-500 text-white px-3 py-1 rounded-md hover:bg-orange-600">Đăng nhập</a>
+  </div>
+</nav>
+
+<!-- Banner -->
+<section class="relative h-[400px] overflow-hidden">
+  <!-- Ảnh banner -->
+  <img src="https://www.vietnamairlines.com/~/media/Images/Discovery/Vietnam/QUYNHON/canh%20dep/1920x1080/Quynhon_canhdep_dam_thi_nai_1920x1080.jpg" class="banner-image absolute inset-0 w-full h-full object-cover opacity-100 transition-opacity duration-1000" />
+  <img src="https://quynhonhotel.com/wp-content/uploads/2021/03/cu-lao-xanh-quy-nhon-quynhonhotel.jpg" class="banner-image absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-1000" />
+  <img src="https://hoangthinhtravel.com/images/hoangthinhtravel.com/2021/11/checkin-bai-tam-hoang-hau-quy-nhon-binh-dinh-1637684657-2610968.jpg" class="banner-image absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-1000" />
+
+  <!-- Tiêu đề banner -->
+    <h2 class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-4xl md:text-6xl font-bold drop-shadow-lg text-center">
+    TRẢI NGHIỆM QUY NHƠN
+  </h2>
+</section>
+
+<!-- Vì sao nên chọn QNtour-->
+<section class="py-16 bg-gray-100">
+  <div class="max-w-6xl mx-auto px-4">
+       <h3 class="text-2xl font-bold text-indigo-900 mb-10 text-center">Vì sao nên chọn QNTOUR?</h3>
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <!-- Icon 1: Giá Tốt Nhất Cho Bạn -->
+      <div class="flex flex-col items-center text-center">
+  <span class="text-green-500 text-5xl mb-4">
+    💰 <!-- Biểu tượng túi tiền bằng emoji -->
+  </span>          
+       <h4 class="font-bold text-lg mb-2 text-black">Giá Tốt Nhất Cho Bạn</h4>
+      <p class="text-sm text-gray-700">Có nhiều mức giá đa dạng và phù hợp với túi tiền của bạn</p>
+</div>
+      <!-- Icon 2: Booking dễ dàng -->
+      <div class="flex flex-col items-center text-center">
+        <span class="text-red-500 text-5xl mb-4">📋</span>
+          <h4 class="font-bold text-lg mb-2 text-black">Booking dễ dàng</h4>
+        <p class="text-sm text-gray-700">Đặt tour và được hỗ trợ khách hàng nhanh chóng, thuận tiện</p>
+      </div>
+
+      <!-- Icon 3: Tour du lịch tối ưu -->
+      <div class="flex flex-col items-center text-center">
+        <span class="text-red-500 text-5xl mb-4">🎒</span>
+          <h4 class="font-bold text-lg mb-2 text-black">Tour du lịch tối ưu</h4>
+        <p class="text-sm text-gray-700">Đa dạng tour du lịch, linh hoạt và dễ chọn lựa</p>
+      </div>
+    </div>
+  </div>
+</section>
+<script src="script.js"></script>
+</body>
+</html>
