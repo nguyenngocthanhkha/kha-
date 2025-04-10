@@ -42,3 +42,14 @@ setInterval(changeBannerImage, 5000);
 
 // Khởi tạo banner ban đầu
 changeBannerImage();
+// phần footer ( xử lý scripts.js)
+// script.js
+
+// JavaScript để xử lý form gửi email
+document.querySelector('.newsletter').addEventListener('submit', function(event) {
+  event.preventDefault(); // Ngăn chặn hành động mặc định của form
+  const email = document.getElementById('email').value;
+  alert('Cảm ơn bạn đã đăng ký nhận tin tức với email: ' + email);
+  // Ở đây bạn có thể thêm mã PHP để gửi email hoặc lưu vào cơ sở dữ liệu
+});
+

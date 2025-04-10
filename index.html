@@ -4,16 +4,12 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>QNTour Menu</title>
-  <!-- Thêm thư viện TailwindCSS -->
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="stylesheet" href="style.css" />
   <style>
-    /* Xử lý hiển thị submenu khi hover */
     nav li:hover > ul {
       display: block;
     }
-
-    /* Ẩn các submenu mặc định */
     nav ul ul {
       display: none;
     }
@@ -21,124 +17,403 @@
 </head>
 <body class="font-sans bg-white text-gray-800">
 
-<!-- Navbar -->
-<nav class="bg-white shadow-md px-6 py-4 flex items-center justify-between flex-wrap">
-  <!-- Logo -->
-  <div class="flex items-center gap-2">
-    <!-- Hình ảnh logo -->
-    <img src="https://icon-library.com/images/icon-for-travel/icon-for-travel-13.jpg" alt="Logo Icon" class="w-8 h-8 object-contain" />
-    <h1 class="text-2xl font-bold text-black">QNTour</h1>
-  </div>
+  <!-- Navbar -->
+  <nav class="bg-white shadow-md px-6 py-4 flex items-center justify-between flex-wrap">
+    <div class="flex items-center gap-2">
+      <img src="https://icon-library.com/images/icon-for-travel/icon-for-travel-13.jpg" alt="Logo Icon" class="w-8 h-8 object-contain" />
+      <h1 class="text-2xl font-bold text-black">QNTour</h1>
+    </div>
 
-  <!-- Menu chính -->
-  <ul class="flex flex-wrap gap-6 text-gray-800 font-medium">
-    <!-- Mục Trang chủ -->
-    <li><a href="#" class="hover:text-orange-500">Trang chủ</a></li>
+    <ul class="flex flex-wrap gap-6 text-gray-800 font-medium">
+      <li><a href="#" class="hover:text-orange-500">Trang chủ</a></li>
 
-    <!-- Dropdown Cẩm nang du lịch -->
-    <li class="relative group">
-      <a href="#" class="hover:text-orange-500 flex items-center gap-1">Cẩm nang du lịch</a>
-      <ul class="absolute left-0 bg-white shadow-md mt-2 rounded-md w-48 z-10">
-        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Mẹo đi tour</a></li>
-        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Chuẩn bị hành lý</a></li>
-        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Kinh nghiệm du lịch</a></li>
-      </ul>
-    </li>
+      <li class="relative group">
+        <a href="#" class="hover:text-orange-500 flex items-center gap-1">Cẩm nang du lịch</a>
+        <ul class="absolute left-0 bg-white shadow-md mt-2 rounded-md w-48 z-10">
+          <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Mẹo đi tour</a></li>
+          <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Chuẩn bị hành lý</a></li>
+          <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Kinh nghiệm du lịch</a></li>
+        </ul>
+      </li>
 
-    <!-- Dropdown Kênh Homestay -->
-    <li class="relative group">
-      <a href="#" class="hover:text-orange-500 flex items-center gap-1">Kênh Homestay</a>
-      <ul class="absolute left-0 bg-white shadow-md mt-2 rounded-md w-52 z-10">
-        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Homestay gần biển</a></li>
-        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Homestay núi</a></li>
-        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Homestay giá rẻ</a></li>
-      </ul>
-    </li>
+      <li class="relative group">
+        <a href="#" class="hover:text-orange-500 flex items-center gap-1">Kênh Homestay</a>
+        <ul class="absolute left-0 bg-white shadow-md mt-2 rounded-md w-52 z-10">
+          <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Homestay gần biển</a></li>
+          <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Homestay núi</a></li>
+          <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Homestay giá rẻ</a></li>
+        </ul>
+      </li>
 
-    <!-- Dropdown Nghiện Cafe -->
-    <li class="relative group">
-      <a href="#" class="hover:text-orange-500 flex items-center gap-1">Nghiện Cafe</a>
-      <ul class="absolute left-0 bg-white shadow-md mt-2 rounded-md w-48 z-10">
-        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Quán view đẹp</a></li>
-        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Cafe vintage</a></li>
-        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Cafe mở khuya</a></li>
-      </ul>
-    </li>
+      <li class="relative group">
+        <a href="#" class="hover:text-orange-500 flex items-center gap-1">Nghiện Cafe</a>
+        <ul class="absolute left-0 bg-white shadow-md mt-2 rounded-md w-48 z-10">
+          <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Quán view đẹp</a></li>
+          <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Cafe vintage</a></li>
+          <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Cafe mở khuya</a></li>
+        </ul>
+      </li>
 
-    <!-- Dropdown Địa điểm ăn uống -->
-    <li class="relative group">
-      <a href="#" class="hover:text-orange-500 flex items-center gap-1">Địa điểm ăn uống</a>
-      <ul class="absolute left-0 bg-white shadow-md mt-2 rounded-md w-52 z-10">
-        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Món ngon</a></li>
-        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Ăn vặt</a></li>
-        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Quán ăn nổi tiếng</a></li>
-      </ul>
-    </li>
+      <li class="relative group">
+        <a href="#" class="hover:text-orange-500 flex items-center gap-1">Địa điểm ăn uống</a>
+        <ul class="absolute left-0 bg-white shadow-md mt-2 rounded-md w-52 z-10">
+          <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Món ngon</a></li>
+          <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Ăn vặt</a></li>
+          <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Quán ăn nổi tiếng</a></li>
+        </ul>
+      </li>
 
-    <!-- Dropdown Sự kiện nổi bật -->
-    <li class="relative group">
-      <a href="#" class="hover:text-orange-500 flex items-center gap-1">Sự kiện nổi bật</a>
-      <ul class="absolute left-0 bg-white shadow-md mt-2 rounded-md w-56 z-10">
-        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Lễ hội</a></li>
-        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Sự kiện địa phương</a></li>
-        <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Chương trình khuyến mãi</a></li>
-      </ul>
-    </li>
+      <li class="relative group">
+        <a href="#" class="hover:text-orange-500 flex items-center gap-1">Sự kiện nổi bật</a>
+        <ul class="absolute left-0 bg-white shadow-md mt-2 rounded-md w-56 z-10">
+          <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Lễ hội</a></li>
+          <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Sự kiện địa phương</a></li>
+          <li><a href="#" class="block px-4 py-2 hover:bg-orange-100">Khuyến mãi</a></li>
+        </ul>
+      </li>
 
-    <!-- Mục Hỏi đáp -->
-    <li><a href="#" class="hover:text-orange-500">Hỏi đáp</a></li>
-  </ul>
+      <li><a href="#" class="hover:text-orange-500">Hỏi đáp</a></li>
 
-  <!-- Tìm kiếm + đăng ký -->
-  <div class="flex items-center gap-3 mt-4 md:mt-0">
-    <input type="text" placeholder="Tìm kiếm" class="border px-2 py-1 rounded-md text-sm focus:outline-none" />
-    <a href="#" class="text-blue-600 hover:underline">Đăng ký</a>
-    <a href="#" class="bg-orange-500 text-white px-3 py-1 rounded-md hover:bg-orange-600">Đăng nhập</a>
-  </div>
-</nav>
+      <li>
+        <div class="flex items-center gap-3 mt-4 md:mt-0">
+          <input type="text" placeholder="Tìm kiếm" class="border px-2 py-1 rounded-md text-sm focus:outline-none" />
+          <a href="#" class="text-blue-600 hover:underline">Sign up</a>
+          <a href="#" class="bg-orange-500 text-white px-3 py-1 rounded-md hover:bg-orange-600">Log in</a>
+        </div>
+      </li>
+    </ul>
+  </nav>
 
-<!-- Banner -->
-<section class="relative h-[400px] overflow-hidden">
-  <!-- Ảnh banner -->
-  <img src="https://www.vietnamairlines.com/~/media/Images/Discovery/Vietnam/QUYNHON/canh%20dep/1920x1080/Quynhon_canhdep_dam_thi_nai_1920x1080.jpg" class="banner-image absolute inset-0 w-full h-full object-cover opacity-100 transition-opacity duration-1000" />
-  <img src="https://quynhonhotel.com/wp-content/uploads/2021/03/cu-lao-xanh-quy-nhon-quynhonhotel.jpg" class="banner-image absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-1000" />
-  <img src="https://hoangthinhtravel.com/images/hoangthinhtravel.com/2021/11/checkin-bai-tam-hoang-hau-quy-nhon-binh-dinh-1637684657-2610968.jpg" class="banner-image absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-1000" />
-
-  <!-- Tiêu đề banner -->
+  <!-- Banner -->
+  <section class="relative h-[400px] overflow-hidden">
+    <img src="https://www.vietnamairlines.com/~/media/Images/Discovery/Vietnam/QUYNHON/canh%20dep/1920x1080/Quynhon_canhdep_dam_thi_nai_1920x1080.jpg" class="banner-image absolute inset-0 w-full h-full object-cover opacity-100 transition-opacity duration-1000" />
+    <img src="https://ik.imagekit.io/tvlk/blog/2022/09/cu-lao-xanh-1.jpg?tr=dpr-2,w-675" class="banner-image absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-1000" />
+    <img src="https://focusasiatravel.vn/wp-content/uploads/2020/02/thap-doi-quy-nhon.jpg" class="banner-image absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-1000" />
+    <img src="https://www.elle.vn/wp-content/uploads/2018/09/24/elle-viet-nam-nhon-ly-5.jpg" class="banner-image absolute inset-0 w-full h-full object-cover opacity-0 transition-opacity duration-1000" />
     <h2 class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-4xl md:text-6xl font-bold drop-shadow-lg text-center">
-    TRẢI NGHIỆM QUY NHƠN
-  </h2>
-</section>
+      TRẢI NGHIỆM QUY NHƠN
+    </h2>
+  </section>
 
-<!-- Vì sao nên chọn QNtour-->
-<section class="py-16 bg-gray-100">
-  <div class="max-w-6xl mx-auto px-4">
-       <h3 class="text-2xl font-bold text-indigo-900 mb-10 text-center">Vì sao nên chọn QNTOUR?</h3>
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-      <!-- Icon 1: Giá Tốt Nhất Cho Bạn -->
-      <div class="flex flex-col items-center text-center">
-  <span class="text-green-500 text-5xl mb-4">
-    💰 <!-- Biểu tượng túi tiền bằng emoji -->
-  </span>          
-       <h4 class="font-bold text-lg mb-2 text-black">Giá Tốt Nhất Cho Bạn</h4>
-      <p class="text-sm text-gray-700">Có nhiều mức giá đa dạng và phù hợp với túi tiền của bạn</p>
-</div>
-      <!-- Icon 2: Booking dễ dàng -->
-      <div class="flex flex-col items-center text-center">
-        <span class="text-red-500 text-5xl mb-4">📋</span>
+  <!-- Vì sao chọn QNTour -->
+  <section class="py-16 bg-gray-100">
+    <div class="max-w-6xl mx-auto px-4">
+      <h3 class="text-2xl font-bold text-indigo-900 mb-10 text-center">Vì sao nên chọn QNTOUR?</h3>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div class="flex flex-col items-center text-center">
+          <span class="text-green-500 text-5xl mb-4">💰</span>
+          <h4 class="font-bold text-lg mb-2 text-black">Giá Tốt Nhất Cho Bạn</h4>
+          <p class="text-sm text-gray-700">Có nhiều mức giá đa dạng và phù hợp với túi tiền của bạn</p>
+        </div>
+        <div class="flex flex-col items-center text-center">
+          <span class="text-red-500 text-5xl mb-4">📋</span>
           <h4 class="font-bold text-lg mb-2 text-black">Booking dễ dàng</h4>
-        <p class="text-sm text-gray-700">Đặt tour và được hỗ trợ khách hàng nhanh chóng, thuận tiện</p>
-      </div>
-
-      <!-- Icon 3: Tour du lịch tối ưu -->
-      <div class="flex flex-col items-center text-center">
-        <span class="text-red-500 text-5xl mb-4">🎒</span>
+          <p class="text-sm text-gray-700">Đặt tour và được hỗ trợ khách hàng nhanh chóng, thuận tiện</p>
+        </div>
+        <div class="flex flex-col items-center text-center">
+          <span class="text-red-500 text-5xl mb-4">🎒</span>
           <h4 class="font-bold text-lg mb-2 text-black">Tour du lịch tối ưu</h4>
-        <p class="text-sm text-gray-700">Đa dạng tour du lịch, linh hoạt và dễ chọn lựa</p>
+          <p class="text-sm text-gray-700">Đa dạng tour du lịch, linh hoạt và dễ chọn lựa</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Cẩm nang du lịch -->
+<!--cẩm nang du lịch-->
+<section class="section-guide">
+    <section class="section-guide"><!--section này giúp tạo padding để nội dung trong class section-description giữ được một khoảng so với nội dung-->
+      <h2 class="section-title">Cẩm nang du lịch</h2>
+    <p class="section-description">
+       Khám phá Quy Nhơn thật dễ dàng với bộ cẩm nang du lịch đầy đủ và rõ ràng với những tour du lịch hấp dẫn 
+  </p>
+    </section>
+    
+    <div class="guide-grid">
+  
+      <!-- Bài viết 1 -->
+      <div class="guide-card">
+        <img src="https://saoviettravel.com.vn/blog/wp-content/uploads/2021/05/eo-gio-2.jpg" alt="Biển Kỳ Co">
+        <div class="guide-content">
+          <h3>Biển Kỳ Co – Maldives của Việt Nam</h3>
+          <p>Nơi biển xanh, cát trắng và những trải nghiệm khó quên...</p>
+          <a href="#" class="guide-button">Xem chi tiết</a>
+        </div>
+      </div>
+  
+      <!-- Bài viết 2 -->
+      <div class="guide-card">
+        <img src="https://static.vinwonders.com/production/mon-ngon-quy-nhon-1.jpg" alt="Ẩm thực Quy Nhơn">
+        <div class="guide-content">
+          <h3>Ẩm thực đặc trưng Quy Nhơn</h3>
+          <p>Khám phá những món ăn dân dã không thể bỏ lỡ...</p>
+          <a href="#" class="guide-button">Xem chi tiết</a>
+        </div>
+      </div>
+  
+      <!-- Bài viết 3 -->
+      <div class="guide-card">
+        <img src="https://th.bing.com/th/id/OIP.OAE44U5ALPUfWRKvmXRTNAHaF5?rs=1&pid=ImgDetMain"alt="Lịch trình Quy Nhơn">
+        <div class="guide-content">
+          <h3>Lịch trình du lịch Quy Nhơn</h3>
+          <p>3 ngày 2 đêm cực chất dành cho bạn đam mê khám phá...</p>
+          <a href="#" class="guide-button">Xem chi tiết</a>
+        </div>
+      </div>
+  
+      <!-- Bài viết 4 -->
+      <div class="guide-card">
+        <img src="https://tourculaoxanh.vn/wp-content/uploads/2020/03/87974946_2641611629227325_7514046525597548544_o.jpg" alt="Sống ảo Quy Nhơn">
+        <div class="guide-content">
+          <h3>Tips sống ảo tại Quy Nhơn</h3>
+          <p>Gợi ý những góc chụp ảnh thần thánh bạn nên biết!</p>
+          <a href="#" class="guide-button">Xem chi tiết</a>
+        </div>
+      </div>
+    </div>
+  <!---Nghiện Cà Phê-->
+  <section class="section-guide">
+    <h2 class="section-title">Nghiện Cà Phê </h2>
+    <p class="section-description">
+          Những không gian những địa điểm nổi bật không thể nào có thể thiếu đi hương vị cà phê , vừa ngắm toàn phố vừa nhâm nhia thì còn gì bằng 
+    </p>
+    <div class="guide-grid">
+  </section>
+  <div class="card-container">
+    <!-- Quán 1 -->
+    <div class="card">
+      <img src="https://th.bing.com/th/id/OIP.kw3HEodhljpDH8wGw_YzcgHaE7?rs=1&pid=ImgDetMain" alt="Cafe 1988">
+      <div class="card-content">
+        <h3>Cafe 1988  View biển chill</h3>
+        <p>Không gian vintage hòa cùng sóng biển tạo nên trải nghiệm cà phê cực thư giãn.</p>
+        <a href="#" class="read-more">Xem chi tiết</a>
+      </div>
+    </div>
+  
+    <!-- Quán 2 -->
+    <div class="card">
+      <img src="https://th.bing.com/th/id/OIP.TBtdamv9sZCivJFnfsakVwHaFj?rs=1&pid=ImgDetMain" alt="Surf Coffee">
+      <div class="card-content">
+        <h3>Surf Coffee  Đậm chất Bali</h3>
+        <p>Không gian mở, tone gỗ  trắng, cực hợp để sống ảo và thư giãn cả ngày.</p>
+        <a href="#" class="read-more">Xem chi tiết</a>
+      </div>
+    </div>
+  
+    <!-- Quán 3 -->
+    <div class="card">
+      <img src="https://i.pinimg.com/originals/56/a6/2e/56a62e695af603e5587039d8bb8d34fb.jpg" alt="Tropical Garden">
+      <div class="card-content">
+        <h3>Tropical Garden</h3>
+        <p>Góc vườn xanh mát, yên tĩnh, rất lý tưởng cho những buổi trò chuyện nhẹ nhàng.</p>
+        <a href="#" class="read-more">Xem chi tiết</a>
+      </div>
+    </div>
+  
+    <!-- Quán 4 -->
+    <div class="card">
+      <img src="https://haloquynhontravel.com/wp-content/uploads/2022/11/quan-cafe-ngay-bien-quy-nhon.png" alt="The Coffee Talk">
+      <div class="card-content">
+        <h3>The Coffee Talk  Chill rooftop</h3>
+        <p>View tầng thượng nhìn toàn cảnh thành phố  quá lý tưởng để ngắm hoàng hôn.</p>
+        <a href="#" class="read-more">Xem chi tiết</a>
       </div>
     </div>
   </div>
-</section>
+  </section>
+  
+  <!---Kênh Homestay-->
+  <section class="section-wrapper homestay">
+    <section class="section-guide">
+      <h2>Kênh Homestay</h2>
+    <p class="section-description">
+      Quy Nhơn không chỉ có biển đẹp mà còn có những homestay cực xinh 
+      Cùng khám phá những nơi lưu trú đáng yêu khiến bạn chẳng muốn rời xa!
+    </p>
+    </section>
+    
+  
+    <div class="card-container">
+      <!-- Homestay 1 -->
+      <div class="card">
+        <img src="https://kenhhomestay.com/wp-content/uploads/2017/07/LaRose-Homestay-15.jpg" alt="LaRose Homestay">
+        <div class="card-content">
+          <h3>LaRose Homestay</h3>
+          <p>Thiết kế nhẹ nhàng, tinh tế, không gian yên tĩnh và gần trung tâm.</p>
+          <a href="#" class="read-more">Xem chi tiết</a>
+        </div>
+      </div>
+  
+      <!-- Homestay 2 -->
+      <div class="card">
+        <img src="https://kenhhomestay.com/wp-content/uploads/2019/01/life%E2%80%99s-a-beach-quy-nhon-4.jpg" alt="Life's A Beach">
+        <div class="card-content">
+          <h3>Life’s A Beach</h3>
+          <p>Homestay sát biển mang vibe du mục, thân thiện và mộc mạc.</p>
+          <a href="#" class="read-more">Xem chi tiết</a>
+        </div>
+      </div>
+  
+      <!-- Homestay 3 -->
+      <div class="card">
+        <img src="https://homestayvungtau.vn/wp-content/uploads/2024/09/villa-121-g2-nguyen-thi-minh-khai-7.jpg" alt="Cocohut Homestay">
+        <div class="card-content">
+          <h3>Cocohut Homestay</h3>
+          <p>Trang trí tông trắng – xanh biển, nổi bật với khu vườn xinh xắn và quán cà phê riêng.</p>
+          <a href="#" class="read-more">Xem chi tiết</a>
+        </div>
+      </div>
+  
+      <!-- Homestay 4 -->
+      <div class="card">
+        <img src="https://th.bing.com/th/id/OIP.tptahXwoTl-bnohc7iPjdgHaKC?pid=ImgDet&w=474&h=642&rs=1" alt="Innside Homestay">
+        <div class="card-content">
+          <h3>Innside Homestay</h3>
+          <p>Thiết kế hiện đại, sạch sẽ, có ban công nhìn ra phố – tiện nghi như khách sạn mini.</p>
+          <a href="#" class="read-more">Xem chi tiết</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!---Địa điểm ăn uống -->
+  <section class="section-wrapper homestay">
+    <section class="section-guide">
+      <h2>Địa điểm ăn uống </h2>
+    <p class="section-description">
+      Quy Nhơn không chỉ có biển đẹp mà còn thu hút bởi những món ăn bình dân và lâu đời đậm gia vị của những người dân xứ nẫu
+    </p>
+    </section>
+    
+  
+    <div class="card-container">
+      <!-- Địa điểm 1  -->
+      <div class="card">
+        <img src="https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/bun-ram-quy-nhon.jpg" alt="Bún Rạm Mỹ Hạnh ">
+        <div class="card-content">
+          <h3>Bún Rạm Mỹ Hạnh</h3>
+          <p>Nước dùng ngọt thanh không quá đậm, tôm tươi dai thịt ăn kèm bánh tráng ngon đúng vị</p>
+          <a href="#" class="read-more">Xem chi tiết</a>
+        </div>
+      </div>
+  
+      <!-- Địa điểm 2 -->
+      <div class="card">
+        <img src="https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/com-ga-e1506390410985.jpg" alt="Cơm gà xứ Quãng ">
+        <div class="card-content">
+          <h3>Cơm gà xứ Quãng </h3>
+          <p>Suất cơm gà đầy đủ các thức các vị, thịt gà mềm thơm, cơm chiên vừa phải ăn kèm với một số loại rau thơm</p>
+          <a href="#" class="read-more">Xem chi tiết</a>
+        </div>
+      </div>
+  
+      <!-- Địa điểm  3 -->
+      <div class="card">
+        <img src="https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/pho-quy-nhon.jpg" alt="Phở Anh Vũ">
+        <div class="card-content">
+          <h3>Phở Anh Vũ </h3>
+          <p> thưởng thức tô phở trong không gian cây xanh, có tiếng chim hót cảm giác thật thanh tao.</p>
+          <a href="#" class="read-more">Xem chi tiết</a>
+        </div>
+      </div>
+  
+      <!-- Địa điểm 4 -->
+      <div class="card">
+        <img src="https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/bun-ca.jpg" alt="Bún cá cô Liên">
+        <div class="card-content">
+          <h3>Bún cá cô Liên</h3>
+          <p> Bún cá, bún riêu, bún sứa, bún chả cá, đặc biệt bún hải sản rất được thực khách yêu thích</p>
+          <a href="#" class="read-more">Xem chi tiết</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!---Sự kiện nổi bật -->
+  <section class="section-wrapper homestay">
+    <section class="section-guide">
+      <h2>Sự kiện nổi Bật </h2>
+    <p class="section-description">
+      Quy Nhơn không chỉ có biển đẹp mà còn là nơi diễn ra nhiều lễ hội văn hóa đặc sắc, thu hút du khách quanh năm.
+    </p>
+    </section>
+    
+  
+    <div class="card-container">
+      <!-- Sự kiện 1  -->
+      <div class="card">
+        <img src="https://th.bing.com/th/id/OIP.vtSOi2evDoHjz9KfBnLpIAHaEL?rs=1&pid=ImgDetMain" alt="Lễ hội Đống Đa – Tây Sơn ">
+        <div class="card-content">
+          <h3>Lễ hội Đống Đa – Tây Sơn</h3>
+          <p>Rước kiệu, múa trống trận Tây Sơn, biểu diễn võ cổ truyền Bình Định cực kỳ ấn tượng</p>
+          <a href="#" class="read-more">Xem chi tiết</a>
+        </div>
+      </div>
+  
+      <!-- sự kiện 2 -->
+      <div class="card">
+        <img src="https://tourquynhon.com.vn/wp-content/uploads/2021/08/le-hoi-cho-go-tuy-phuoc-quy-nhon-d.jpg" alt="Lễ hội ca bài chòi ">
+        <div class="card-content">
+          <h3>Lễ hội ca bài chòi  </h3>
+          <p>Người dân tham gia chơi bài chòi dưới các chòi tre, lắng nghe những làn điệu mộc mạc mang đậm bản sắc miền Trung</p>
+          <a href="#" class="read-more">Xem chi tiết</a>
+        </div>
+      </div>
+  
+      <!-- sự kiện  3 -->
+      <div class="card">
+        <img src="https://th.bing.com/th/id/OIP.x_t_TiIWNwHT9Zp-hQBXhwHaE8?rs=1&pid=ImgDetMain" alt="Lễ hội cầu ngư">
+        <div class="card-content">
+          <h3>Lễ hội cầu ngư</h3>
+          <p> </p>
+          <a href="#" class="read-more">Xem chi tiết</a>
+        </div>
+      </div>
+  
+      <!-- sự kiện  4 -->
+      <div class="card">
+        <img src="https://phuongnam.vanhoavaphattrien.vn/uploads/images/blog/hoand/2022/09/12/a-2563456456-1662956153.jpg" alt=" Lễ hội Cá Ông">
+        <div class="card-content">
+          <h3> Lễ hội Cá Ông</h3>
+          <p>  Tế lễ truyền thống, rước thần trên biển, múa lân, múa bông, hát bội.</p>
+          <a href="#" class="read-more">Xem chi tiết</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--- footer của website -->
+  <html>
+
+  <head>
+      <title>Hacker77</title>
+      <link rel="stylesheet" type="text/css" href="../CSS/style.css"" </head>
+  
+  <body>
+      <!-- footer.php -->
+<footer>
+    <h2>Tất cả những gì bạn cần, gói gọn ở đây.</h2>
+    <p>Thông Tin Liên Hệ:</p>
+    <p>Email: <a href="mailto:contact@travelwebsite.com">contact@travelwebsite.com</a></p>
+    <p>Hotline: 0123-456-789</p>
+    <p>Liên Kết Nhanh:</p>
+    <ul>
+        <li><a href="#">Chính Sách Bảo Mật</a></li>
+        <li><a href="#">Điều Khoản Sử Dụng</a></li>
+        <li><a href="#">Liên Hệ</a></li>
+    </ul>
+    <div class="social-media">
+        <a href="#">Facebook</a>
+        <a href="#">Instagram</a>
+        <a href="#">YouTube</a>
+    </div>
+    
+    <!-- Form Đăng Ký Nhận Tin Tức -->
+    <form class="newsletter" method="POST">
+        <label for="email">Nhận tin tức mới nhất về các chuyến đi!</label>
+        <input type="email" id="email" name="email" placeholder="Nhập email của bạn" required>
+        <button type="submit">Gửi</button>
+    </form>
+</footer>
+  </body>
+  </html>
 <script src="script.js"></script>
 </body>
 </html>
