@@ -1,0 +1,235 @@
+/* Ẩn menu mặc định */
+.group > ul {
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.5s ease-in-out, visibility 0s 0.5s;
+  }
+  
+  /* Khi hover lên group thì menu sẽ xuất hiện */
+  .group:hover > ul {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.5s ease-in-out, visibility 0s 0s;
+  }
+  
+  /* Để menu không tự động ẩn đi khi nhấp vào */
+  .open > ul {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+    transition: opacity 0.5s ease-in-out, visibility 0s 0s;
+  }
+  
+  /* Thêm hiệu ứng mũi tên */
+  .group > a::after {
+    content: ' ▼';
+    font-size: 12px;
+    margin-left: 4px;
+    transition: transform 0.3s ease;
+  }
+  
+  /* Khi menu mở thì mũi tên sẽ xoay */
+  .open > a::after {
+    transform: rotate(180deg);
+  }
+ /* === Cẩm nang du lịch === */
+.section-guide {
+  padding: 40px 0;
+  background-color: #fdfbff;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 30px;
+}
+
+/* chỉnh chữ */
+.section-description{
+  text-align: center;
+}
+
+.guide-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 0 40px;
+}
+
+.guide-card {
+  width: 22%;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.guide-card:hover {
+  transform: translateY(-5px);
+}
+
+.guide-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.guide-content {
+  padding: 16px;
+}
+
+.guide-content h3 {
+  font-size: 16px;
+  color: #4A2EA7;
+  margin-bottom: 8px;
+}
+
+.guide-content p {
+  font-size: 13px;
+  color: #666;
+}
+*/---chữ xem chi tiết---\*
+.guide-button {
+  display: inline-block;
+  margin-top: 10px;
+  color: #007BFF; /* Màu xanh đậm */
+  font-size: 13px;
+  text-decoration: underline;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.guide-button:hover {
+  color: #0056b3; /* Màu xanh nhạt hơn khi hover */
+  text-decoration: underline;
+}
+/* === Dùng chung cho cả 2 mục === */
+.section-wrapper {
+  padding: 40px 0;
+  background-color: #fdfbff;
+}
+
+.section-wrapper.coffee {
+  background-color: #fff9f5;
+}
+
+.section-wrapper h2 {
+  text-align: center;
+  font-size: 28px;
+  color: #333;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap; 
+  gap: 20px;
+  padding: 0px 40px;
+}
+
+.card { /*chỗ này cũng mới sửa*/
+  width: 22%;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.card img {
+  width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-item img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+
+.card-content {
+  padding: 16px;/*mới sửa nếu muốn biết ra sao thì vọc vạch với nó nha*/
+}
+
+/* thêm phần này để khi hover vào thì ảnh đẩy lên chút rồi xuống lại */
+.card:hover{
+  transform: translateY(-100px);
+}
+/* chỗ đây mới thêm vào xóa đi rồi biết */
+.read-more {
+  display: inline-block;
+    margin-top: 10px;
+    color: #007BFF;
+    font-size: 13px;
+    text-decoration: underline;
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+
+}
+
+.read-more:hover{
+  color:#0056b3;
+  text-decoration: underline;
+}
+
+.card-content h3 {
+  font-size: 16px;
+    color: #4A2EA7;
+    margin-bottom: 8px;/*chỗ này đã sửa xóa đi rồi sẽ thấy*/
+}
+
+.section-wrapper.coffee .card-content h3 {
+  color: #6b3e26;
+}
+
+.card-content p {
+  font-size: 13px;
+  color: #666;
+}
+
+.guide-button {
+  display: inline-block;
+  margin-top: 10px;
+  color: #007BFF;
+  font-size: 13px;
+  text-decoration: underline;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.guide-button:hover {
+  color: #0056b3;
+}
+/* styles.css */
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+footer {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+
+footer a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+footer .social-media a {
+  margin: 0 10px;
+}

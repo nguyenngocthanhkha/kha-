@@ -72,6 +72,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     </section>
 
     <!-- Include footer -->
-    <?php include('footer.php'); ?>
+    <?php include('footer.html'); ?>
 </body>
 </html>
