@@ -1,3 +1,4 @@
+<?php include('../kha-/Includes/header.html'); ?>
 <?php
 // index.php
 
@@ -72,6 +73,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     </section>
 
     <!-- Include footer -->
-    <?php include('footer.html'); ?>
+    <?php include('./Includes/footer.html'); ?>
 </body>
 </html>

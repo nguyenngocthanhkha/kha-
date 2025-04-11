@@ -1,14 +1,221 @@
-<!-- header.html -->
-<div class="flex items-center justify-between flex-wrap px-6 py-4">
-    <div class="flex items-center gap-2">
-      <img src="https://icon-library.com/images/icon-for-travel/icon-for-travel-13.jpg" alt="Logo Icon" class="w-8 h-8 object-contain" />
-      <h1 class="text-2xl font-bold text-black">QNTour</h1>
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>QNTour Header</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+    }
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0.75rem 1.5rem;
+      background-color: white;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-right: 1rem;
+    }
+
+    .logo img {
+      width: 2rem;
+      height: 2rem;
+    }
+
+    .logo-text {
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: black;
+    }
+
+    .menu {
+      display: flex;
+      align-items: center;
+      gap: 1.2rem;
+      flex-grow: 1;
+    }
+
+    .menu-item {
+      position: relative;
+      display: flex;
+      align-items: center;
+      font-weight: 500;
+      color: #2d3748;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .menu-item:hover {
+      color: #f97316;
+    }
+
+    .arrow {
+      margin-left: 0.3rem;
+      font-size: 0.7rem;
+    }
+
+    .dropdown {
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      background-color: white;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      border-radius: 0.375rem;
+      z-index: 10;
+      min-width: 150px;
+    }
+
+    .menu-item:hover .dropdown {
+      display: block;
+    }
+
+    .dropdown-item {
+      padding: 0.75rem 1rem;
+      display: block;
+      color: #2d3748;
+      text-decoration: none;
+    }
+
+    .dropdown-item:hover {
+      background-color: #fdeacb;
+    }
+
+    .search-box {
+      margin: 0 1.5rem;
+    }
+
+    .search-input {
+      padding: 0.4rem 0.6rem;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 0.9rem;
+    }
+
+    .auth {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .signup-link {
+      color: #2563eb;
+      text-decoration: none;
+      font-size: 0.9rem;
+    }
+
+    .signup-link:hover {
+      text-decoration: underline;
+    }
+
+    .login-btn {
+      background-color: #f97316;
+      color: white;
+      padding: 0.4rem 0.8rem;
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 0.9rem;
+      transition: background-color 0.2s ease;
+    }
+
+    .login-btn:hover {
+      background-color: #ea580c;
+    }
+
+    @media (max-width: 992px) {
+      .header {
+        flex-wrap: wrap;
+      }
+
+      .menu {
+        flex-wrap: wrap;
+      }
+
+      .search-box {
+        margin-top: 0.5rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <!-- Logo -->
+    <div class="logo">
+      <img src="https://icon-library.com/images/icon-for-travel/icon-for-travel-13.jpg" alt="Logo" />
+      <div class="logo-text">QNTour</div>
     </div>
-  
-    <div class="flex items-center gap-3 mt-4 md:mt-0">
-      <input type="text" placeholder="Tìm kiếm" class="border px-2 py-1 rounded-md text-sm focus:outline-none" />
-      <a href="#" class="text-blue-600 hover:underline">Sign up</a>
-      <a href="#" class="bg-orange-500 text-white px-3 py-1 rounded-md hover:bg-orange-600">Log in</a>
+
+    <!-- Menu -->
+    <nav class="menu">
+      <a href="#" class="menu-item">Trang chủ</a>
+
+      <div class="menu-item">
+        Cẩm nang du lịch <span class="arrow">&#9660;</span>
+        <div class="dropdown">
+          <a href="#" class="dropdown-item">Mẹo đi tour</a>
+          <a href="#" class="dropdown-item">Chuẩn bị hành lý</a>
+        </div>
+      </div>
+
+      <div class="menu-item">
+        Kênh Homestay <span class="arrow">&#9660;</span>
+        <div class="dropdown">
+          <a href="#" class="dropdown-item">Homestay gần biển</a>
+          <a href="#" class="dropdown-item">Homestay giá rẻ</a>
+        </div>
+      </div>
+
+      <div class="menu-item">
+        Nghiện Cafe <span class="arrow">&#9660;</span>
+        <div class="dropdown">
+          <a href="#" class="dropdown-item">Cafe view đẹp</a>
+          <a href="#" class="dropdown-item">Cafe mở khuya</a>
+        </div>
+      </div>
+
+      <div class="menu-item">
+        Địa điểm ăn uống <span class="arrow">&#9660;</span>
+        <div class="dropdown">
+          <a href="#" class="dropdown-item">Ăn vặt</a>
+          <a href="#" class="dropdown-item">Quán ngon</a>
+        </div>
+      </div>
+
+      <div class="menu-item">
+        Sự kiện nổi bật <span class="arrow">&#9660;</span>
+        <div class="dropdown">
+          <a href="#" class="dropdown-item">Lễ hội</a>
+          <a href="#" class="dropdown-item">Khuyến mãi</a>
+        </div>
+      </div>
+
+      <a href="#" class="menu-item">Hỏi đáp</a>
+    </nav>
+
+    <!-- Search -->
+    <div class="search-box">
+      <input type="text" class="search-input" placeholder="Tìm kiếm" />
+    </div>
+
+    <!-- Đăng ký / Đăng nhập -->
+    <div class="auth">
+      <a href="#" class="signup-link">Sign up</a>
+      <a href="#" class="login-btn">Log in</a>
     </div>
   </div>
-  
+</body>
+</html>
