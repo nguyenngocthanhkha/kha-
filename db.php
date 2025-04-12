@@ -2,7 +2,7 @@
 $host = "localhost";       // hoặc 127.0.0.1
 $username = "root";        // mặc định trên XAMPP
 $password = "";            // rỗng nếu không đặt mật khẩu
-$database = "web_ho_tro_du_lich";      //  bạn đổi lại đúng tên database bạn đã tạo nha
+$database = "";      //  bạn đổi lại đúng tên database bạn đã tạo nha
 
 // Kết nối
 $conn = new mysqli($host, $username, $password, $database);
