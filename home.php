@@ -1,10 +1,11 @@
+<?php include('../kha-/Includes/header.html'); ?>
 <!DOCTYPE html>
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>QNTour</title>
-  <link rel="stylesheet" href="styleshome.css">
+  <link rel="stylesheet" href="./CSS/styleHome.css">
 </head>
 <body>
   <!-- Banner -->
@@ -216,7 +217,7 @@
     <div class="card">
       <img src="https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/com-ga-e1506390410985.jpg" alt="Cơm gà xứ Quãng">
       <div class="card-content">
-        <h3>Cơm gà xứ Quãng</h3>
+        <h3>Cơm gà xứ QuảngQuảng</h3>
         <p>Suất cơm gà đầy đủ các thức các vị, thịt gà mềm thơm, cơm chiên vừa phải ăn kèm với một số loại rau thơm.</p>
         <a href="#" class="read-more">Xem chi tiết</a>
       </div>
@@ -296,6 +297,7 @@
   </div>
 </section>
 
-  <script src="scripthome.js"></script>
+  <script src="./Java Scripts/scripthome.js"></script>
+  <?php include('./Includes/footer.html'); ?>
 </body>
 </html>

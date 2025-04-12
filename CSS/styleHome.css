@@ -21,7 +21,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
-    font-size: 4rem;/*điều chỉnh kích thước chữ trải nghiệm quy nhơn ở đây */
+    font-size: 6rem;/*điều chỉnh kích thước chữ trải nghiệm quy nhơn ở đây */
     font-weight: bold;
     text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
     text-align: center;
