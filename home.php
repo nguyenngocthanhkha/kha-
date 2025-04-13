@@ -217,7 +217,7 @@
     <div class="card">
       <img src="https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/com-ga-e1506390410985.jpg" alt="Cơm gà xứ Quãng">
       <div class="card-content">
-        <h3>Cơm gà xứ QuảngQuảng</h3>
+        <h3>Cơm gà xứ Quảng</h3>
         <p>Suất cơm gà đầy đủ các thức các vị, thịt gà mềm thơm, cơm chiên vừa phải ăn kèm với một số loại rau thơm.</p>
         <a href="#" class="read-more">Xem chi tiết</a>
       </div>
