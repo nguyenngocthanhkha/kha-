@@ -4,9 +4,9 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>QNTour Header</title>
-  <style>
-    * {
+  <title>QNTour</title>
+<style>
+  * {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
@@ -161,8 +161,7 @@
         margin-top: 0.5rem;
       }
     }
-  </style>
-
+</style>
 <body>
   <div class="header">
     <!-- Logo -->
@@ -174,7 +173,7 @@
     </div>
     <!-- Menu -->
     <nav class="menu">
-      <a href="../home.php" class="menu-item">Trang chủ</a>
+      <a href="./home.php" class="menu-item">Trang chủ</a>
 
       <div class="menu-item">
         Cẩm nang du lịch <span class="arrow">&#9660;</span>

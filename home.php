@@ -1,4 +1,4 @@
-<?php include('../kha-/Includes/header.html'); ?>
+<?php include('Includes/header.php'); ?>
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -298,6 +298,6 @@
 </section>
 
   <script src="./Java Scripts/scripthome.js"></script>
-  <?php include('./Includes/footer.html'); ?>
+  <?php include('Includes/footer.php'); ?>
 </body>
 </html>
