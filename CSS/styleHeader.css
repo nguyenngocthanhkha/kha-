@@ -4,9 +4,6 @@
       padding: 0;
     }
 
-    body {
-      font-family: Arial, sans-serif;
-    }
 
     .header {
       display: flex;
@@ -15,6 +12,7 @@
       padding: 0.75rem 1.5rem;
       background-color: white;
       box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      font-family: Arial, sans-serif;
     }
 
     .logo {

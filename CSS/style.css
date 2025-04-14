@@ -1,235 +1,287 @@
-/* Ẩn menu mặc định */
-.group > ul {
-    display: none;
-    opacity: 0;
-    visibility: hidden;
-    transition: opacity 0.5s ease-in-out, visibility 0s 0.5s;
-  }
-  
-  /* Khi hover lên group thì menu sẽ xuất hiện */
-  .group:hover > ul {
-    display: block;
-    opacity: 1;
-    visibility: visible;
-    transition: opacity 0.5s ease-in-out, visibility 0s 0s;
-  }
-  
-  /* Để menu không tự động ẩn đi khi nhấp vào */
-  .open > ul {
-    display: block;
-    opacity: 1;
-    visibility: visible;
-    transition: opacity 0.5s ease-in-out, visibility 0s 0s;
-  }
-  
-  /* Thêm hiệu ứng mũi tên */
-  .group > a::after {
-    content: ' ▼';
-    font-size: 12px;
-    margin-left: 4px;
-    transition: transform 0.3s ease;
-  }
-  
-  /* Khi menu mở thì mũi tên sẽ xoay */
-  .open > a::after {
-    transform: rotate(180deg);
-  }
- /* === Cẩm nang du lịch === */
-.section-guide {
-  padding: 40px 0;
-  background-color: #fdfbff;
-}
-
-.section-title {
-  text-align: center;
-  font-size: 28px;
-  color: #333;
-  margin-bottom: 30px;
-}
-
-/* chỉnh chữ */
-.section-description{
-  text-align: center;
-}
-
-.guide-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
-  padding: 0 40px;
-}
-
-.guide-card {
-  width: 22%;
-  background: #fff;
-  border-radius: 12px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  overflow: hidden;
-  transition: transform 0.3s ease;
-}
-
-.guide-card:hover {
-  transform: translateY(-5px);
-}
-
-.guide-card img {
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
-}
-
-.guide-content {
-  padding: 16px;
-}
-
-.guide-content h3 {
-  font-size: 16px;
-  color: #4A2EA7;
-  margin-bottom: 8px;
-}
-
-.guide-content p {
-  font-size: 13px;
-  color: #666;
-}
-*/---chữ xem chi tiết---\*
-.guide-button {
-  display: inline-block;
-  margin-top: 10px;
-  color: #007BFF; /* Màu xanh đậm */
-  font-size: 13px;
-  text-decoration: underline;
-  background: none;
-  border: none;
+/* Reset & Box sizing */
+* {
+  box-sizing: border-box;
+  margin: 0;
   padding: 0;
-  cursor: pointer;
-  font-weight: 500;
 }
 
-.guide-button:hover {
-  color: #0056b3; /* Màu xanh nhạt hơn khi hover */
-  text-decoration: underline;
-}
-/* === Dùng chung cho cả 2 mục === */
-.section-wrapper {
-  padding: 40px 0;
-  background-color: #fdfbff;
-}
-
-.section-wrapper.coffee {
-  background-color: #fff9f5;
-}
-
-.section-wrapper h2 {
-  text-align: center;
-  font-size: 28px;
-  color: #333;
-}
-
-.card-container {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap; 
-  gap: 20px;
-  padding: 0px 40px;
-}
-
-.card { /*chỗ này cũng mới sửa*/
-  width: 22%;
-  background: #fff;
-  border-radius: 12px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  overflow: hidden;
-  transition: transform 0.3s ease;
-}
-
-.card img {
-  width: 100%;
-    height: 200px;
-    object-fit: cover;
-}
-
-.card-item img {
-  width: 100%;
-  height: 160px;
-  object-fit: cover;
-}
-
-.card-content {
-  padding: 16px;/*mới sửa nếu muốn biết ra sao thì vọc vạch với nó nha*/
-}
-
-/* thêm phần này để khi hover vào thì ảnh đẩy lên chút rồi xuống lại */
-.card:hover{
-  transform: translateY(-100px);
-}
-/* chỗ đây mới thêm vào xóa đi rồi biết */
-.read-more {
-  display: inline-block;
-    margin-top: 10px;
-    color: #007BFF;
-    font-size: 13px;
-    text-decoration: underline;
-    background: none;
-    border: none;
-    padding: 0;
-    cursor: pointer;
-
-}
-
-.read-more:hover{
-  color:#0056b3;
-  text-decoration: underline;
-}
-
-.card-content h3 {
-  font-size: 16px;
-    color: #4A2EA7;
-    margin-bottom: 8px;/*chỗ này đã sửa xóa đi rồi sẽ thấy*/
-}
-
-.section-wrapper.coffee .card-content h3 {
-  color: #6b3e26;
-}
-
-.card-content p {
-  font-size: 13px;
-  color: #666;
-}
-
-.guide-button {
-  display: inline-block;
-  margin-top: 10px;
-  color: #007BFF;
-  font-size: 13px;
-  text-decoration: underline;
-  background: none;
-  border: none;
-  padding: 0;
-  cursor: pointer;
-}
-
-.guide-button:hover {
-  color: #0056b3;
-}
-/* styles.css */
-
+/* Body - Thống nhất */
 body {
-  font-family: Arial, sans-serif;
-}
-
-footer {
-  background-color: #f1f1f1;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  background-color: #ffffff;
+  color: #1a1a1a;
   padding: 20px;
-  text-align: center;
+  max-width: 960px;
+  margin: auto;
 }
 
-footer a {
-  color: #007BFF;
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 1.5rem;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 960px;
+  margin: auto;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-right: 1rem;
+}
+
+.logo-link {
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  align-items: center;
+}
+
+.logo-link img {
+  height: 50px;
+  margin-right: 10px;
+}
+
+.logo img {
+  width: 2rem;
+  height: 2rem;
+}
+
+.logo-text {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: black;
+}
+
+.menu {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  flex-grow: 1;
+}
+
+.menu-item {
+  position: relative;
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+  color: #2d3748;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.menu-item:hover {
+  color: #f97316;
+}
+
+.arrow {
+  margin-left: 0.3rem;
+  font-size: 0.7rem;
+}
+
+.dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 0.375rem;
+  z-index: 10;
+  min-width: 150px;
+}
+
+.menu-item:hover .dropdown {
+  display: block;
+}
+
+.dropdown-item {
+  padding: 0.75rem 1rem;
+  display: block;
+  color: #2d3748;
   text-decoration: none;
 }
 
-footer .social-media a {
-  margin: 0 10px;
+.dropdown-item:hover {
+  background-color: #fdeacb;
+}
+
+.search-box {
+  margin: 0 1.5rem;
+}
+
+.search-input {
+  padding: 0.4rem 0.6rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 0.9rem;
+}
+
+.auth {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.signup-link {
+  color: #2563eb;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.signup-link:hover {
+  text-decoration: underline;
+}
+
+.login-btn {
+  background-color: #f97316;
+  color: white;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: background-color 0.2s ease;
+}
+
+.login-btn:hover {
+  background-color: #ea580c;
+}
+
+/* Nội dung */
+section img {
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+  font-size: 1.5rem;
+  color: #f97316;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  border-left: 4px solid #021106;
+  padding-left: 10px;
+}
+
+section p {
+  margin-bottom: 15px;
+  font-size: 1.05rem;
+}
+
+ul, ol {
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+ul li, ol li {
+  margin-bottom: 8px;
+}
+
+strong {
+  color: #021d3c;
+}
+
+em {
+  color: #f97316;
+  font-style: italic;
+}
+
+/* Footer */
+footer {
+  background-color: #2c6b36;
+  color: #fff;
+  font-size: 14px;
+  border-top: 3px solid #1a4d1b;
+  max-width: 960px;
+  margin: auto;
+  margin-top: 40px;
+  border-radius: 10px 10px 0 0;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 20px 40px;
+  background-color: #333;
+  gap: 20px;
+  border-radius: 10px 10px 0 0;
+}
+
+.footer-content > div {
+  flex: 1;
+  min-width: 220px;
+}
+
+.footer-content h4 {
+  margin-bottom: 8px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 4px;
+  color: #fff;
+  font-size: 15px;
+}
+
+.footer-content ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-content ul li {
+  margin-bottom: 6px;
+}
+
+.footer-content a {
+  color: white;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.footer-content a:hover {
+  text-decoration: underline;
+  color: rgb(203, 100, 31);
+  transition: color 0.3s ease;
+}
+
+.footer-bottom {
+  text-align: center;
+  background-color: #222;
+  color: white;
+  padding: 10px 0;
+  font-size: 13px;
+}
+
+/* Responsive */
+@media (max-width: 992px) {
+  .header, .menu {
+    flex-wrap: wrap;
+  }
+
+  .search-box {
+    margin-top: 0.5rem;
+  }
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 15px;
+  }
+
+  header h1 {
+    font-size: 1.8rem;
+  }
+
+  section h2 {
+    font-size: 1.3rem;
+  }
+
+  section p {
+    font-size: 1rem;
+  }
 }
