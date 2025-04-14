@@ -1,0 +1,804 @@
+/*Header*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem 1.5rem;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-right: 1rem;
+  }
+  .logo-link {
+      text-decoration: none;
+      color: inherit;
+      display: flex;
+      align-items: center;
+    }
+    .logo-link img {
+      height: 50px; /* hoặc tùy chỉnh */
+      margin-right: 10px;
+    }
+    
+  
+  .logo img {
+    width: 2rem;
+    height: 2rem;
+  }
+  
+  .logo-text {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: black;
+  }
+  
+  .menu {
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+    flex-grow: 1;
+  }
+  
+  .menu-item {
+    position: relative;
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+    color: #2d3748;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  
+  .menu-item:hover {
+    color: #f97316;
+  }
+  
+  .arrow {
+    margin-left: 0.3rem;
+    font-size: 0.7rem;
+  }
+  
+  .dropdown {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 0.375rem;
+    z-index: 10;
+    min-width: 150px;
+  }
+  
+  .menu-item:hover .dropdown {
+    display: block;
+  }
+  
+  .dropdown-item {
+    padding: 0.75rem 1rem;
+    display: block;
+    color: #2d3748;
+    text-decoration: none;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #fdeacb;
+  }
+  
+  .search-box {
+    margin: 0 1.5rem;
+  }
+  
+  .search-input {
+    padding: 0.4rem 0.6rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 0.9rem;
+  }
+  
+  .auth {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+  }
+  
+  .signup-link {
+    color: #2563eb;
+    text-decoration: none;
+    font-size: 0.9rem;
+  }
+  
+  .signup-link:hover {
+    text-decoration: underline;
+  }
+  
+  .login-btn {
+    background-color: #f97316;
+    color: white;
+    padding: 0.4rem 0.8rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: background-color 0.2s ease;
+  }
+  
+  .login-btn:hover {
+    background-color: #ea580c;
+  }
+  
+  @media (max-width: 992px) {
+    .header {
+      flex-wrap: wrap;
+    }
+  
+    .menu {
+      flex-wrap: wrap;
+    }
+  
+    .search-box {
+      margin-top: 0.5rem;
+    }
+  }
+  /*Footer*/
+  footer {
+    background-color: #2c6b36;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    font-size: 14px;
+    border-top: 3px solid #1a4d1b;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 20px 40px;
+    background-color: #333;
+    gap: 20px;
+  }
+  
+  .footer-content > div {
+    flex: 1;
+    min-width: 220px;
+  }
+  
+  .footer-content h4 {
+    margin-bottom: 8px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 4px;
+    color: #fff;
+    font-size: 15px;
+  }
+  
+  .footer-content ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-content ul li {
+    margin-bottom: 6px;
+  }
+  
+  .footer-content a {
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+  }
+  
+  .footer-content a:hover {
+    text-decoration: underline;
+    color: rgb(203, 100, 31);
+    transition: color 0.3s ease;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    background-color: #222;
+    color: white;
+    padding: 10px 0;
+    font-size: 13px;
+  }
+  /* Kỳ Co Eo Gió*/
+  .KyCoEoGio {
+    max-width: 800px;         /* Giới hạn chiều rộng */
+    margin: 0 auto;           /* Canh giữa */
+    padding: 1rem;            /* Khoảng cách với mép */
+    font-size: 1.1rem;        /* Cỡ chữ tổng thể */
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+.KyCoEoGio h1 {
+    color: #0077b6;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.KyCoEoGio section {
+    margin-bottom: 2.5rem;
+}
+
+.KyCoEoGio img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+    margin: 1rem 0;
+}
+
+.KyCoEoGio ul {
+    padding-left: 1.5rem;
+    list-style-type: disc;
+}
+
+.KyCoEoGio p,
+.KyCoEoGio li {
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+
+/* Responsive cho điện thoại */
+@media (max-width: 600px) {
+    .KyCoEoGio {
+        padding: 0.5rem;
+        font-size: 1rem;
+    }
+}
+/*Cù Lao XanhXanh*/
+.CuLaoXanh {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    line-height: 1.7;
+    font-size: 18px;
+    color: #333;
+}
+
+.CuLaoXanh h1 {
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #0e7b83;
+}
+
+.CuLaoXanh h2 {
+    font-size: 24px;
+    margin-top: 40px;
+    color: #126d6f;
+    border-bottom: 2px solid #d1ecee;
+    padding-bottom: 6px;
+}
+
+.CuLaoXanh p {
+    margin: 16px 0;
+    text-align: justify;
+}
+
+.CuLaoXanh ul {
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+.CuLaoXanh ul li {
+    margin-bottom: 10px;
+}
+
+.CuLaoXanh img {
+    border-radius: 6px;
+    margin: 20px 0;
+}
+
+.CuLaoXanh figure {
+    margin: 0;
+    text-align: center;
+}
+
+.CuLaoXanh figcaption {
+    font-size: 14px;
+    color: #666;
+    margin-top: 6px;
+}
+
+.CuLaoXanh a {
+    color: #0a84ae;
+    text-decoration: none;
+}
+
+.CuLaoXanh a:hover {
+    text-decoration: underline;
+}
+/*Hòn Khô*/
+.HonKho {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+    line-height: 1.7;
+    font-size: 17px;
+}
+
+.HonKho h1 {
+    font-size: 32px;
+    text-align: center;
+    color: #1a5f7a;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.HonKho h2 {
+    font-size: 22px;
+    margin-top: 30px;
+    color: #276678;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 6px;
+    font-weight: 600;
+}
+
+.HonKho p, .HonKho li {
+    font-size: 17px;
+    margin-bottom: 15px;
+}
+
+.HonKho ul {
+    padding-left: 20px;
+}
+
+.HonKho img {
+    border-radius: 8px;
+    margin-top: 10px;
+    transition: transform 0.3s ease;
+}
+
+.HonKho img:hover {
+    transform: scale(1.02);
+}
+
+.HonKho a {
+    color: #0077cc;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.HonKho a:hover {
+    text-decoration: underline;
+}
+/*Ghềnh Ráng Tiên Sa*/ 
+  article.GhenhRang {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    max-width: 800px;
+    margin: 0 auto;               /* canh giữa */
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  }
+  
+  article.GhenhRang > h1 {
+    font-size: 2.8rem;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #2c3e50;
+    letter-spacing: 1px;
+  }
+  
+  article.GhenhRang h2 {
+    font-size: 1.9rem;
+    font-weight: 600;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    color: #34495e;
+    border-left: 5px solid #f39c12;
+    padding-left: 0.75rem;
+  }
+  
+  article.GhenhRang p {
+    font-size: 1.15rem;
+    margin-bottom: 1.25rem;
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+  article.GhenhRang ul {
+    list-style: disc inside;
+    margin: 1rem 0;
+    padding-left: 1rem;
+  }
+  article.GhenhRang li {
+    margin-bottom: 0.75rem;
+    font-size: 1.05rem;
+  }
+  
+  article.GhenhRang img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 1.5rem auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  }
+  
+  article.GhenhRang a {
+    color: #f39c12;
+    text-decoration: none;
+    font-weight: 600;
+  }
+  article.GhenhRang a:hover {
+    text-decoration: underline;
+  }
+  
+  @media (max-width: 600px) {
+    body {
+      padding: 1rem;
+    }
+    article.GhenhRang {
+      padding: 1.5rem;
+    }
+    article.GhenhRang > h1 {
+      font-size: 2.2rem;
+    }
+    article.GhenhRang h2 {
+      font-size: 1.6rem;
+    }
+    article.GhenhRang p,
+    article.GhenhRang li {
+      font-size: 1rem;
+    }
+  }
+  /*Đồi Cát Phương Mai*/
+.DoiCat {
+    font-family: Arial, sans-serif;
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.DoiCat h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #de5510;
+    margin-bottom: 20px;
+}
+
+.DoiCat h2 {
+    font-size: 2rem;
+    color: #ba6a34;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.DoiCat p {
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.DoiCat ul {
+    font-size: 1rem;
+    color: #666;
+    margin-left: 20px;
+}
+
+.DoiCat li {
+    margin-bottom: 10px;
+}
+
+.DoiCat img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 1.5rem auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+.DoiCat figure {
+    text-align: center;
+}
+
+.DoiCat figcaption {
+    font-size: 1rem;
+    color: #999;
+    margin-top: 10px;
+}
+
+.DoiCat a {
+    color: #1e90ff;
+    text-decoration: none;
+}
+
+.DoiCat a:hover {
+    text-decoration: underline;
+}
+
+.DoiCat img[alt*="Trượt cát Phương Mai"] {
+    display: block;
+    margin: 20px auto;
+}
+
+.DoiCat section {
+    margin-bottom: 40px;
+}
+
+.DoiCat ul li {
+    font-size: 1.1rem;
+    color: #444;
+}
+
+  /*Đảo Yến*/
+article.DaoYenDaoYen {
+    font-family: 'Roboto', sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+article.DaoYenDaoYen h1 {
+    font-family: 'Merriweather', serif; /* Font chữ cho tiêu đề chính */
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2.2rem;
+}
+
+article.DaoYenDaoYen h2 {
+    font-family: 'Merriweather', serif; /* Font chữ cho tiêu đề phụ */
+    color: #2c3e50;
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+article.DaoYenDaoYen p {
+    font-size: 1.2rem;
+    text-align: justify;
+    margin-bottom: 20px;
+    color: #555;
+}
+
+article.DaoYenDaoYen strong {
+    font-weight: bold;
+    color: #e74c3c;
+}
+
+article.DaoYenDaoYen img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+article.DaoYenDaoYen button {
+    padding: 10px 20px;
+    background-color: #e74c3c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    display: block;
+    margin: 20px auto;
+}
+
+article.DaoYenDaoYen button:hover {
+    background-color: #c0392b;
+}
+
+article.DaoYenDaoYen a {
+    text-decoration: none;
+}
+
+article.DaoYenDaoYen section {
+    margin-bottom: 30px;
+}
+
+article.DaoYenDaoYen section h1,
+article.DaoYenDaoYen section h2,
+article.DaoYenDaoYen section p {
+    margin-top: 20px;
+}
+  /*Tháp Bánh Ít*/
+article.ThapBanhIt {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f1e1; /* Màu nền nhẹ nhàng giống giấy cổ */
+    color: #3c3c3c; /* Màu chữ đậm nhưng vẫn dễ nhìn */
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: justify;
+}
+
+article.ThapBanhIt h1, h2 {
+    font-family: 'Times New Roman', serif;
+    color: #4b2e1a; /* Màu nâu đất, gợi cảm giác cổ xưa */
+    text-align: center;
+    font-weight: bold;
+}
+
+article.ThapBanhIt h1 {
+    font-size: 2.5em;
+    letter-spacing: 2px; /* Tăng khoảng cách chữ để trông cổ kính hơn */
+    margin-bottom: 20px;
+}
+
+article.ThapBanhIt h2 {
+    font-size: 2em;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+article.ThapBanhIt p {
+    font-size: 1.1em;
+    text-align: justify;
+    margin-bottom: 15px;
+    line-height: 1.8;
+}
+
+article.ThapBanhIt ul, ol {
+    margin-left: 30px;
+}
+
+article.ThapBanhIt img {
+    max-width: 100%;
+    height: auto;
+    border: 5px solid #c3a17f; /* Viền màu vàng đất, gợi cảm giác cổ xưa */
+    margin-bottom: 20px;
+}
+
+article.ThapBanhIt figcaption {
+    font-size: 1.1em;
+    color: #7b4e2f; /* Màu nâu nhẹ nhàng cho sự cổ kính */
+    text-align: center;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+article.ThapBanhIt a {
+    color: #5c3b20; /* Màu nâu đậm cho liên kết */
+    text-decoration: none;
+}
+
+article.ThapBanhIt a:hover {
+    color: #b45f04; /* Màu vàng nhẹ khi hover */
+}
+
+article.ThapBanhIt ul li {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
+article.ThapBanhIt section {
+    margin-top: 30px;
+    padding: 10px;
+    border-top: 3px solid #c3a17f;
+}
+
+  /*Khu du lịch sinh thái Hầm Hô*/
+  .HamHo {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #1d3a2f; /* xanh rêu đậm */
+    background-color: #f5fdf8; /* xanh ngà nhẹ */
+    border-radius: 16px;
+    box-shadow: 0 0 20px rgba(29, 58, 47, 0.2);
+  }
+  
+  .HamHo h1, .HamHo h2 {
+    color: #0c5f3c;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin-bottom: 1rem;
+  }
+  
+  .HamHo h1 {
+    font-size: 2.5rem;
+    border-bottom: 3px solid #0c5f3c;
+    padding-bottom: 0.5rem;
+  }
+  
+  .HamHo h2 {
+    font-size: 1.8rem;
+    margin-top: 2.5rem;
+    position: relative;
+  }
+  
+  .HamHo h2::after {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 3px;
+    background-color: #0c5f3c;
+    margin: 8px auto 0;
+  }
+  
+  .HamHo figure {
+    text-align: center;
+    margin: 1.5rem 0;
+  }
+  
+  .HamHo img {
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .HamHo figcaption {
+    font-style: italic;
+    margin-top: 0.5rem;
+    color: #2c5d4f;
+  }
+  
+  .HamHo p {
+    line-height: 1.7;
+    font-size: 1.05rem;
+    margin: 1rem 0;
+  }
+  
+  .HamHo ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .HamHo ul li {
+    background-color: #e1f4e8;
+    margin: 0.5rem 0;
+    padding: 0.8rem 1rem;
+    border-left: 6px solid #0c5f3c;
+    border-radius: 8px;
+    font-size: 1.05rem;
+    display: flex;
+    align-items: center;
+  }
+  
+  .HamHo ul li strong {
+    color: #0c5f3c;
+  }
+  
+  .HamHo a {
+    color: #0c5f3c;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+  
+  .HamHo a:hover {
+    color: #085d3d;
+    text-decoration: none;
+  }
+  
+  .HamHo section {
+    margin-bottom: 2rem;
+  }
+  
