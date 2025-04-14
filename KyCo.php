@@ -8,58 +8,45 @@
   <link rel="stylesheet" href="./CSS/style.css">
 </head>
 <body>
-  <header>
-    <h1>Biển Kỳ Co – Maldives của Việt Nam</h1>
-  </header>
+<article>
+        <h1>Kỳ Co – Eo Gió: Cặp đôi tuyệt sắc của biển Quy Nhơn</h1>
 
-  <section>
-    <img src="https://saigontourist.net/uploads/destination/TrongNuoc/QuyNhon/eo-gio-bay.jpg" alt="Biển Kỳ Co" style="width:100%; height:auto; margin-bottom: 20px;">
-    
-    <p><strong>Biển Kỳ Co</strong> là một trong những điểm đến hấp dẫn bậc nhất của tỉnh Bình Định, cách trung tâm thành phố Quy Nhơn khoảng 25km về phía Đông Bắc. Với vẻ đẹp hoang sơ, nước biển xanh ngắt, bãi cát trắng mịn và địa hình đa dạng, Kỳ Co được ví như một <em>"thiên đường biển"</em> hay <em>"Maldives của Việt Nam"</em>.</p>
+        <section>
+            <p><strong>Kỳ Co</strong> và <strong>Eo Gió</strong> là hai địa điểm du lịch nổi tiếng nằm ở xã Nhơn Lý, cách trung tâm thành phố Quy Nhơn khoảng 20 km. Với cảnh sắc thiên nhiên tuyệt đẹp, làn nước biển trong xanh và những vách đá kỳ vĩ, đây là "combo" không thể thiếu trong hành trình khám phá Quy Nhơn của bất kỳ du khách nào.</p>
+        </section>
 
-    <h2>Vẻ đẹp nguyên sơ hiếm có</h2>
-    <p>Kỳ Co gây ấn tượng mạnh bởi làn nước biển trong xanh hai màu rõ rệt – xanh ngọc bích gần bờ và xanh thẫm khi ra xa. Bao quanh là những dãy núi đá vôi uốn lượn tạo thành bức tranh thiên nhiên hùng vĩ nhưng vẫn giữ được sự bình yên. Dưới ánh nắng, mặt nước lấp lánh như dát vàng khiến ai đến đây cũng phải trầm trồ.</p>
+        <section>
+            <h2>Kỳ Co – Maldives thu nhỏ của Việt Nam</h2>
+            <p>Nằm nép mình bên dãy núi xanh mướt, bãi biển Kỳ Co mang vẻ đẹp hoang sơ, quyến rũ với bãi cát trắng mịn và nước biển xanh ngọc. Biển nông, sóng êm, rất thích hợp cho các hoạt động tắm biển, chèo sup, đi moto nước hoặc đơn giản là thư giãn dưới bóng dừa mát rượi.</p>
+            <p>Điều đặc biệt ở Kỳ Co là bạn có thể bắt gặp những hồ nước nhỏ nằm giữa các khe đá ven biển – nơi sóng vỗ tạo thành “bể bơi tự nhiên” giữa đại dương. Khung cảnh vừa nên thơ vừa kỳ vĩ như trong phim điện ảnh.</p>
+        </section>
 
-    <p>Đặc biệt, Kỳ Co vẫn giữ được nét hoang sơ nguyên bản, chưa bị thương mại hóa nhiều, rất phù hợp với những ai yêu thích khám phá và nghỉ dưỡng trong không gian yên bình.</p>
+        <section>
+            <h2>Eo Gió – Nơi ngắm hoàng hôn đẹp nhất Quy Nhơn</h2>
+            <p><strong>Eo Gió</strong> được đặt tên vì hình dáng địa lý uốn cong như một cái eo, nơi gió thổi mạnh quanh năm. Đây là nơi lý tưởng để ngắm biển, leo núi nhẹ nhàng và đặc biệt là ngắm hoàng hôn – khoảnh khắc mặt trời chìm dần sau dãy núi tạo nên bức tranh thiên nhiên hùng vĩ, lãng mạn.</p>
+            <p>Con đường đi bộ ven núi tại Eo Gió với hàng rào đỏ đặc trưng, chạy dọc theo sườn đá sát biển, đã trở thành địa điểm check-in không thể bỏ lỡ với du khách trẻ.</p>
+        </section>
 
-    <h2>Con người địa phương và văn hóa</h2>
-    <p>Người dân Nhơn Lý thân thiện, mến khách và sống chủ yếu bằng nghề đánh bắt hải sản. Nếu có dịp, bạn hãy thử qua một đêm homestay cùng người dân để trải nghiệm đời sống làng chài, thưởng thức những món ăn truyền thống được chế biến từ nguyên liệu tươi sống ngay tại biển.</p>
+        <section>
+            <h2>Các hoạt động nổi bật</h2>
+            <ul>
+                <li><strong>Đi cano ra Kỳ Co:</strong> Trải nghiệm cảm giác vượt sóng, ngắm biển từ xa và cập bãi Kỳ Co như trong mơ.</li>
+                <li><strong>Chụp hình ở Eo Gió:</strong> Những vách đá, bãi đá đủ hình thù, đường cong uốn lượn tạo nên khung cảnh rất “cinematic”.</li>
+                <li><strong>Lặn ngắm san hô:</strong> Ở gần Kỳ Co có các điểm lặn ngắm san hô nông, nước trong vắt và dễ quan sát.</li>
+                <li><strong>Thưởng thức hải sản Nhơn Lý:</strong> Ghé lại làng chài Nhơn Lý để thưởng thức các món hải sản tươi như tôm hùm, cá mú, bạch tuộc nướng, sò điệp nướng mỡ hành...</li>
+            </ul>
+        </section>
 
-    <h2>Những trải nghiệm không thể bỏ lỡ</h2>
-    <https://saigontourist.net/uploads/destination/TrongNuoc/QuyNhon/eo-gio-bay.jpgul>
-      <li><strong>Đi ca nô</strong> từ bến Nhơn Lý ra đảo Kỳ Co – cảm giác mát lạnh, phấn khích với những con sóng nhỏ vỗ vào mạn thuyền.</li>
-      <li><strong>Lặn ngắm san hô</strong> tại Bãi Dứa – nơi có hệ sinh thái biển phong phú với nhiều loài cá nhiều màu sắc.</li>
-      <li><strong>Tắm biển và check-in</strong> tại những bãi cát trắng tinh, nước nông và êm dịu, rất an toàn cho cả trẻ em.</li>
-      <li><strong>Leo núi</strong> và khám phá các hang đá, hẻm núi sát biển độc đáo – nơi bạn có thể bắt gặp những "hồ bơi tự nhiên" giữa lòng đá.</li>
-      <li><strong>Thưởng thức hải sản tươi ngon</strong> như nhum nướng mỡ hành, cá bò da nướng, sò điệp hấp sả, tôm hùm nướng…</li>
-    </ul>
+        <section>
+            <h2>Di chuyển đến Kỳ Co – Eo Gió</h2>
+            <p>Từ trung tâm Quy Nhơn, bạn có thể di chuyển bằng xe máy hoặc ô tô qua cầu Thị Nại để đến xã Nhơn Lý. Từ đây, đi cano hoặc đường bộ (tuỳ chọn dịch vụ) để ra bãi Kỳ Co. Eo Gió nằm gần khu dân cư Nhơn Lý, rất thuận tiện cho việc di chuyển trong ngày.</p>
+        </section>
 
-    <h2>Gợi ý lịch trình khám phá Kỳ Co trong 1 ngày</h2>
-    <ol>
-      <li><strong>07h00:</strong> Xuất phát từ thành phố Quy Nhơn bằng xe máy hoặc ô tô riêng.</li>
-      <li><strong>08h00:</strong> Đến bến Nhơn Lý, di chuyển bằng ca nô ra Kỳ Co.</li>
-      <li><strong>08h30 – 11h00:</strong> Tham quan, tắm biển, lặn ngắm san hô.</li>
-      <li><strong>11h00 – 12h30:</strong> Ăn trưa tại nhà hàng trên bãi biển.</li>
-      <li><strong>13h00 – 14h30:</strong> Tham quan Bãi Dứa, các hồ nước tự nhiên và check-in.</li>
-      <li><strong>15h00:</strong> Trở về lại đất liền, kết thúc hành trình.</li>
-    </ol>
-
-    <h2>Tại sao gọi là “Maldives của Việt Nam”?</h2>
-    <p>Chính là nhờ vẻ đẹp tự nhiên thuần khiết, nước biển trong như pha lê, những khu vực đá và rạn san hô đa dạng cùng sự riêng tư, yên tĩnh. Không cần phải bay xa tới Maldives, chỉ cần đến Kỳ Co là bạn đã có thể đắm mình trong không gian biển đảo lý tưởng này.</p>
-
-    <h2>Thời điểm lý tưởng để du lịch Kỳ Co</h2>
-    <p>Khoảng thời gian từ <strong>tháng 3 đến tháng 9</strong> là mùa khô, biển êm và nắng đẹp – rất thuận lợi để đi ca nô và tham quan. Tránh đi vào mùa mưa (tháng 10–2) vì biển động và nhiều dịch vụ có thể bị tạm ngưng.</p>
-
-    <h2>Một vài lưu ý hữu ích</h2>
-    <ul>
-      <li>Chuẩn bị kem chống nắng, kính mát, mũ rộng vành.</li>
-      <li>Máy ảnh hoặc điện thoại đầy pin để không bỏ lỡ khoảnh khắc đẹp.</li>
-      <li>Nên đặt tour có hướng dẫn viên để được hỗ trợ tận tình.</li>
-      <li>Không xả rác bừa bãi – hãy cùng bảo vệ vẻ đẹp hoang sơ của Kỳ Co.</li>
-    </ul>
-
-    <p>Với tất cả những điều tuyệt vời trên, <strong>Kỳ Co</strong> xứng đáng là một trong những thiên đường biển đẹp nhất Việt Nam. Nếu bạn đang tìm kiếm một nơi để thư giãn, hòa mình vào thiên nhiên và nạp lại năng lượng, thì đừng chần chừ – hãy lên kế hoạch khám phá Kỳ Co ngay hôm nay!</p>
-  </section>
+        <section>
+            <h2>Lời kết</h2>
+            <p><strong>Kỳ Co – Eo Gió</strong> là sự kết hợp hoàn hảo giữa biển xanh, cát trắng và núi đá kỳ vĩ, mang đến trải nghiệm khó quên cho du khách. Nếu bạn đang tìm một nơi vừa đẹp, vừa dễ đi, vừa nhiều hoạt động thú vị thì đây chính là điểm đến không thể bỏ lỡ ở Quy Nhơn.</p>
+        </section>
+    </article>
 </body>
 </html>
 <?php include('Includes/footer.php'); ?>

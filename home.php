@@ -14,7 +14,7 @@
     <img src="https://ik.imagekit.io/tvlk/blog/2022/09/cu-lao-xanh-1.jpg?tr=dpr-2,w-675" class="banner-image" />
     <img src="https://focusasiatravel.vn/wp-content/uploads/2020/02/thap-doi-quy-nhon.jpg" class="banner-image" />
     <img src="https://www.elle.vn/wp-content/uploads/2018/09/24/elle-viet-nam-nhon-ly-5.jpg" class="banner-image" />
-    <h2 class="banner-text">TRẢI NGHIỆM QUY NHƠN</h2>
+    <h2 class="banner-text">TRẢI NGHIỆM BÌNH ĐỊNH</h2>
   </section>
 
   <!-- Vì sao chọn QNTour -->
@@ -54,7 +54,7 @@
       <div class="guide-content">
         <h3>Biển Kỳ Co – Maldives của Việt Nam</h3>
         <p>Nơi biển xanh, cát trắng và những trải nghiệm khó quên...</p>
-        <a href="#" class="guide-button">Xem chi tiết</a>
+        <a href="KyCo.php" class="guide-button">Xem chi tiết</a>
       </div>
     </div>
 

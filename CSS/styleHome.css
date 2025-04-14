@@ -645,16 +645,13 @@
     padding: 10px 0;
     font-size: 13px;
 }
-/*Style heaader*/
+/*Style header*/
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
 
-body {
-  font-family: Arial, sans-serif;
-}
 
 .header {
   display: flex;
@@ -663,6 +660,7 @@ body {
   padding: 0.75rem 1.5rem;
   background-color: white;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
 }
 
 .logo {
