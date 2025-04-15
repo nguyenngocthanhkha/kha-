@@ -2,20 +2,20 @@
   <div class="header">
     <!-- Logo -->
     <div class="logo">
-      <a href="./home.php" class="logo-link">
+      <a href="/kha-/home.php" class="logo-link">
         <img src="https://icon-library.com/images/icon-for-travel/icon-for-travel-13.jpg" alt="Logo" />
         <div class="logo-text">QNTour</div>
       </a>
     </div>
     <!-- Menu -->
     <nav class="menu">
-      <a href="./home.php" class="menu-item">Trang chủ</a>
+      <a href="/kha-/home.php" class="menu-item">Trang chủ</a>
 
       <div class="menu-item">
         Cẩm nang du lịch <span class="arrow">&#9660;</span>
         <div class="dropdown">
-          <a href="./FamousLocation.php" class="dropdown-item">Địa điểm nổi tiếng</a>
-          <a href="./Checklist.php" class="dropdown-item">Chuẩn bị hành lý</a>
+          <a href="/kha-/FamousLocation.php" class="dropdown-item">Địa điểm nổi tiếng</a>
+          <a href="/kha-/Checklist.php" class="dropdown-item">Chuẩn bị hành lý</a>
         </div>
       </div>
 

@@ -13,7 +13,7 @@
                     <li><a href="#">Cẩm nang du lịch</a></li>
                     <li><a href="#">Nghiện cafe </a></li>
                     <li><a href="#">Dịch vụ khác</a></li>
-                    <li><a href="./Pages/PrivacyPolicy.php" target="_blank" rel="noopener noreferrer">Chính sách bảo mật</a></li>
+                    <li><a href="/kha-/Pages/PrivacyPolicy.php" target="_blank" rel="noopener noreferrer">Chính sách bảo mật</a></li>
                 </ul>
             </div>
             <div>

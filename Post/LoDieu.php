@@ -1,11 +1,11 @@
-<?php include('Includes/header.php'); ?>
+<?php include('../Includes/header.php'); ?>
 <!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Di tích nơi cập bến tàu không số Lộ Diêu - Thị xã Hoài Nhơn</title>
-    <link rel="stylesheet" href="./CSS/stylePost.css">
+    <link rel="stylesheet" href="../CSS/stylePost.css">
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap&subset=vietnamese" rel="stylesheet">
 </head>
 <body>
@@ -106,4 +106,4 @@
 </article>
 </body>
 </html>
-<?php include('Includes/footer.php'); ?>
+<?php include('../Includes/footer.php'); ?>

@@ -17,28 +17,34 @@
 
     .logo {
       display: flex;
+      justify-content: left;
       align-items: center;
-      gap: 0.5rem;
-      margin-right: 1rem;
+
+
+
     }
     .logo-link {
         text-decoration: none;
         color: inherit;
         display: flex;
         align-items: center;
+        justify-content: left;
+        margin: 20px 20px;
       }
       .logo-link img {
+
         height: 50px; /* hoặc tùy chỉnh */
-        margin-right: 10px;
+        margin: 0px;
       }
       
 
     .logo img {
-      width: 2rem;
+      /* width: 2rem; */
       height: 2rem;
     }
 
     .logo-text {
+
       font-size: 1.5rem;
       font-weight: bold;
       color: black;

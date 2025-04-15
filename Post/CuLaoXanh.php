@@ -1,11 +1,11 @@
-<?php include('Includes/header.php'); ?>
+<?php include('../Includes/header.php'); ?>
 <!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cù Lao Xanh – Đảo Nhơn Châu</title>
-    <link rel="stylesheet" href="./CSS/stylePost.css">
+    <link rel="stylesheet" href="../CSS/stylePost.css">
 
 </head>
 <body>
@@ -103,4 +103,4 @@
 
 </body>
 </html>
-<?php include('Includes/footer.php'); ?>
+<?php include('../Includes/footer.php'); ?>
