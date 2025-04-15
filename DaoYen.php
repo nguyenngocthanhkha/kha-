@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Đảo Yến Bình Định - Bán Đảo Phương Mai</title>
     <link rel="stylesheet" href="./CSS/stylePost.css">
-    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&family=Merriweather&display=swap" rel="stylesheet">
 </head>
 <body>
 <article class="DaoYenDaoYen">
@@ -103,5 +103,4 @@
 </article>
 </body>
 </html>
-
 <?php include('Includes/footer.php'); ?>
