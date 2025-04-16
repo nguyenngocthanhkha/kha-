@@ -15,7 +15,7 @@
         Cẩm nang du lịch <span class="arrow">&#9660;</span>
         <div class="dropdown">
           <a href="/kha-/FamousLocation.php" class="dropdown-item">Địa điểm nổi tiếng</a>
-          <a href="/kha-/Checklist.php" class="dropdown-item">Chuẩn bị hành lý</a>
+          <a href="/kha-/Checklist.php" class="dropdown-item">Mẹo du lịch</a>
         </div>
       </div>
 

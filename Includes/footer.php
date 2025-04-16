@@ -9,7 +9,7 @@
             <div>
                 <h4>Liên Kết Nhanh</h4>
                 <ul>
-                    <li><a href="./home.php">Trang Chủ</a></li>
+                    <li><a href="/kha-/home.php">Trang Chủ</a></li>
                     <li><a href="#">Cẩm nang du lịch</a></li>
                     <li><a href="#">Nghiện cafe </a></li>
                     <li><a href="#">Dịch vụ khác</a></li>
