@@ -13,7 +13,7 @@
 </head>
 
 <body>
-    <article class="ThapBanhIt">
+    <article class="style2">
         <section>
             <h1>Tháp Bánh Ít - Biểu tượng của nền văn hóa Chăm Pa</h1>
             <figure>
@@ -66,7 +66,11 @@
 
         <section>
             <h2>Hình Ảnh về Tháp Bánh Ít</h2>
-            <img src="https://static.vinwonders.com/production/thap-banh-it-banner.jpg" alt="Tháp Bánh Ít" width="100%">
+            <figure>
+                <img src="https://static.vinwonders.com/production/thap-banh-it-banner.jpg" alt="Tháp Bánh Ít">
+                <figcaption>Hình ảnh tháp Bánh Ít với các hoa văn điêu khắc tinh xảo, phản ánh sự tài hoa của nghệ nhân
+                    Chăm.</figcaption>
+            </figure>
             <p>Hình ảnh của Tháp Bánh Ít, với kiến trúc đặc trưng của người Chăm, thu hút nhiều khách du lịch và nhà
                 nghiên cứu. Được xây dựng bằng gạch nung, tháp có các họa tiết hoa văn được chạm khắc tinh xảo, phản ánh
                 sự tài hoa của các nghệ nhân Chăm. Tháp Bánh Ít cao khoảng 20m, với bốn tháp nhỏ và một tháp lớn nằm

@@ -14,16 +14,19 @@
 
 <body>
 
-    <article class="GhenhRang">
+    <article class="style3">
         <h1>Ghềnh Ráng Tiên Sa – Vẻ đẹp nên thơ giữa lòng Quy Nhơn</h1>
 
         <section>
             <p><strong>Ghềnh Ráng Tiên Sa</strong> là một trong những danh thắng nổi tiếng bậc nhất của thành phố Quy
                 Nhơn, tỉnh Bình Định. Cách trung tâm thành phố chỉ khoảng 3 km về phía Đông Nam, nơi đây nổi bật với vẻ
                 đẹp nên thơ, hữu tình, gắn liền với nhiều dấu ấn văn hóa và lịch sử.</p>
-            <!-- Ảnh minh họa cho Ghềnh Ráng Tiên Sa -->
-            <img src="https://static.vinwonders.com/production/ghenh-rang-tien-sa-banner.jpg" alt="Ghềnh Ráng Tiên Sa"
-                width="100%" />
+            <figure>
+                <img src="https://static.vinwonders.com/production/ghenh-rang-tien-sa-banner.jpg"
+                    alt="Ghềnh Ráng Tiên Sa" width="100%" />
+                <figcaption>Toàn cảnh Ghềnh Ráng Tiên Sa nhìn từ trên cao, nơi biển và đá hòa quyện tuyệt đẹp.
+                </figcaption>
+            </figure>
         </section>
 
         <section>
@@ -34,9 +37,11 @@
                 đáo.</p>
             <p>Không chỉ có cảnh đẹp, Ghềnh Ráng còn là nơi gắn liền với thi sĩ <strong>Hàn Mặc Tử</strong>. Đây là nơi
                 ông an nghỉ và cũng là nơi nhiều du khách đến để tưởng niệm và cảm nhận không gian đậm chất thi ca.</p>
-            <!-- Ảnh minh họa cho Bãi Đá Trứng -->
-            <img src="https://culaogieng.com/wp-content/uploads/2021/04/1-ghenh-rang-tien-sa.jpg" alt="Bãi Đá Trứng"
-                width="100%" />
+            <figure>
+                <img src="https://culaogieng.com/wp-content/uploads/2021/04/1-ghenh-rang-tien-sa.jpg" alt="Bãi Đá Trứng"
+                    width="100%" />
+                <figcaption>Những tảng đá tròn tại Bãi Đá Trứng tạo nên khung cảnh kỳ thú ven biển.</figcaption>
+            </figure>
         </section>
 
         <section>
@@ -59,9 +64,12 @@
             <p>Tại Ghềnh Ráng, bạn còn có thể gặp những nghệ sĩ khắc thơ Hàn Mặc Tử trên gỗ, đá, lưu giữ tinh hoa thi ca
                 cho du khách gần xa. Đây là nơi mà thơ và cảnh hòa quyện, tạo nên một nét rất riêng cho vùng đất này.
             </p>
-            <!-- Ảnh minh họa cho không gian văn hóa thi ca -->
-            <img src="https://halotravel.vn/wp-content/uploads/2020/08/H%C3%A0n-M%E1%BA%B7c-T%E1%BB%AD-3.jpg"
-                alt="Không gian văn hóa thi ca" width="100%" />
+            <figure>
+                <img src="https://halotravel.vn/wp-content/uploads/2020/08/H%C3%A0n-M%E1%BA%B7c-T%E1%BB%AD-3.jpg"
+                    alt="Không gian văn hóa thi ca" width="100%" />
+                <figcaption>Du khách tham quan khu vực khắc thơ Hàn Mặc Tử tại Ghềnh Ráng, không gian đậm chất thi ca.
+                </figcaption>
+            </figure>
         </section>
 
         <section>

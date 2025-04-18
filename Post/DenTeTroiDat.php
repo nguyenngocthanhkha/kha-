@@ -9,12 +9,11 @@
     <link rel="stylesheet" href="../CSS/stylePost.css">
     <link rel="stylesheet" href="../CSS/styleHeader.css">
     <link rel="stylesheet" href="../CSS/styleFooter.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 
 </head>
 
 <body>
-    <article class="DenTe">
+    <article class="style1">
         <section>
             <h1>Đàn tế Trời Đất Ấn Sơn – Điểm đến tâm linh giữa núi non huyền thoại</h1>
             <p>
@@ -24,8 +23,12 @@
                 Đây là nơi tưởng niệm, chiêm bái và là điểm đến hấp dẫn dành cho những ai yêu lịch sử phong trào Tây
                 Sơn.
             </p>
-            <img src="https://quynhonhotel.com/wp-content/uploads/2020/12/dan-te-troi-dat-tay-son-dai-kinh-thien-quynhonhotel-14.jpg"
-                alt="Toàn cảnh Đàn tế Ấn Sơn" style="width: 100%; max-width: 700px; display: block; margin: 1em auto;">
+            <<figure>
+                <img src="https://quynhonhotel.com/wp-content/uploads/2020/12/dan-te-troi-dat-tay-son-dai-kinh-thien-quynhonhotel-14.jpg"
+                    alt="Toàn cảnh Đàn tế Ấn Sơn">
+                <figcaption>Toàn cảnh Đàn tế Ấn Sơn</figcaption>
+                </figure>
+
         </section>
 
         <section>
@@ -40,8 +43,12 @@
                 Tương truyền rằng, sau khi chiếm được long huyệt ở Hoành Sơn, ba anh em Nguyễn Nhạc – Nguyễn Huệ –
                 Nguyễn Lữ đã lập đàn tế trời tại đây để cầu cho đại nghiệp thành công.
             </p>
-            <img src="https://quynhonhotel.com/wp-content/uploads/2020/12/dan-te-troi-dat-tay-son-dai-kinh-thien-quynhonhotel-19.jpg"
-                alt="Khu vực tế lễ tại Ấn Sơn" style="width: 100%; max-width: 700px; display: block; margin: 1em auto;">
+            <figure>
+                <img src="https://quynhonhotel.com/wp-content/uploads/2020/12/dan-te-troi-dat-tay-son-dai-kinh-thien-quynhonhotel-19.jpg"
+                    alt="Khu vực tế lễ tại Ấn Sơn">
+                <figcaption>Khu vực tế lễ tại Ấn Sơn</figcaption>
+            </figure>
+
         </section>
 
         <section>
@@ -55,8 +62,12 @@
                 Sự kết hợp hài hòa giữa địa thế và phong thủy khiến nơi đây trở thành không gian linh thiêng, thích hợp
                 để xây dựng đàn tế trời mang tầm vóc quốc gia.
             </p>
-            <img src="https://quynhonhotel.com/wp-content/uploads/2020/12/dan-te-troi-dat-tay-son-dai-kinh-thien-quynhonhotel-17.jpg"
-                alt="Phong cảnh núi Hoành Sơn" style="width: 100%; max-width: 700px; display: block; margin: 1em auto;">
+            <<figure>
+                <img src="https://quynhonhotel.com/wp-content/uploads/2020/12/dan-te-troi-dat-tay-son-dai-kinh-thien-quynhonhotel-17.jpg"
+                    alt="Phong cảnh núi Hoành Sơn">
+                <figcaption>Phong cảnh núi Hoành Sơn</figcaption>
+                </figure>
+
         </section>
 
         <section>
@@ -72,9 +83,12 @@
                 <li><strong>Tầng thấp nhất</strong> (Tầng Người): Có cổng tam quan, hồ bán nguyệt, bình phong đá và các
                     nghi môn truyền thống.</li>
             </ul>
-            <img src="https://quynhonhotel.com/wp-content/uploads/2020/12/dan-te-troi-dat-tay-son-dai-kinh-thien-quynhonhotel-27.jpg"
-                alt="Kiến trúc Viên Đàn và Phương Đàn"
-                style="width: 100%; max-width: 700px; display: block; margin: 1em auto;">
+            <figure>
+                <img src="https://quynhonhotel.com/wp-content/uploads/2020/12/dan-te-troi-dat-tay-son-dai-kinh-thien-quynhonhotel-27.jpg"
+                    alt="Kiến trúc Viên Đàn và Phương Đàn">
+                <figcaption>Kiến trúc Viên Đàn và Phương Đàn</figcaption>
+            </figure>
+
         </section>
 
         <section>

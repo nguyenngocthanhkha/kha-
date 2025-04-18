@@ -40,8 +40,8 @@ function hienThiBaiVietTheoChuyenMuc($conn, $chuyenMucId, $soBaiMoiTrang = 12) {
     echo '</div>';
     echo '</section>';
 
-    // Hiển thị phân trang nếu có từ 2 trang trở lên
-    if ($tongTrang > 1) {
+    // Hiển thị phân trang 
+    if ($tongTrang >= 1) {
         echo '<div class="pagination">';
         for ($i = 1; $i <= $tongTrang; $i++) {
             if ($i == $trangHienTai) {

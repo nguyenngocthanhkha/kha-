@@ -9,17 +9,18 @@
     <link rel="stylesheet" href="../CSS/stylePost.css">
     <link rel="stylesheet" href="../CSS/styleHeader.css">
     <link rel="stylesheet" href="../CSS/styleFooter.css">
-    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
 </head>
 
 <body>
-    <article class="NguyenTrungTruc">
+    <article class="style1">
         <h1>Đền thờ Nguyễn Trung Trực – Hành trình trở về với hào khí dân tộc giữa lòng Phù Cát</h1>
 
         <section>
-            <img src="https://quynhonhotel.com/wp-content/uploads/2023/02/toan-canh-den-tho-nguyen-trung-truc-tu-tren-cao-quy-nhon-hotel.jpg"
-                alt="Toàn cảnh đền thờ Nguyễn Trung Trực"
-                style="width: 100%; max-height: 500px; object-fit: cover; margin-bottom: 20px;">
+            <figure>
+                <img src="https://quynhonhotel.com/wp-content/uploads/2023/02/toan-canh-den-tho-nguyen-trung-truc-tu-tren-cao-quy-nhon-hotel.jpg"
+                    alt="Toàn cảnh đền thờ Nguyễn Trung Trực">
+                <figcaption>Toàn cảnh đền thờ Nguyễn Trung Trực</figcaption>
+            </figure>
             <p>Giữa miền quê yên bình của huyện Phù Cát, tỉnh Bình Định – nơi nắng gió hòa quyện cùng tiếng sóng biển xa
                 xăm – có một ngôi đền lặng lẽ nhưng đầy uy nghi, gìn giữ hình bóng một vị anh hùng dân tộc đã đi vào
                 lịch sử với tinh thần <em>"thà chết chứ không chịu khuất"</em>. Đó là <strong>Đền thờ Nguyễn Trung
@@ -44,8 +45,11 @@
             <h2>🏯 Giới thiệu về Đền thờ</h2>
             <p>Được xây dựng đầu những năm 2000, đền thờ là nơi tưởng nhớ công lao và tinh thần bất khuất của ông, đồng
                 thời là địa chỉ đỏ trong các hoạt động truyền thống địa phương.</p>
-            <img src="https://quynhonhotel.com/wp-content/uploads/2023/02/kien-truc-den-tho-nguyen-trung-truc-binh-dinh-quynhonhotel-768x543.jpg"
-                alt="Cổng đền thờ Nguyễn Trung Trực" style="width:100%; margin-top:10px; border-radius: 8px;">
+            <figure>
+                <img src="https://quynhonhotel.com/wp-content/uploads/2023/02/kien-truc-den-tho-nguyen-trung-truc-binh-dinh-quynhonhotel-768x543.jpg"
+                    alt="Cổng đền thờ Nguyễn Trung Trực">
+                <figcaption>Cổng đền thờ Nguyễn Trung Trực</figcaption>
+            </figure>
         </section>
 
         <section>
@@ -57,8 +61,11 @@
                 <li>Khuôn viên rộng rãi, cây xanh tỏa bóng mát.</li>
                 <li>Các ban thờ phụ và khu trưng bày tư liệu lịch sử hai bên chính điện.</li>
             </ul>
-            <img src="https://bvhttdl.mediacdn.vn/2020/9/17/binh-dinh-1600310221235530854261.jpg"
-                alt="Bố cục đền thờ Nguyễn Trung Trực." style="width:100%; margin-top:10px; border-radius: 8px;">
+            <figure>
+                <img src="https://bvhttdl.mediacdn.vn/2020/9/17/binh-dinh-1600310221235530854261.jpg"
+                    alt="Bố cục đền thờ Nguyễn Trung Trực.">
+                <figcaption>Bố cục đền thờ Nguyễn Trung Trực</figcaption>
+            </figure>
         </section>
 
         <section>

@@ -15,7 +15,7 @@
 </head>
 
 <body>
-    <article class="ChuaOngNui">
+    <article class="style2">
         <h1>Khám Phá Chùa Ông Núi – Linh Phong Sơn Tự Huyền Bí Giữa Núi Rừng Bình Định</h1>
         <p>
             Chùa Ông Núi, hay còn gọi là Linh Phong Sơn Tự, không chỉ là một điểm du lịch tâm linh nổi bật của Bình
@@ -25,9 +25,11 @@
             đến vùng đất an yên này.
         </p>
 
-        <img src="https://disantrangan.vn/wp-content/uploads/2022/01/chua_ong_nui_03.jpg" alt="Toàn cảnh chùa Ông Núi"
-            style="width:100%; height:auto; margin-bottom: 1rem;">
-
+        <figure>
+            <img src="https://disantrangan.vn/wp-content/uploads/2022/01/chua_ong_nui_03.jpg"
+                alt="Toàn cảnh chùa Ông Núi">
+            <figcaption>Toàn cảnh chùa Ông Núi</figcaption>
+        </figure>
         <section>
             <h2>Vị trí và khung cảnh thiên nhiên</h2>
             <p>
@@ -35,8 +37,11 @@
                 không gian thanh tịnh và
                 cảnh quan hùng vĩ. Đây là nơi lý tưởng để du khách hòa mình vào thiên nhiên và tận hưởng vẻ đẹp núi non.
             </p>
-            <img src="https://cdn3.ivivu.com/2018/03/tuong-phat-chua-ong-nui-ivivu-2.jpg"
-                alt="Cảnh quan núi non quanh chùa" style="width:100%; height:auto;">
+            <figure>
+                <img src="https://cdn3.ivivu.com/2018/03/tuong-phat-chua-ong-nui-ivivu-2.jpg"
+                    alt="Cảnh quan núi non quanh chùa">
+                <figcaption>Cảnh quan núi non quanh chùa</figcaption>
+            </figure>
         </section>
 
         <section>
@@ -58,8 +63,11 @@
                 Sau khi viên tịch, người dân lập tháp tưởng niệm và bảo tồn hang Tổ để ghi nhớ công đức của ông. Ngày
                 nay, nơi đây là điểm hành hương linh thiêng.
             </p>
-            <img src="https://th.bing.com/th/id/R.e5629c1bab8cf3bcf7ddee6dd9189e27?rik=IXtV7U38HppQBQ&riu=http%3a%2f%2fmedia.dulich24.com.vn%2fdiemden%2fchua-ong-nui-7902%2f835f941e-91c4-47db-8621-6fa559267e19.jpg&ehk=89CsWncik0Iad5Pq8Iye8juNFgk2ICd5tuSMixEuiJM%3d&risl=&pid=ImgRaw&r=0"
-                alt="Tượng Phật tại chùa Ông Núi" style="width:100%; height:auto;">
+            <figure>
+                <img src="https://th.bing.com/th/id/R.e5629c1bab8cf3bcf7ddee6dd9189e27?rik=IXtV7U38HppQBQ&riu=http%3a%2f%2fmedia.dulich24.com.vn%2fdiemden%2fchua-ong-nui-7902%2f835f941e-91c4-47db-8621-6fa559267e19.jpg&ehk=89CsWncik0Iad5Pq8Iye8juNFgk2ICd5tuSMixEuiJM%3d&risl=&pid=ImgRaw&r=0"
+                    alt="Tượng Phật tại chùa Ông Núi">
+                <figcaption>Tượng Phật tại chùa Ông Núi</figcaption>
+            </figure>
         </section>
 
         <section>
@@ -114,8 +122,11 @@
         </section>
 
         <section>
-            <img src="https://datviettour.com.vn/uploads/images/tin-tuc-SEO/mien-trung/quy-nhon/danh-thang/chua-ong-nui-1.jpg"
-                alt="Tượng Phật tại chùa Ông Núi" style="width:100%; height:auto;">
+            <figure>
+                <img src="https://datviettour.com.vn/uploads/images/tin-tuc-SEO/mien-trung/quy-nhon/danh-thang/chua-ong-nui-1.jpg"
+                    alt="Tượng Phật tại chùa Ông Núi">
+                <figcaption>Tượng Phật tại chùa Ông Núi vào buổi đêm</figcaption>
+            </figure>
             <h2>Chốn tìm về sự bình yên</h2>
             <p>
                 Chùa Ông Núi không chỉ là nơi để cầu nguyện mà còn là không gian để tìm lại sự bình yên, lắng đọng trong

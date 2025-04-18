@@ -10,15 +10,15 @@
     <link rel="stylesheet" href="./CSS/styleFooter.css">
     <link rel="stylesheet" href="./CSS/style.css">
 </head>
+
 <body>
-<?php
+    <?php
 include 'Database/db_connect.php';
 include 'PHP/renderPost.php';
-
-$chuyenMucId = 1; // hoặc lấy từ URL: (isset($_GET['cm']) ? (int)$_GET['cm'] : 1);
+$chuyenMucId = 1;
 hienThiBaiVietTheoChuyenMuc($conn, $chuyenMucId);
 ?>
-
 </body>
+
 </html>
 <?php include('Includes/footer.php'); ?>

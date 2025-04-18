@@ -12,12 +12,15 @@
 </head>
 
 <body>
-    <article class="KyCoEoGio">
+    <article class="style3">
         <h1>Kỳ Co – Eo Gió: Cặp đôi tuyệt sắc của biển Quy Nhơn</h1>
 
         <section>
-            <img src="https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2020/03/ky-co-tu-cao.jpg"
-                alt="Toàn cảnh Kỳ Co và Eo Gió từ trên cao" />
+            <figure>
+                <img src="https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2020/03/ky-co-tu-cao.jpg"
+                    alt="Toàn cảnh Kỳ Co và Eo Gió từ trên cao" />
+                <figcaption>Toàn cảnh Kỳ Co và Eo Gió nhìn từ trên cao.</figcaption>
+            </figure>
             <p><strong>Kỳ Co</strong> và <strong>Eo Gió</strong> là hai địa điểm du lịch nổi tiếng nằm ở xã Nhơn Lý,
                 cách trung tâm thành phố Quy Nhơn khoảng 20 km. Với cảnh sắc thiên nhiên tuyệt đẹp, làn nước biển trong
                 xanh và những vách đá kỳ vĩ, đây là "combo" không thể thiếu trong hành trình khám phá Quy Nhơn của bất
@@ -26,8 +29,11 @@
 
         <section>
             <h2>Kỳ Co – Maldives thu nhỏ của Việt Nam</h2>
-            <img src="https://thumbs.dreamstime.com/b/ky-co-island-beach-wild-binh-dinh-viet-nam-117106497.jpg"
-                alt="Bãi biển Kỳ Co với nước xanh trong vắt và cát trắng" />
+            <figure>
+                <img src="https://thumbs.dreamstime.com/b/ky-co-island-beach-wild-binh-dinh-viet-nam-117106497.jpg"
+                    alt="Bãi biển Kỳ Co với nước xanh trong vắt và cát trắng" />
+                <figcaption>Biển Kỳ Co hoang sơ với cát trắng và nước xanh ngọc.</figcaption>
+            </figure>
             <p>Nằm nép mình bên dãy núi xanh mướt, bãi biển Kỳ Co mang vẻ đẹp hoang sơ, quyến rũ với bãi cát trắng mịn
                 và nước biển xanh ngọc. Biển nông, sóng êm, rất thích hợp cho các hoạt động tắm biển, chèo sup, đi moto
                 nước hoặc đơn giản là thư giãn dưới bóng dừa mát rượi.</p>
@@ -40,8 +46,11 @@
 
         <section>
             <h2>Eo Gió – Nơi ngắm hoàng hôn đẹp nhất Quy Nhơn</h2>
-            <img src="https://datviettour.com.vn/uploads/images/tin-tuc-SEO/mien-trung/quy-nhon/danh-thang/hoang-hon-tai-eo-giio.jpg"
-                alt="Hoàng hôn rực rỡ tại Eo Gió" />
+            <figure>
+                <img src="https://datviettour.com.vn/uploads/images/tin-tuc-SEO/mien-trung/quy-nhon/danh-thang/hoang-hon-tai-eo-giio.jpg"
+                    alt="Hoàng hôn rực rỡ tại Eo Gió" />
+                <figcaption>Hoàng hôn rực rỡ tại Eo Gió – điểm ngắm hoàng hôn lý tưởng.</figcaption>
+            </figure>
             <p><strong>Eo Gió</strong> được đặt tên vì hình dáng địa lý uốn cong như một cái eo, nơi gió thổi mạnh quanh
                 năm. Đây là nơi lý tưởng để ngắm biển, leo núi nhẹ nhàng và đặc biệt là ngắm hoàng hôn – khoảnh khắc mặt
                 trời chìm dần sau dãy núi tạo nên bức tranh thiên nhiên hùng vĩ, lãng mạn.</p>
@@ -53,8 +62,11 @@
 
         <section>
             <h2>Các hoạt động nổi bật</h2>
-            <img src="https://th.bing.com/th/id/OIP.OekbvG8INm4x-ONaCna8uwAAAA?rs=1&pid=ImgDetMain"
-                alt="Các hoạt động vui chơi ở Kỳ Co và Eo Gió" />
+            <figure>
+                <img src="https://th.bing.com/th/id/OIP.OekbvG8INm4x-ONaCna8uwAAAA?rs=1&pid=ImgDetMain"
+                    alt="Các hoạt động vui chơi ở Kỳ Co và Eo Gió" />
+                <figcaption>Những hoạt động vui chơi hấp dẫn tại Kỳ Co và Eo Gió.</figcaption>
+            </figure>
             <ul>
                 <li><strong>Đi cano ra Kỳ Co:</strong> Trải nghiệm cảm giác vượt sóng, ngắm biển từ xa và cập bãi Kỳ Co
                     như trong mơ.</li>
@@ -71,8 +83,11 @@
 
         <section>
             <h2>Di chuyển đến Kỳ Co – Eo Gió</h2>
-            <img src="https://dichvuxunau.com/wp-content/uploads/2021/08/ban-do-du-lich-quy-nhon-2.jpg"
-                alt="Bản đồ chỉ đường từ Quy Nhơn đến Kỳ Co – Eo Gió" />
+            <figure>
+                <img src="https://dichvuxunau.com/wp-content/uploads/2021/08/ban-do-du-lich-quy-nhon-2.jpg"
+                    alt="Bản đồ chỉ đường từ Quy Nhơn đến Kỳ Co – Eo Gió" />
+                <figcaption>Bản đồ du lịch từ trung tâm Quy Nhơn đến Kỳ Co – Eo Gió.</figcaption>
+            </figure>
             <p>Từ trung tâm Quy Nhơn, bạn có thể di chuyển bằng xe máy hoặc ô tô qua cầu Thị Nại để đến xã Nhơn Lý. Cung
                 đường ven biển rất đẹp, dễ đi và có nhiều điểm dừng chân chụp ảnh tuyệt vời.</p>
             <p>Để xem chi tiết bản đồ đường đi, bạn có thể tham khảo Google Maps qua các liên kết dưới đây:</p>
@@ -97,8 +112,11 @@
 
         <section>
             <h2>Lời kết</h2>
-            <img src="https://nhahangeogio.com/wp-content/uploads/2020/05/ky-co5.png"
-                alt="Du khách vui chơi ở Kỳ Co – Eo Gió" />
+            <figure>
+                <img src="https://nhahangeogio.com/wp-content/uploads/2020/05/ky-co5.png"
+                    alt="Du khách vui chơi ở Kỳ Co – Eo Gió" />
+                <figcaption>Du khách vui chơi và tận hưởng kỳ nghỉ tại Kỳ Co – Eo Gió.</figcaption>
+            </figure>
             <p><strong>Kỳ Co – Eo Gió</strong> là sự kết hợp hoàn hảo giữa biển xanh, cát trắng và núi đá kỳ vĩ, mang
                 đến trải nghiệm khó quên cho du khách. Nếu bạn đang tìm một nơi vừa đẹp, vừa dễ đi, vừa nhiều hoạt động
                 thú vị thì đây chính là điểm đến không thể bỏ lỡ ở Quy Nhơn.</p>

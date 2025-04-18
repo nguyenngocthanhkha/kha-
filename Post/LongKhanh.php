@@ -9,12 +9,11 @@
     <link rel="stylesheet" href="../CSS/stylePost.css">
     <link rel="stylesheet" href="../CSS/styleHeader.css">
     <link rel="stylesheet" href="../CSS/styleFooter.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 
 </head>
 
 <body>
-    <article class="LongKhanh">
+    <article class="style2">
         <h1>🛕 Chùa Long Khánh – Trung tâm Phật giáo tâm linh bậc nhất tại Quy Nhơn
         </h1>
 
@@ -48,8 +47,11 @@
                     (1805)</strong>,
                 mang đậm dấu ấn lịch sử của vùng đất này.
             </p>
-            <img src="https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/12/chinh-dien-vntrip-e1513327387996.jpg"
-                alt="Chùa Long Khánh" width="100%">
+            <figure>
+                <img src="https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/12/chinh-dien-vntrip-e1513327387996.jpg"
+                    alt="Chùa Long Khánh" width="100%">
+                <figcaption>Chính điện Chùa Long Khánh – không gian trang nghiêm, cổ kính</figcaption>
+            </figure>
         </section>
 
         <section>
@@ -67,8 +69,11 @@
                 <strong>Phật A Di Đà cao 17m</strong> đứng trên đài sen đá xanh ngay phía trước cổng tam quan – biểu
                 tượng thiêng liêng và ấn tượng nhất của chùa.
             </p>
-            <img src="https://52hz.vn/wp-content/uploads/2022/09/chua-long-khanh-tuong-phat-to-thich-ca.jpg.webp"
-                alt="Tượng Phật cao 17m tại chùa Long Khánh" width="100%">
+            <figure>
+                <img src="https://52hz.vn/wp-content/uploads/2022/09/chua-long-khanh-tuong-phat-to-thich-ca.jpg.webp"
+                    alt="Tượng Phật cao 17m tại chùa Long Khánh" width="100%">
+                <figcaption>Tượng Phật A Di Đà cao 17m – điểm nhấn kiến trúc nổi bật tại chùa</figcaption>
+            </figure>
         </section>
 
         <section>
@@ -79,11 +84,13 @@
                 Đây là nơi giúp các bạn trẻ tìm được sự tĩnh tâm, lắng đọng trong không gian thanh tịnh, tránh xa xô bồ
                 của cuộc sống hiện đại.
             </p>
-            <img src="https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/12/tu-vntrip.jpg"
-                alt="Khóa tu mùa hè tại chùa Long Khánh" width="100%">
-            <p>
-                Ngoài ra, chùa còn là điểm đến quen thuộc của Phật tử và du khách thập phương đến chiêm bái, cầu an và
-                tìm lại sự bình yên trong tâm hồn.
+            <figure>
+                <img src="https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/12/tu-vntrip.jpg"
+                    alt="Khóa tu mùa hè tại chùa Long Khánh" width="100%">
+                <figcaption>Khóa tu mùa hè giúp giới trẻ tìm lại sự tĩnh tâm trong cuộc sống</figcaption>
+            </figure>
+            Ngoài ra, chùa còn là điểm đến quen thuộc của Phật tử và du khách thập phương đến chiêm bái, cầu an và
+            tìm lại sự bình yên trong tâm hồn.
             </p>
         </section>
 

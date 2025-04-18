@@ -12,12 +12,16 @@
 </head>
 
 <body>
-    <article class="ThapThap">
-        <header>
+    <article class="style2">
+        <section>
             <h1>Khám Phá Chùa Thập Tháp Di Đà - Di Sản Văn Hóa Miền Đất Bình Định</h1>
-            <img src="https://cdn3.ivivu.com/2020/06/ngoi-chua-hon-300-tuoi-o-binh-dinh-ivivu-1.jpg"
-                alt="Chùa Thập Tháp Di Đà" style="width: 100%; height: auto;">
-        </header>
+            <figure>
+                <img src="https://cdn3.ivivu.com/2020/06/ngoi-chua-hon-300-tuoi-o-binh-dinh-ivivu-1.jpg"
+                    alt="Chùa Thập Tháp Di Đà">
+                <figcaption>Chùa Thập Tháp Di Đà – Ngôi chùa hơn 300 năm tuổi tại Bình Định</figcaption>
+            </figure>
+
+        </section>
 
         <section>
             <h2>Chùa Thập Tháp Di Đà - Một Điểm Đến Tâm Linh Nổi Tiếng</h2>
@@ -49,7 +53,7 @@
         <section>
             <figure>
                 <img src="https://cdn3.ivivu.com/2020/06/ngoi-chua-hon-300-tuoi-o-binh-dinh-ivivu-69.jpg"
-                    alt="Kiến trúc Chùa Thập Tháp Di Đà" style="width: 100%; height: auto;">
+                    alt="Kiến trúc Chùa Thập Tháp Di Đà">
                 <figcaption>Một góc của khu vực bảo tháp ở phía đông bắc của chùa.</figcaption>
             </figure>
             <h2>Kiến Trúc Đặc Sắc Của Chùa Thập Tháp Di Đà</h2>
@@ -107,7 +111,7 @@
             <p>Nếu bạn xuất phát từ trung tâm thị xã An Nhơn, chỉ cần đi thẳng theo đường Nguyễn Trãi rồi tiếp tục vào
                 đường Long Bích, sau đó rẽ phải khi gặp biển chỉ dẫn, là sẽ đến nơi.</p>
 
-            <div style="margin-top: 20px;">
+            <div>
                 <h3>Chỉ Đường Trên Bản Đồ</h3>
                 <a href="https://www.google.com/maps/dir/?api=1&origin=Quy+Nhon&destination=Chua+Thap+Thap+Di+Da,+Binh+Dinh"
                     target="_blank">

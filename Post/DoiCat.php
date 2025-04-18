@@ -13,7 +13,7 @@
 </head>
 
 <body>
-    <div class="DoiCat">
+    <article class="style4">
         <h1>Đồi Cát Phương Mai - Xã Phước Thuận</h1>
 
         <section>
@@ -53,8 +53,11 @@
 
         <section>
             <h2>Hình ảnh Đồi Cát Phương Mai</h2>
-            <img src="https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/476148nfH/anh-mo-ta.png"
-                alt="Đồi Cát Phương Mai" width="100%">
+            <figure>
+                <img src="https://img.tripi.vn/cdn-cgi/image/width=700,height=700/https://gcs.tripi.vn/public-tripi/tripi-feed/img/476148nfH/anh-mo-ta.png"
+                    alt="Đồi Cát Phương Mai" width="100%">
+                <figcaption>Ảnh toàn cảnh Đồi Cát Phương Mai nhìn từ trên cao, nổi bật giữa thiên nhiên.</figcaption>
+            </figure>
         </section>
 
         <section>
@@ -71,8 +74,11 @@
         <section>
             <h2>Video hoặc GIF minh họa</h2>
             <p>Dưới đây là một đoạn GIF minh họa cho hoạt động trượt cát tại Đồi Cát Phương Mai:</p>
-            <img src="https://cpmaskforall.com.vn/wp-content/uploads/2025/03/truot-cat-toc-do-cao.webp"
-                alt="Trượt cát Phương Mai" width="100%">
+            <figure>
+                <img src="https://cpmaskforall.com.vn/wp-content/uploads/2025/03/truot-cat-toc-do-cao.webp"
+                    alt="Trượt cát Phương Mai" width="100%">
+                <figcaption>Hoạt động trượt cát tốc độ cao – trải nghiệm thú vị tại Đồi Cát Phương Mai.</figcaption>
+            </figure>
         </section>
         <section>
             <h2>Fun Fact về Đồi Cát Phương Mai</h2>
@@ -95,7 +101,7 @@
                     và thằn lằn. Nếu may mắn, bạn có thể gặp những loài động vật này khi đi dạo quanh đồi cát.</li>
             </ul>
         </section>
-    </div>
+    </article>
 </body>
 
 </html>

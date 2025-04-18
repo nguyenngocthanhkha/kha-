@@ -14,7 +14,7 @@
 
 <body>
 
-    <article class="CuLaoXanh">
+    <article class="style3">
         <h1>Cù Lao Xanh – Viên ngọc biển khơi của Nhơn Châu</h1>
 
         <figure>

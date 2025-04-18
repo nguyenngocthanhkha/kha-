@@ -9,13 +9,11 @@
     <link rel="stylesheet" href="../CSS/stylePost.css">
     <link rel="stylesheet" href="../CSS/styleHeader.css">
     <link rel="stylesheet" href="../CSS/styleFooter.css">
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto+Slab&display=swap"
-        rel="stylesheet">
 
 </head>
 
 <body>
-    <article class="ThienHung">
+    <article class="style2">
         <h1>Chùa Thiên Hưng - Chốn thiền môn giữa lòng thiên nhiên </h1>
 
         <section>
@@ -23,8 +21,10 @@
             <p>Chùa Thiên Hưng tọa lạc tại thị xã An Nhơn, cách trung tâm thành phố Quy Nhơn gần 20km về phía đông. Đây
                 không chỉ là một địa điểm du lịch mà còn mang ý nghĩa tâm linh thiêng liêng, thu hút nhiều Phật tử và du
                 khách.</p>
-            <img src="https://toplist.vn/images/800px/chua-thien-hung-244362.jpg" alt="Chùa Thiên Hưng nhìn từ xa"
-                style="width: 100%; height: auto; margin: 20px 0;">
+            <figure>
+                <img src="https://toplist.vn/images/800px/chua-thien-hung-244362.jpg" alt="Chùa Thiên Hưng nhìn từ xa">
+                <figcaption>Chùa Thiên Hưng nhìn từ xa</figcaption>
+            </figure>
             <p>Người ta truyền tai nhau rằng đây là nơi lưu giữ Ngọc Xá Lợi của Đức Phật Thích Ca Mâu Ni – một bảo vật
                 quý giá trong Phật giáo. Theo tín ngưỡng, nơi nào có Ngọc Xá Lợi, nơi đó sẽ được Phật Tổ độ trì, ban
                 phúc.</p>
@@ -40,8 +40,11 @@
             <p>Điều ấn tượng nhất có lẽ là các gian nhà mái ngói cong cong theo phong cách cung đình xưa, xen kẽ là cây
                 cảnh được cắt tỉa gọn gàng, quanh năm xanh tốt. Không gian chùa mang đến cảm giác thanh tịnh, dễ chịu,
                 giúp tâm hồn thư thái hơn.</p>
-            <img src="https://dichvuxunau.com/wp-content/uploads/2023/01/ve-dep-chua-thien-hung-binh-dinh.jpg"
-                alt="Kiến trúc cổ kính của chùa" style="width: 100%; height: auto; margin: 20px 0;">
+            <figure>
+                <img src="https://dichvuxunau.com/wp-content/uploads/2023/01/ve-dep-chua-thien-hung-binh-dinh.jpg"
+                    alt="Kiến trúc cổ kính của chùa">
+                <figcaption>Kiến trúc cổ kính mang đậm nét phương Đông tại chùa Thiên Hưng</figcaption>
+            </figure>
             <p>Các công trình trong chùa đều mang phong cách kiến trúc phương Đông, mềm mại, cổ kính và thân thuộc. Nhìn
                 qua ống kính máy ảnh, Chùa Thiên Hưng không chỉ là một công trình tôn giáo – văn hóa, mà còn được ví như
                 bức tranh nghệ thuật, mỗi chi tiết đều mang nét đẹp riêng.</p>
@@ -53,12 +56,19 @@
         <section>
             <h2>Góc check-in đẹp tại Chùa Thiên Hưng 📸✨</h2>
             <ul>
-                <img src="https://dichvuxunau.com/wp-content/uploads/2023/01/cong-tam-quan.jpeg" alt="Cổng tam quan"
-                    style="width: 100%; height: auto; margin: 20px 0;">
+                <figure>
+                    <img src="https://dichvuxunau.com/wp-content/uploads/2023/01/cong-tam-quan.jpeg"
+                        alt="Cổng tam quan">
+                    <figcaption>Cổng Tam Quan – điểm check-in nổi bật với kiến trúc cổ kính</figcaption>
+                </figure>
                 <li><strong>Cổng Tam Quan:</strong> Thiết kế uy nghi, cổ kính, chạm khắc tinh xảo – điểm check-in đẹp
                     nhất.</li>
-                <img src="https://toplist.vn/images/800px/chua-thien-hung-244363.jpg" alt="Tháp chuông 12 tầng của chùa"
-                    style="width: 100%; height: auto; margin: 20px 0;">
+                <figure>
+                    <img src="https://toplist.vn/images/800px/chua-thien-hung-244363.jpg"
+                        alt="Tháp chuông 12 tầng của chùa">
+                    <figcaption>Tháp chuông 12 tầng – Biểu tượng của chốn Phật môn</figcaption>
+                </figure>
+
                 <li><strong>Tháp Chuông 12 tầng:</strong> Góc chụp từ thấp sẽ làm nổi bật chiều cao và sự hùng vĩ.</li>
                 <li><strong>Khu vực hoa viên:</strong> Không gian xanh mát, thích hợp cho ảnh nghệ thuật.</li>
                 <li><strong>Hòn non bộ & tượng Chư Phật:</strong> Tĩnh lặng và đậm chất thiền định.</li>

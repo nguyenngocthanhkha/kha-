@@ -14,15 +14,17 @@
 
 <body>
 
-    <article class="HonKho">
+    <article class="style3">
         <h1>Hòn Khô – Vẻ đẹp hoang sơ của xã Nhơn Hải</h1>
 
         <section>
             <p><strong>Hòn Khô</strong> là một trong những điểm đến hấp dẫn nằm tại <strong>xã Nhơn Hải</strong>, cách
                 trung tâm thành phố Quy Nhơn khoảng 20 km. Với vẻ đẹp nguyên sơ, nước biển trong xanh và các rạn san hô
                 đầy màu sắc, Hòn Khô ngày càng thu hút du khách gần xa tìm đến để khám phá và trải nghiệm.</p>
-            <img src="https://vuongphat.com.vn/wp-content/uploads/2023/04/1a84f7dc852cd5070db5b34cda845929honkho00_637026882623884877.jpg"
-                alt="Toàn cảnh Hòn Khô nhìn từ trên cao" style="width:100%; margin-top:10px;">
+            <figure>
+                <img src="https://vuongphat.com.vn/wp-content/uploads/2023/04/1a84f7dc852cd5070db5b34cda845929honkho00_637026882623884877.jpg"
+                    alt="Toàn cảnh Hòn Khô nhìn từ trên cao" style="width:100%;">
+                <figcaption>Toàn cảnh Hòn Khô nhìn từ trên cao</figcaption>
         </section>
 
         <section>
@@ -30,8 +32,10 @@
             <p>Không giống những bãi biển đông đúc, Hòn Khô vẫn giữ được nét hoang sơ vốn có. Biển ở đây xanh ngọc bích,
                 hiền hòa và cực kỳ trong vắt, có thể nhìn thấy đáy. Những dãy núi đá nhô ra biển tạo nên cảnh quan độc
                 đáo và ấn tượng. Bãi cát trắng mịn ôm lấy bờ biển như dải lụa mềm mại giữa biển trời bao la.</p>
-            <img src="https://dulich3mien.vn/wp-content/uploads/2022/09/Hon-Kho-Quy-Nhon-1.jpg"
-                alt="Nước biển trong xanh ở Hòn Khô" style="width:100%; margin-top:10px;">
+            <figure>
+                <img src="https://dulich3mien.vn/wp-content/uploads/2022/09/Hon-Kho-Quy-Nhon-1.jpg"
+                    alt="Nước biển trong xanh ở Hòn Khô" style="width:100%;">
+                <figcaption>Nước biển trong xanh và bãi cát trắng ở Hòn Khô</figcaption>
         </section>
 
         <section>
@@ -48,8 +52,11 @@
                     trong ngày. Các món như nhum, mực nướng, cá bóp hấp cuốn bánh tráng… là những đặc sản không nên bỏ
                     qua.</li>
             </ul>
-            <img src="https://image.vietgoing.com/editor/image_cgo1669104344.jpeg" alt="Cầu gỗ Hòn Khô"
-                style="width:100%; margin-top:10px;">
+            <figure>
+                <img src="https://image.vietgoing.com/editor/image_cgo1669104344.jpeg" alt="Cầu gỗ Hòn Khô"
+                    style="width:100%;">
+                <figcaption>Cầu gỗ nổi tiếng – điểm check-in giữa biển tại Hòn Khô</figcaption>
+            </figure>
         </section>
 
         <section>

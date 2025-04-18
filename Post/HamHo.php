@@ -9,12 +9,11 @@
     <link rel="stylesheet" href="../CSS/stylePost.css">
     <link rel="stylesheet" href="../CSS/styleHeader.css">
     <link rel="stylesheet" href="../CSS/styleFooter.css">
-    <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 
 <body>
-    <div class="HamHo">
-        <section class="HamHo-gioi-thieu">
+    <article class="style4">
+        <section >
             <h1>Khu Du Lịch Sinh Thái Hòa Bình Xanh – Hầm Hô</h1>
             <figure>
                 <img src="https://quynhontourist.vn/wp-content/uploads/2023/01/Khung-canh-huu-tinh-tai-Ham-Ho.jpg"
@@ -39,7 +38,7 @@
                 gian trong lành, tiếng chim hót, tiếng nước chảy róc rách và những hàng cây cổ thụ rợp bóng.
             </p>
         </section>
-        <section class="HamHo-thong-tin">
+        <section >
             <h2>Thông Tin Tham Quan</h2>
             <ul>
                 <li><strong>Địa chỉ:</strong> Xã Vĩnh Thạnh, TP. Quy Nhơn, tỉnh Bình Định</li>
@@ -57,7 +56,7 @@
                 </li>
             </ul>
         </section>
-        <section class="HamHo-hoat-dong">
+        <section >
             <h2>Hoạt Động Nổi Bật</h2>
             <p>Các hoạt động tại đây vô cùng phong phú, phù hợp với mọi lứa tuổi:</p>
             <ul>
@@ -75,7 +74,7 @@
             </ul>
         </section>
 
-        <section class="HamHo-giao-duc">
+        <section >
             <h2>Hoạt Động Giáo Dục – Sinh Thái</h2>
             <p>
                 Ngoài ra, khu du lịch còn có khu bảo tồn thảo dược và vườn sinh học với hơn 100 loài cây dược liệu quý.
@@ -84,7 +83,7 @@
             </p>
         </section>
 
-        <section class="HamHo-trai-nghiem">
+        <section >
             <h2>Trải Nghiệm & Không Gian</h2>
             <p>
                 Với khung cảnh hoang sơ, không khí trong lành và các hoạt động đa dạng, Hòa Bình Xanh – Hầm Hô không chỉ
@@ -93,7 +92,7 @@
             </p>
         </section>
 
-        <section class="HamHo-loi-khuyen">
+        <section >
             <h2>Lời Khuyên Khi Tham Quan</h2>
             <ul>
                 <li>🌤️ Nên đi vào buổi sáng sớm hoặc chiều mát để có ánh sáng đẹp và không khí dễ chịu nhất.</li>
@@ -104,7 +103,7 @@
                 <li>🌿 Tôn trọng môi trường, không xả rác, không làm hại động thực vật tại khu sinh thái.</li>
             </ul>
         </section>
-    </div>
+    </article>
 </body>
 
 </html>

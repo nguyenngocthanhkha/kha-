@@ -9,12 +9,10 @@
     <link rel="stylesheet" href="../CSS/stylePost.css">
     <link rel="stylesheet" href="../CSS/styleHeader.css">
     <link rel="stylesheet" href="../CSS/styleFooter.css">
-    <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap&subset=vietnamese"
-        rel="stylesheet">
 </head>
 
 <body>
-    <article class="LoDieu">
+    <article class="style1">
         <section>
             <h1>Bến tàu không số Lộ Diêu – Nơi thiên nhiên hoang sơ gặp gỡ lịch sử hào hùng</h1>
             <p>
@@ -24,9 +22,11 @@
                 lịch sử sống động,
                 nơi ghi dấu một trong những trang vàng vẻ vang của dân tộc Việt Nam trong thời kỳ kháng chiến.
             </p>
-            <img src="https://th.bing.com/th/id/R.0f52236144996bf0489a189999e5ee5c?rik=XAc2%2b86ALJ7feQ&riu=http%3a%2f%2fdulichbinhdinh.com.vn%2fuploads%2fnews%2f2022_05%2fc5.jpg&ehk=qFRU8eSh2vuNdsKISZJPXCEScNRNmbfW77cUzsxYHvo%3d&risl=&pid=ImgRaw&r=0"
-                alt="Toàn cảnh Bến tàu không số Lộ Diêu"
-                style="width:100%; max-height:400px; object-fit:cover; margin: 20px 0;">
+            <figure>
+                <img src="https://th.bing.com/th/id/R.0f52236144996bf0489a189999e5ee5c?rik=XAc2%2b86ALJ7feQ&riu=http%3a%2f%2fdulichbinhdinh.com.vn%2fuploads%2fnews%2f2022_05%2fc5.jpg&ehk=qFRU8eSh2vuNdsKISZJPXCEScNRNmbfW77cUzsxYHvo%3d&risl=&pid=ImgRaw&r=0"
+                    alt="Toàn cảnh Bến tàu không số Lộ Diêu">
+                <figcaption>Toàn cảnh Bến tàu không số Lộ Diêu giữa thiên nhiên hùng vĩ</figcaption>
+            </figure>
         </section>
 
         <hr>
@@ -46,9 +46,11 @@
                 trong lòng người dân địa phương, những người đã dốc lòng bảo vệ bí mật tuyệt đối của bến tàu đặc biệt
                 này.
             </p>
-            <img src="https://binhdinh.gov.vn/publish/thumbnail/2005340/1170x658xdefault/upload/2005340/20220318/Lo_dieu_4_0c747.jpg"
-                alt="Mô hình tàu không số tại khu di tích"
-                style="width:100%; max-height:400px; object-fit:cover; margin: 20px 0;">
+            <figure>
+                <img src="https://binhdinh.gov.vn/publish/thumbnail/2005340/1170x658xdefault/upload/2005340/20220318/Lo_dieu_4_0c747.jpg"
+                    alt="Mô hình tàu không số tại khu di tích">
+                <figcaption>Mô hình con tàu không số tại khu di tích Lộ Diêu</figcaption>
+            </figure>
             <p>
                 Ngày nay, khu di tích được phục dựng trang trọng với mô hình con tàu bằng đá lớn, như một tượng đài sống
                 mãi với thời gian.
@@ -59,20 +61,27 @@
         <hr>
 
         <section>
-            <img src="https://muiganhhoaihai.vn/wp-content/uploads/2023/12/lo-dieu-hoai-nhon-binh-dinh-14.jpg"
-                alt="Bãi biển hoang sơ Lộ Diêu" style="width:100%; max-height:400px; object-fit:cover; margin: 20px 0;">
+            <figure>
+                <img src="https://muiganhhoaihai.vn/wp-content/uploads/2023/12/lo-dieu-hoai-nhon-binh-dinh-14.jpg"
+                    alt="Bãi biển hoang sơ Lộ Diêu">
+                <figcaption>Bãi biển Lộ Diêu hoang sơ và vắng lặng</figcaption>
+            </figure>
             <h2>Bức tranh thiên nhiên hoang sơ giữa lòng Hoài Nhơn</h2>
-            <img src="https://muiganhhoaihai.vn/wp-content/uploads/2023/12/lo-dieu-hoai-nhon-binh-dinh-13.jpg"
-                alt="Khung cảnh hữu tình của Lộ Diêu"
-                style="width:100%; max-height:400px; object-fit:cover; margin: 20px 0;">
+            <figure>
+                <img src="https://muiganhhoaihai.vn/wp-content/uploads/2023/12/lo-dieu-hoai-nhon-binh-dinh-13.jpg"
+                    alt="Khung cảnh hữu tình của Lộ Diêu">
+                <figcaption>Khung cảnh hữu tình với núi và biển hòa quyện</figcaption>
+            </figure>
             <p>
                 Không chỉ mang giá trị lịch sử, Lộ Diêu còn gây ấn tượng mạnh bởi vẻ đẹp tự nhiên nguyên sơ. Bãi biển
                 dài cát trắng,
                 nước biển xanh ngọc bích và những ghềnh đá độc đáo tạo nên một khung cảnh vừa kỳ vĩ vừa nên thơ.
             </p>
-            <img src="https://muiganhhoaihai.vn/wp-content/uploads/2023/12/lo-dieu-hoai-nhon-binh-dinh-3.jpg"
-                alt="Lộ Diêu dưới ánh hoàng hônhôn"
-                style="width:100%; max-height:400px; object-fit:cover; margin: 20px 0;">
+            <figure>
+                <img src="https://muiganhhoaihai.vn/wp-content/uploads/2023/12/lo-dieu-hoai-nhon-binh-dinh-3.jpg"
+                    alt="Lộ Diêu dưới ánh hoàng hôn">
+                <figcaption>Lộ Diêu rực rỡ dưới ánh hoàng hôn chiều tà</figcaption>
+            </figure>
             <p>
                 Biển Lộ Diêu được bao bọc bởi ba mặt núi, tạo nên một không gian biệt lập, tĩnh lặng và yên bình.
                 Khi mặt trời ló rạng, ánh sáng đầu ngày phủ lên mặt biển như rót mật – một cảnh tượng khiến lòng người
