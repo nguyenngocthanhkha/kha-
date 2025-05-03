@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../thanhkha-/kha-/kha-"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kha-"
+	}
+}
