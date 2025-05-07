@@ -9,8 +9,8 @@ CREATE TABLE Users (
 CREATE TABLE Posts (
   post_id INT AUTO_INCREMENT PRIMARY KEY,
   title VARCHAR(255) NOT NULL,
-  content TEXT NOT NULL,  -- Dạng HTML để chứa văn bản và hình ảnh
-  image_url VARCHAR(255), -- Ảnh đại diện bài viết (thumbnail)
+  content TEXT NOT NULL, 
+  image_url VARCHAR(255), 
   author_id INT,
   created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
   FOREIGN KEY (author_id) REFERENCES Users(user_id)
@@ -21,7 +21,7 @@ CREATE TABLE Comments (
   post_id INT NOT NULL,
   user_id INT NOT NULL,
   comment_text TEXT NOT NULL,
-  image_url VARCHAR(255),  -- Đường dẫn ảnh trong bình luận (nếu có)
+  image_url VARCHAR(255),  
   created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
   FOREIGN KEY (post_id) REFERENCES Posts(post_id),
   FOREIGN KEY (user_id) REFERENCES Users(user_id)
@@ -39,7 +39,7 @@ CREATE TABLE Post_Categories (
   FOREIGN KEY (post_id) REFERENCES Posts(post_id),
   FOREIGN KEY (category_id) REFERENCES Categories(category_id)
 );
--- Thêm bảng nè mấy ní:
+
 CREATE TABLE chuyen_muc (
     id INT AUTO_INCREMENT PRIMARY KEY,
     ten_chuyen_muc VARCHAR(255)
@@ -54,7 +54,7 @@ CREATE TABLE data (
     chuyen_muc_id INT,
     CONSTRAINT fk_chuyen_muc FOREIGN KEY (chuyen_muc_id) REFERENCES chuyen_muc(id) ON DELETE CASCADE ON UPDATE CASCADE
 );
---Insert nội dung này vào
+
 INSERT INTO chuyen_muc (ten_chuyen_muc) VALUES
 ('Địa điểm nổi tiếng'),
 ('Mẹo du lịch'),
@@ -66,7 +66,7 @@ INSERT INTO chuyen_muc (ten_chuyen_muc) VALUES
 ('Quán ngon'),
 ('Lễ hội'),
 ('Khuyến mãi');
--- Insert tiếp 
+
 INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
 ('Kỳ Co – Thiên đường biển xanh', 'Thiên đường biển xanh mộng mơ với những bãi cát trắng mịn và làn nước trong vắt. Hãy tận hưởng vẻ đẹp hoang sơ và những cảnh sắc khiến bạn ngỡ ngàng!', 'https://eholiday.vn/wp-content/uploads/2024/07/ky-co-1.jpg', 'Bãi biển Kỳ Co nhìn từ trên cao', './Post/KyCo.php', 1),
 ('Cù Lao Xanh – Đảo Nhơn Châu', 'Một hòn đảo quyến rũ với biển xanh, rạn san hô đầy màu sắc và không gian yên bình. Nếu bạn đam mê khám phá thiên nhiên, đây chính là điểm đến lý tưởng', 'https://image.vietgoing.com/destination/large/vietgoing_gun2104127154.webp', 'Toàn cảnh đảo Cù Lao Xanh', './Post/CuLaoXanh.php', 1),
@@ -85,7 +85,7 @@ INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
 ('Chùa Long Khánh – Chốn tâm linh hơn 300 năm giữa lòng Quy Nhơn', 'Chùa Long Khánh – một điểm đến hơn 300 năm tuổi, vẫn tĩnh tại và đầy thiêng liêng trong lòng thành phố. Hãy để Chùa Long Khánh là điểm dừng chân cho tâm hồn bạn trên hành trình khám phá Quy Nhơn.','https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/12/chinh-dien-vntrip-e1513327387996.jpg', 'Chánh điện chùa Long Khánh', './Post/LongKhanh.php', 1),
 ('Chùa Thập Tháp Di Đà - Di Sản Văn Hóa Miền Đất Bình Định', 'Khám phá vẻ đẹp của Chùa Thập Tháp Di Đà, nơi lưu giữ những giá trị văn hóa và lịch sử của vùng đất Bình Định. Một điểm đến không thể bỏ qua khi đến Quy Nhơn.', 'https://mia.vn/media/uploads/blog-du-lich/chua-thap-thap-9-1727514971.jpg', 'Chùa Thập Tháp cổ kính', './Post/ThapThap.php', 1);
 
---- Tiếp tục thêm này của mẹo du lịch
+
 INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
 (' Mẹo Chụp Hình Đẹp Khi Du Lịch Bình Định', 'Khám phá các mẹo chụp ảnh siêu xịn như chọn ánh sáng tự nhiên, bố cục 1/3 và góc chụp "ảo tung chảo" để có những bức ảnh nghìn like!', 'https://cdn.britannica.com/67/92867-050-BC3DC984/cameras-camera-reviews-crystal-displays-photographs-film.jpg', 'Mẹo chụp ảnh khi du lịch Bình Định', './Post/MeoChupHinh.php', 2),
 (' Mẹo Sơ Cứu Cơ Bản Khi Du Lịch', 'Bỏ túi ngay những mẹo sơ cứu quan trọng như xử lý côn trùng cắn, say nắng, ngộ độc thực phẩm để có chuyến đi an toàn và trọn vẹn hơn.', 'https://i.pinimg.com/originals/e1/17/a7/e117a77c342fba33d1315df03514d3e0.jpg', 'Mẹo sơ cứu du lịch', './Post/MeoSoCuu.php', 2),
@@ -93,3 +93,31 @@ INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
 INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
 ('Mẹo Sắp Xếp Thời Gian Khi Du Lịch Bình Định Hiệu Quả', 'Khám phá cách lên lịch trình thông minh giúp bạn trải nghiệm trọn vẹn vẻ đẹp Quy Nhơn – Bình Định mà không lo lãng phí thời gian!', 'https://issi.vn/wp-content/uploads/2021/07/5-nguyen-tac-quan-ly-thoi-gian.jpg', 'Mẹo sắp xếp thời gian', './Post/MeoSapXepThoiGian.php', 2),
 ('Bí Kíp Chống Say Sóng Khi Du Lịch Bằng Tàu Ở Bình Định', 'Bỏ túi những mẹo đơn giản giúp bạn “đánh bại” say sóng để tận hưởng chuyến khám phá biển đảo như Cù Lao Xanh, Kỳ Co thật trọn vẹn!', 'https://afamilycdn.com/150157425591193600/2021/4/22/s1-1619080884692372505368.jpg', 'Mẹo chống say tàu', './Post/MeoSaySong.php', 2);
+
+INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
+('Seagull Hotel','Khách sạn 4 sao nằm ngay bãi biển trung tâm Quy Nhơn, với tầm nhìn hướng biển tuyệt đẹp và dịch vụ chuyên nghiệp.','https://pix8.agoda.net/hotelImages/433/43382/43382_15052914050028022303.jpg?ca=4&ce=1&s=1024x','Seagull Hotel','./post_homestay/Seagull Hotel - Quy Nhơn.php',3 ),
+('Casa Marina Resort', 'Resort nghỉ dưỡng yên tĩnh, sát biển với dịch vụ chất lượng.', 'https://cf.bstatic.com/xdata/images/hotel/max1280x900/219494123.jpg?k=8221aed5c060c10b688e26af721eecd5398a1689db8a1a3bfa0feb9778023e78&o=&hp=1', 'Casa Marina Resort', './post_homestay/Casa Marina Resort.php', 3),
+('Dankbaar Resort Quy Nhon', 'Khu nghỉ dưỡng gần biển lý tưởng cho các kỳ nghỉ cùng gia đình.', 'https://cf.bstatic.com/xdata/images/hotel/max1024x768/445425837.jpg?k=09e91d3271b5f578bae2e9fa71ab99eb6d5dc8641f0b4c5564a560dbad5e5351&o=', 'Dankbaar Resort Quy Nhon', './post_homestay/Dankbaar Resort Quy Nhon.php', 3),
+('FLC Sea Tower Quy Nhơn', 'Căn hộ du lịch hiện đại, tiện nghi và gần biển.', 'https://cf.bstatic.com/xdata/images/hotel/max1280x900/678433487.jpg?k=f0b2d5559e9b5db97244cdbac65474448c45dce0c4c9088f36d822533071991d&o=&hp=1', 'FLC Sea Tower Quy Nhon', './post_homestay/FLC Sea tower Quy Nhon.php', 3),
+('FLC Sea Tower Quy Nhơn 2', 'Không gian thoáng đãng, gần bãi biển Quy Nhơn.', 'https://cf.bstatic.com/xdata/images/hotel/max1024x768/268980476.jpg?k=754d1ec16a78ecdba7060d6fb6ca205ab9c335a180f50bc6f344051d05da92be&o=&hp=1', 'FLC Sea Tower Quy Nhon', './post_homestay/FLC Sea Tower Quy Nhon.php', 3),
+('HAKU Boutique Hotel', 'Khách sạn boutique phong cách trẻ trung, sát biển.', 'https://cf.bstatic.com/xdata/images/hotel/max1024x768/268980476.jpg?k=754d1ec16a78ecdba7060d6fb6ca205ab9c335a180f50bc6f344051d05da92be&o=&hp=1', 'HAKU Boutique Hotel', './post_homestay/HAKU Boutique Hotel .PHP', 3),
+('HaTa Hotel', 'Nơi lưu trú thuận tiện gần biển, giá cả hợp lý.', 'https://cf.bstatic.com/xdata/images/hotel/max1280x900/236109846.jpg?k=9bb912c9c832041bdfd16df5d288ee6def221b80d586ccbe0646ee84d97b7774&o=&hp=1', 'HaTa Hotel', './post_homestay/HaTa Hotel.php', 3),
+('HoangBao Hotel', 'Khách sạn gần biển với thiết kế hiện đại và tiện nghi.', 'https://cf.bstatic.com/xdata/images/hotel/max1024x768/638435497.jpg?k=a4c64828669ba8c7d6687313b396d2d3aa3664bb714b78ea19e3cb3a90bfdb3d&o=&hp=1', 'HoangBaohotel', './post_homestay/HoangBaohotel.php', 3),
+('Hồng Gấm Hotel', 'Khách sạn gần biển, phục vụ chu đáo và thân thiện.', 'https://cf.bstatic.com/xdata/images/hotel/max1280x900/673249878.jpg?k=47d31557e009210fbacde994b2179804ec40d0fea278951596af0e5d26b54a2b&o=&hp=1', 'Hồng Gấm Hotel', './post_homestay/Hồng Gấm Hotel.php', 3),
+('Hồng Thịnh Hotel', 'Chỗ ở lý tưởng cho du khách thích gần biển.', 'https://cf.bstatic.com/xdata/images/hotel/max1280x900/629473642.jpg?k=5c018e6422331bdd1466f1ffd4830142091fd17f45aedbd4669cde91647a6f95&o=&hp=1', 'HongThinh', './post_homestay/HongThinh.php', 3),
+('Mimi TMS Quy Nhơn', 'Căn hộ view biển tuyệt đẹp tại trung tâm Quy Nhơn.', 'https://cf.bstatic.com/xdata/images/hotel/max1024x768/679309614.jpg?k=68ecf0c397ad06112df7ed2278c41cfb26cd175040073bad19597cc63a4c06ef&o=', 'mimi tms quy nhơn', './post_homestay/mimi tms quy nhơn .php', 3),
+('TMS LUXURY Quy Nhơn', 'Căn hộ cao cấp sát biển, phù hợp nghỉ dưỡng.', 'https://cf.bstatic.com/xdata/images/hotel/max1024x768/671769394.jpg?k=db0bc44a7a404bb826d457ce867c5502f5858f18b2bd3f958e05da58efad7dec&o=&hp=1', 'TMS LUXURY Quy Nhon', './post_homestay/TMS LUXURY Quy Nhon.php', 3);
+
+INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
+('NHÀ TUI Share Quy Nhơn', 'Homestay thiết kế hiện đại, ấm cúng, phù hợp cho nhóm bạn hoặc gia đình.', 'https://kenhhomestay.com/wp-content/uploads/2021/01/nha-tui-share-1.jpg', 'NHÀ TUI Share Quy Nhơn', './post_homestay/NHÀ TUI Share Quy Nhơn.php', 4),
+('Cát Homestay Quy Nhơn', 'Không gian yên tĩnh, gần biển, nội thất mộc mạc và dễ thương.', 'https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-5-1679530448.jpg', 'Cát Homestay Quy Nhơn', './post_homestay/Cát Homestay Quy Nhơn.php', 4),
+('Daviden Homestay Quy Nhơn', 'Homestay ấm áp, tiện nghi, thích hợp cho du lịch cùng bạn bè.', 'https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-6-1679530497.jpg', 'Daviden Homestay Quy Nhơn', './post_homestay/Daviden Homestay Quy Nhơn.php', 4),
+('Haven Vietnam Homestay', 'Homestay sát biển với phong cách gần gũi thiên nhiên, cực chill.', 'https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-7-1679530485.jpg', 'Haven Vietnam Homestay', './post_homestay/Haven Vietnam Homestay.php', 4),
+('Home Quy Nhon Bed & Room', 'Chỗ ở hiện đại, gần trung tâm và các điểm du lịch nổi tiếng.', 'https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-10-1679530711.jpg', 'Home Quy Nhon Bed & Room', './post_homestay/Home Quy Nhon Bed & Room.php', 4),
+('Lan Anh Homestay', 'Homestay thân thiện, gần biển và giá cả hợp lý.', 'https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-9-1679530485.jpg', 'Lan Anh Homestay', './post_homestay/Lan Anh Homestay.php', 4),
+('Lặng Homestay Quy Nhơn', 'Không gian yên tĩnh, riêng tư, thích hợp nghỉ dưỡng.', 'https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-11-1679530711.jpg', 'Lặng Homestay Quy Nhơn', './post_homestay/Lặng Homestay Quy Nhơn.php', 4),
+('Life’s A Beach Homestay', 'Homestay sát biển với phong cách nhiệt đới và vibe rất chill.', 'https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-8-1679530448.jpg', 'Life’s A Beach Homestay', './post_homestay/Life’s A Beach Homestay.php', 4),
+('Little Quy Nhơn Homestay', 'Không gian nhỏ xinh, gần biển, phù hợp cho du khách thích yên bình.', 'https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-2-1679530448.jpg', 'Little Quy Nhơn Homestay', './post_homestay/Little Quy Nhơn Homestay.php', 4),
+('Mộc Homestay Quy Nhơn', 'Thiết kế mộc mạc, thân thiện với môi trường và gần biển.', 'https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-3-1679530485.jpg', 'Mộc Homestay Quy Nhơn', './post_homestay/Mộc Homestay Quy Nhơn.php', 4),
+('Oh Homestay Quy Nhơn', 'Homestay đơn giản, tiện nghi, giá cả phải chăng.', 'https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-4-1679530448.jpg', 'Oh Homestay Quy Nhơn', './post_homestay/Oh Homestay Quy Nhơn.php', 4),
+('Sun&Sea House – Homestay', 'Chỗ ở gần biển, trang trí hiện đại, view đẹp và yên tĩnh.', 'https://mrvivu.com/wp-content/uploads/2020/11/238151107.jpg', 'Sun&Sea House – Homestay', './post_homestay/Sun&Sea House – Homestay.php', 4);

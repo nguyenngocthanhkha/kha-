@@ -22,8 +22,8 @@
       <div class="menu-item">
         Kênh Homestay <span class="arrow">&#9660;</span>
         <div class="dropdown">
-          <a href="#" class="dropdown-item">Homestay gần biển</a>
-          <a href="#" class="dropdown-item">Homestay giá rẻ</a>
+          <a href="/kha-/checklist_homestay.php" class="dropdown-item">Homestay gần biển</a>
+          <a href="/kha-/checklist_giare.php" class="dropdown-item">Homestay giá rẻ</a>
         </div>
       </div>
 
