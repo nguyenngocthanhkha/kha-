@@ -93,6 +93,7 @@ INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
 INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
 ('Mẹo Sắp Xếp Thời Gian Khi Du Lịch Bình Định Hiệu Quả', 'Khám phá cách lên lịch trình thông minh giúp bạn trải nghiệm trọn vẹn vẻ đẹp Quy Nhơn – Bình Định mà không lo lãng phí thời gian!', 'https://issi.vn/wp-content/uploads/2021/07/5-nguyen-tac-quan-ly-thoi-gian.jpg', 'Mẹo sắp xếp thời gian', './Post/MeoSapXepThoiGian.php', 2),
 ('Bí Kíp Chống Say Sóng Khi Du Lịch Bằng Tàu Ở Bình Định', 'Bỏ túi những mẹo đơn giản giúp bạn “đánh bại” say sóng để tận hưởng chuyến khám phá biển đảo như Cù Lao Xanh, Kỳ Co thật trọn vẹn!', 'https://afamilycdn.com/150157425591193600/2021/4/22/s1-1619080884692372505368.jpg', 'Mẹo chống say tàu', './Post/MeoSaySong.php', 2);
+<<<<<<< HEAD
 
 INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
 ('Seagull Hotel','Khách sạn 4 sao nằm ngay bãi biển trung tâm Quy Nhơn, với tầm nhìn hướng biển tuyệt đẹp và dịch vụ chuyên nghiệp.','https://pix8.agoda.net/hotelImages/433/43382/43382_15052914050028022303.jpg?ca=4&ce=1&s=1024x','Seagull Hotel','./post_homestay/Seagull Hotel - Quy Nhơn.php',3 ),
@@ -121,3 +122,9 @@ INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
 ('Mộc Homestay Quy Nhơn', 'Thiết kế mộc mạc, thân thiện với môi trường và gần biển.', 'https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-3-1679530485.jpg', 'Mộc Homestay Quy Nhơn', './post_homestay/Mộc Homestay Quy Nhơn.php', 4),
 ('Oh Homestay Quy Nhơn', 'Homestay đơn giản, tiện nghi, giá cả phải chăng.', 'https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-4-1679530448.jpg', 'Oh Homestay Quy Nhơn', './post_homestay/Oh Homestay Quy Nhơn.php', 4),
 ('Sun&Sea House – Homestay', 'Chỗ ở gần biển, trang trí hiện đại, view đẹp và yên tĩnh.', 'https://mrvivu.com/wp-content/uploads/2020/11/238151107.jpg', 'Sun&Sea House – Homestay', './post_homestay/Sun&Sea House – Homestay.php', 4);
+=======
+--- Ừ thì cũng có
+INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
+('Quẩy Hết Mình – Chill Hết Hồn Tại Lễ Hội Chùa Ông Núi Ở Quy Nhơn!', 'Nếu bạn là dân mê xê dịch chính hiệu, đang "lên mood" cho chuyến đi đầu năm và Quy Nhơn đang nằm trong wishlist thì đừng quên note gấp cái tên Lễ hội chùa Ông Núi nha!', 'https://quyzo.com/wp-content/uploads/2022/09/le-hoi-chua-ong-nui.jpg', 'Lễ hội chùa ông núi', './Post_Fes/OngNui_Fes', 9),
+('Bình Định trình làng 2 tour ưu đãi du khách bằng chuyến tàu 0 đồng', 'Nghe gì chưa? Bình Định vừa "thả xích" combo du lịch siêu hời: 2 tour xịn xò kéo dài 3 ngày 2 đêm, giá chỉ tầm 3,2 triệu/người, đặc biệt là FREE vé tàu khứ hồi cho gần 1.200 người đầu tiên. Đúng rồi đó, đi tàu kiểu “bao nguyên chuyến” từ Hà Nội – Sài Gòn - Đà Nẵng đến Bình Định, khỏi lo vụ di chuyển nha!', 'https://tse2.mm.bing.net/th?id=OIP.D78jBIOxtElWHnHD2EqMugHaEu&cb=iwp1&rs=1&pid=ImgDetMain', 'Khuyến mãi', './Post_Fes/KhuyenMai1.php', 10);
+>>>>>>> 1707fbada688bcd3a407c6a417cecff695faa6f6
