@@ -1,4 +1,4 @@
-
+﻿
 CREATE TABLE Users (
   user_id INT AUTO_INCREMENT PRIMARY KEY,
   username VARCHAR(50) UNIQUE NOT NULL,
@@ -110,7 +110,7 @@ INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
 ('TMS LUXURY Quy Nhơn', 'Căn hộ cao cấp sát biển, phù hợp nghỉ dưỡng.', 'https://cf.bstatic.com/xdata/images/hotel/max1024x768/671769394.jpg?k=db0bc44a7a404bb826d457ce867c5502f5858f18b2bd3f958e05da58efad7dec&o=&hp=1', 'TMS LUXURY Quy Nhon', './post_homestay/TMS LUXURY Quy Nhon.php', 3);
 
 INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
-('NHÀ TUI Share Quy Nhơn', 'Homestay thiết kế hiện đại, ấm cúng, phù hợp cho nhóm bạn hoặc gia đình.', 'https://kenhhomestay.com/wp-content/uploads/2021/01/nha-tui-share-1.jpg', 'NHÀ TUI Share Quy Nhơn', './post_homestay/NHÀ TUI Share Quy Nhơn.php', 4),
+('NHÀ TUI Share Quy Nhơn', 'Homestay thiết kế hiện đại, ấm cúng, phù hợp cho nhóm bạn hoặc gia đình.', 'https://kenhhomestay.com/wp-content/uploads/2021/01/nha-tui-share-1.jpg', 'NHÀ TUI Share Quy Nhơn', './post_homestay/ Căn hộ NHÀ TUI Share Quy Nhơn.php', 4),
 ('Cát Homestay Quy Nhơn', 'Không gian yên tĩnh, gần biển, nội thất mộc mạc và dễ thương.', 'https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-5-1679530448.jpg', 'Cát Homestay Quy Nhơn', './post_homestay/Cát Homestay Quy Nhơn.php', 4),
 ('Daviden Homestay Quy Nhơn', 'Homestay ấm áp, tiện nghi, thích hợp cho du lịch cùng bạn bè.', 'https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-6-1679530497.jpg', 'Daviden Homestay Quy Nhơn', './post_homestay/Daviden Homestay Quy Nhơn.php', 4),
 ('Haven Vietnam Homestay', 'Homestay sát biển với phong cách gần gũi thiên nhiên, cực chill.', 'https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-7-1679530485.jpg', 'Haven Vietnam Homestay', './post_homestay/Haven Vietnam Homestay.php', 4),
@@ -127,4 +127,4 @@ INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
 INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
 ('Quẩy Hết Mình – Chill Hết Hồn Tại Lễ Hội Chùa Ông Núi Ở Quy Nhơn!', 'Nếu bạn là dân mê xê dịch chính hiệu, đang "lên mood" cho chuyến đi đầu năm và Quy Nhơn đang nằm trong wishlist thì đừng quên note gấp cái tên Lễ hội chùa Ông Núi nha!', 'https://quyzo.com/wp-content/uploads/2022/09/le-hoi-chua-ong-nui.jpg', 'Lễ hội chùa ông núi', './Post_Fes/OngNui_Fes', 9),
 ('Bình Định trình làng 2 tour ưu đãi du khách bằng chuyến tàu 0 đồng', 'Nghe gì chưa? Bình Định vừa "thả xích" combo du lịch siêu hời: 2 tour xịn xò kéo dài 3 ngày 2 đêm, giá chỉ tầm 3,2 triệu/người, đặc biệt là FREE vé tàu khứ hồi cho gần 1.200 người đầu tiên. Đúng rồi đó, đi tàu kiểu “bao nguyên chuyến” từ Hà Nội – Sài Gòn - Đà Nẵng đến Bình Định, khỏi lo vụ di chuyển nha!', 'https://tse2.mm.bing.net/th?id=OIP.D78jBIOxtElWHnHD2EqMugHaEu&cb=iwp1&rs=1&pid=ImgDetMain', 'Khuyến mãi', './Post_Fes/KhuyenMai1.php', 10);
->>>>>>> 1707fbada688bcd3a407c6a417cecff695faa6f6
+>>>>>>> 1707fbada688bcd3a407c6a417cecff695faa6f6 >>>>>>>>
