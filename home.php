@@ -91,7 +91,7 @@
                 <div class="guide-content">
                     <h3>Tips sống ảo tại Quy Nhơn</h3>
                     <p>Gợi ý những góc chụp ảnh thần thánh bạn nên biết!</p>
-                    <a href="#" class="guide-button">Xem chi tiết</a>
+                    <a href="Post/MeoChupHInh.php" class="guide-button">Xem chi tiết</a>
                 </div>
             </div>
         </div>
@@ -180,7 +180,7 @@
                 <div class="card-content">
                     <h3>Life’s A Beach</h3>
                     <p>Homestay sát biển mang vibe du mục, thân thiện và mộc mạc.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <a href="post_homestay/Life’s A Beach.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
 

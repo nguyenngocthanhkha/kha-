@@ -22,16 +22,16 @@
       <div class="menu-item">
         Kênh Homestay <span class="arrow">&#9660;</span>
         <div class="dropdown">
-          <a href="#" class="dropdown-item">Homestay gần biển</a>
-          <a href="#" class="dropdown-item">Homestay giá rẻ</a>
+          <a href="/kha-/checklist_homestay.php" class="dropdown-item">Homestay gần biển</a>
+          <a href="/kha-/checklist_giare.php" class="dropdown-item">Homestay giá rẻ</a>
         </div>
       </div>
 
       <div class="menu-item">
         Nghiện Cafe <span class="arrow">&#9660;</span>
         <div class="dropdown">
-          <a href="#" class="dropdown-item">Cafe view đẹp</a>
-          <a href="#" class="dropdown-item">Cafe mở khuya</a>
+          <a href="/kha-/checklist_cafe.php" class="dropdown-item">Cafe view đẹp</a>
+          <a href="/kha-/checklist_cafe_khuya.php" class="dropdown-item">Cafe mở khuya</a>
         </div>
       </div>
 
