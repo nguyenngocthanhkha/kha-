@@ -181,3 +181,7 @@ INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
 ('Chè Chuối Nướng', 'Quán Chè Chuối Nướng nằm trên đường Nguyễn Công Trứ, Quy Nhơn. Dù không gian nhỏ nhưng rất sạch sẽ và tạo cảm giác gần gũi, thoải mái cho khách.', 'https://2trip.vn/wp-content/uploads/2020/09/quan-banh-re-xoi-chien.jpg', 'Quán Chè Chuối Nướng', './Post_quán_ăn/quan10.php', 7),
 ('Bánh bèo Bà Xê', 'Quán bánh bèo Bà Xê rất nổi tiếng tại Quy Nhơn, thu hút nhiều khách du lịch và dân địa phương nhờ món ngon giá rẻ. Quán mở cửa từ 15\' đến 22\' các ngày trong tuần.', 'https://2trip.vn/wp-content/uploads/2020/09/quan-che-chuoi-nuong-quy-nhon.jpg', 'Quán bánh bèo Bà Xê', './Post_quán_ăn/quan11.php', 7),
 ('Mixue', 'Cửa hàng kem Mixue tại số 334 đường Diên Hồng, TP. Quy Nhơn, Bình Định, là điểm đến lý tưởng để thưởng thức kem ngon mát lạnh.', 'https://2trip.vn/wp-content/uploads/2021/08/quan-banh-beo-ngon-tai-quy-nhon-1.jpg', 'Cửa hàng kem Mixue', './Post_quán_ăn/quan12.php', 7);
+-- Để quên mật khẩu thêm cái này
+ALTER TABLE users 
+ADD COLUMN reset_otp VARCHAR(6) DEFAULT NULL,
+ADD COLUMN reset_otp_expiry DATETIME DEFAULT NULL;

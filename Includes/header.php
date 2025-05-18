@@ -61,8 +61,8 @@
 
     <!-- Đăng ký / Đăng nhập -->
     <div class="auth">
-      <a href="#" class="signup-link">Sign up</a>
-      <a href="#" class="login-btn">Log in</a>
+      <a href="/kha-/PHP/Register.php" class="signup-link">Sign up</a>
+      <a href="/kha-/PHP/Login.php" class="login-btn">Log in</a>
     </div>
   </div>
   
