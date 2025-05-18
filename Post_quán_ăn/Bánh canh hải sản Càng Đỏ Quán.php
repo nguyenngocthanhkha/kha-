@@ -1,4 +1,4 @@
-<?php include(__DIR__ . '/../../Includes/header.php'); ?>
+<?php include('../Includes/header.php'); ?>
 
 <!DOCTYPE html>
 
@@ -8,10 +8,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bánh Canh Hải Sản Càng Đỏ Quán – Đậm đà hương vị biển giữa lòng Quy Nhơn</title>
-    <link rel="stylesheet" href="../../CSS/stylePost.css">
-    <link rel="stylesheet" href="../../CSS/styleHeader.css">
-    <link rel="stylesheet" href="../../CSS/styleFooter.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+      <link rel="stylesheet" href="../CSS/stylePost.css">
+    <link rel="stylesheet" href="../CSS/styleHeader.css">
+    <link rel="stylesheet" href="../CSS/styleFooter.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Merriweather:wght@400;700&display=swap"
+        rel="stylesheet">
 </head>
 
 <body>
@@ -77,7 +79,7 @@
         </section>
     </article>
 
-<?php include(__DIR__ . '/../../Includes/footer.php'); ?>
+<?php include('../Includes/footer.php'); ?>
 </body>
 
 </html>

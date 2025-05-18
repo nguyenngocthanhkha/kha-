@@ -38,8 +38,8 @@
       <div class="menu-item">
         Địa điểm ăn uống <span class="arrow">&#9660;</span>
         <div class="dropdown">
-          <a href="#" class="dropdown-item">Ăn vặt</a>
-          <a href="#" class="dropdown-item">Quán ngon</a>
+          <a href="/kha-/checklist_anvat.php" class="dropdown-item">Ăn vặt</a>
+          <a href="/kha-/checklist_quanngon.php" class="dropdown-item">Quán ngon</a>
         </div>
       </div>
 
