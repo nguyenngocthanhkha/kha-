@@ -1,9 +1,14 @@
-
-CREATE TABLE Users (
-  user_id INT AUTO_INCREMENT PRIMARY KEY,
-  username VARCHAR(50) UNIQUE NOT NULL,
-  password VARCHAR(255) NOT NULL,
-  is_admin BOOLEAN DEFAULT FALSE
+CREATE TABLE users (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  username VARCHAR(50) UNIQUE NOT NULL,         -- tên đăng nhập
+  password VARCHAR(255) NOT NULL,               -- mật khẩu đã mã hóa
+  full_name VARCHAR(255) NOT NULL,              -- họ tên đầy đủ
+  birth_date DATE NOT NULL,                     -- ngày sinh (lưu đúng dạng ngày)
+  sex TINYINT(1) NOT NULL,                      -- 0: Nữ, 1: Nam
+  phone VARCHAR(15) NOT NULL,
+  email VARCHAR(255) NOT NULL,
+  created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP, -- thời điểm tạo tài khoản
+  is_admin BOOLEAN DEFAULT FALSE                -- phân quyền: true = admin
 );
 
 CREATE TABLE Posts (
@@ -95,5 +100,5 @@ INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
 ('Bí Kíp Chống Say Sóng Khi Du Lịch Bằng Tàu Ở Bình Định', 'Bỏ túi những mẹo đơn giản giúp bạn “đánh bại” say sóng để tận hưởng chuyến khám phá biển đảo như Cù Lao Xanh, Kỳ Co thật trọn vẹn!', 'https://afamilycdn.com/150157425591193600/2021/4/22/s1-1619080884692372505368.jpg', 'Mẹo chống say tàu', './Post/MeoSaySong.php', 2);
 --- Ừ thì cũng có
 INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
-('Quẩy Hết Mình – Chill Hết Hồn Tại Lễ Hội Chùa Ông Núi Ở Quy Nhơn!', 'Nếu bạn là dân mê xê dịch chính hiệu, đang "lên mood" cho chuyến đi đầu năm và Quy Nhơn đang nằm trong wishlist thì đừng quên note gấp cái tên Lễ hội chùa Ông Núi nha!', 'https://quyzo.com/wp-content/uploads/2022/09/le-hoi-chua-ong-nui.jpg', 'Lễ hội chùa ông núi', './Post_Fes/OngNui_Fes', 9),
+('Quẩy Hết Mình – Chill Hết Hồn Tại Lễ Hội Chùa Ông Núi Ở Quy Nhơn!', 'Nếu bạn là dân mê xê dịch chính hiệu, đang "lên mood" cho chuyến đi đầu năm và Quy Nhơn đang nằm trong wishlist thì đừng quên note gấp cái tên Lễ hội chùa Ông Núi nha!', 'https://quyzo.com/wp-content/uploads/2022/09/le-hoi-chua-ong-nui.jpg', 'Lễ hội chùa ông núi', './Post_Fes/OngNui_Fes.php', 9),
 ('Bình Định trình làng 2 tour ưu đãi du khách bằng chuyến tàu 0 đồng', 'Nghe gì chưa? Bình Định vừa "thả xích" combo du lịch siêu hời: 2 tour xịn xò kéo dài 3 ngày 2 đêm, giá chỉ tầm 3,2 triệu/người, đặc biệt là FREE vé tàu khứ hồi cho gần 1.200 người đầu tiên. Đúng rồi đó, đi tàu kiểu “bao nguyên chuyến” từ Hà Nội – Sài Gòn - Đà Nẵng đến Bình Định, khỏi lo vụ di chuyển nha!', 'https://tse2.mm.bing.net/th?id=OIP.D78jBIOxtElWHnHD2EqMugHaEu&cb=iwp1&rs=1&pid=ImgDetMain', 'Khuyến mãi', './Post_Fes/KhuyenMai1.php', 10);

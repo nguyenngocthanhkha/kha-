@@ -281,7 +281,7 @@
                 <div class="card-content">
                     <h3>Lễ hội Đống Đa – Tây Sơn</h3>
                     <p>Rước kiệu, múa trống trận Tây Sơn, biểu diễn võ cổ truyền Bình Định cực kỳ ấn tượng.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <a href="Post_Fes/TaySon_Fes.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
 
@@ -293,7 +293,7 @@
                     <h3>Lễ hội ca bài chòi</h3>
                     <p>Người dân tham gia chơi bài chòi dưới các chòi tre, lắng nghe những làn điệu mộc mạc mang đậm bản
                         sắc miền Trung.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <a href="Post_Fes/BaiChoi_Fes.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
 
@@ -304,7 +304,7 @@
                 <div class="card-content">
                     <h3>Lễ hội cầu ngư</h3>
                     <p> </p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <a href="Post_Fes/CauNgu_Fes.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
 
@@ -315,7 +315,7 @@
                 <div class="card-content">
                     <h3>Lễ hội Cá Ông</h3>
                     <p>Tế lễ truyền thống, rước thần trên biển, múa lân, múa bông, hát bội.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <a href="Post_Fes/CaOng_Fes.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
         </div>

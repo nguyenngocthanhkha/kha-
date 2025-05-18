@@ -46,8 +46,8 @@
       <div class="menu-item">
         Sự kiện nổi bật <span class="arrow">&#9660;</span>
         <div class="dropdown">
-          <a href="#" class="dropdown-item">Lễ hội</a>
-          <a href="#" class="dropdown-item">Khuyến mãi</a>
+          <a href="/kha-/Festival.php" class="dropdown-item">Lễ hội</a>
+          <a href="/kha-/Concessionary.php" class="dropdown-item">Khuyến mãi</a>
         </div>
       </div>
 
@@ -65,3 +65,4 @@
       <a href="#" class="login-btn">Log in</a>
     </div>
   </div>
+  
