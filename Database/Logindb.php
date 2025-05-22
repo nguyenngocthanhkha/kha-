@@ -22,8 +22,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
         if ($hashed_pass && password_verify($pass, $hashed_pass)) {
             echo "<h1 style='color:green'>Đăng nhập thành công!</h1>";
-            echo "<a href='#'>Về trang chủ</a>";
-            header("Refresh: 3; url=index.php");
+            echo "<a href='../home.php'>Về trang chủ</a>";
+            header("Refresh: 3; url=../home.php");
             exit;
 
             // Nhớ mật khẩu qua cookie

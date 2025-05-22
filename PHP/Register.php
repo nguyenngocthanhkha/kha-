@@ -12,7 +12,7 @@
     <span>Đăng ký tài khoản</span>
   </div>
   <br>
-  <form action="../DATABASE/Registerdb.php" method="POST">
+  <form action="../Database/Registerdb.php" method="POST">
     <div><input type="text" name="user" placeholder="Tên đăng nhập" required></div>
     <div><input type="password" name="pass" placeholder="Mật khẩu" required></div>
     <div><input type="password" name="acpass" placeholder="Nhập lại mật khẩu" required></div>

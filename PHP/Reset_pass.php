@@ -12,7 +12,7 @@
             <span>Đổi mật khẩu</span>
         </div>
         <br>
-        <form action="../DATABASE/Resetpassdb.php" method="post">
+        <form action="../Database/Resetpassdb.php" method="post">
             <div class="input_wrapper">
                 <input type="text" name="user" class="input_field" required>
                 <label for="user" class="label">Tên đăng nhập</label>

@@ -58,11 +58,11 @@
     <div class="search-box">
       <input type="text" class="search-input" placeholder="Tìm kiếm" />
     </div>
-
+  
     <!-- Đăng ký / Đăng nhập -->
-    <div class="auth">
-      <a href="/kha-/PHP/Register.php" class="signup-link">Sign up</a>
-      <a href="/kha-/PHP/Login.php" class="login-btn">Log in</a>
+    <div class="auth">    
+      <a href="../PHP/Register.php" class="signup-link">Sign up</a>
+      <a href="../PHP/Login.php" class="login-btn">Log in</a>
     </div>
   </div>
   
