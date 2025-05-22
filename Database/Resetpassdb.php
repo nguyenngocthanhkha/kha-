@@ -59,7 +59,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             if (mysqli_stmt_execute($update_stmt)) {
                 echo "<h3 style='color:green'>Đổi mật khẩu thành công!</h3>";
                 echo "<a href='/kha-/home.php' style='color:blue; text-decoration:none;'>Trở về Trang Chủ</a>";
-                header("Location: 3; url=../home.php");
+                header("Location: 3; url=kha-/home.php");
                 exit;
             } else {
                 echo "<h3 style='color:red'>Lỗi khi cập nhật mật khẩu.</h3>";
