@@ -51,7 +51,7 @@
         </div>
       </div>
 
-      <a href="#" class="menu-item">Hỏi đáp</a>
+      <a href="/kha-/nut_lienhe.php" class="menu-item">Liên hệ</a>
     </nav>
 
     <!-- Search -->
