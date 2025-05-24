@@ -46,10 +46,11 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         $hash = password_hash($pass, PASSWORD_DEFAULT);
 
         // Kiểm tra người dùng tồn tại
-        $stmt = $conn->prepare("SELECT * FROM users WHERE reset_token = ?");
+        $stmt = $conn->prepare("SELECT * FROM users WHERE username = ?");
         mysqli_stmt_bind_param($stmt, "s", $user);
         mysqli_stmt_execute($stmt);
         $result = mysqli_stmt_get_result($stmt);
+
 
         if (mysqli_num_rows($result) > 0) {
             // Người dùng tồn tại, cập nhật mật khẩu
@@ -59,7 +60,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             if (mysqli_stmt_execute($update_stmt)) {
                 echo "<h3 style='color:green'>Đổi mật khẩu thành công!</h3>";
                 echo "<a href='/kha-/home.php' style='color:blue; text-decoration:none;'>Trở về Trang Chủ</a>";
-                header("Refresh: 3; url=kha-/home.php");
+                header("Refresh: 3; url=/kha-/home.php");
                 exit;
             } else {
                 echo "<h3 style='color:red'>Lỗi khi cập nhật mật khẩu.</h3>";

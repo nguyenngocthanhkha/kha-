@@ -33,7 +33,7 @@
                 <img src="https://img.icons8.com/ios-filled/50/ffffff/marker.png" alt="icon" />
                 <strong>Trường Đại Học Quy Nhơn</strong>
                 170 An Dương Vương, TP. Quy Nhơn, Tỉnh Bình Định.<br>
-                <a href="#">(Bản đồ)</a>
+                <a href="https://map.coccoc.com/map/53300242594451?borders=13.751161471896399,109.1981363296509,13.765646655832633,109.23109531402588" target="_blank" rel="noopener noreferrer">(Bản đồ)</a>
             </div>
         </div>
 
