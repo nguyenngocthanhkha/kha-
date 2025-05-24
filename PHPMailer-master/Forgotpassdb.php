@@ -37,12 +37,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $mail->isSMTP();
             $mail->Host       = 'smtp.gmail.com';
             $mail->SMTPAuth   = true;
-            $mail->Username   = 'thanhkha23122005@gmail.com'; 
-            $mail->Password   = 'ynpf mzzd rctl qmlb'; // App Password
+            $mail->Username   = 'hotrodulichquynhon@gmail.com'; 
+            $mail->Password   = 'zojzoggsivxlrmeb'; // App Password
             $mail->SMTPSecure = 'tls';
             $mail->Port       = 587;
 
-            $mail->setFrom('thanhkha23122005@gmail.com', 'QNTour');
+            $mail->setFrom('hotrodulichquynhon@gmail.com', 'QNTour');
             $mail->addAddress($email);
 
             $mail->isHTML(true);
