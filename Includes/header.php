@@ -69,7 +69,23 @@
     <div class="user-loginned hidden">
       <div class="user-loginned-warpper">
         <div class="img-warpper">
-            <img src="/kha-/UserAvatar/default.jpg" alt="Ảnh user">
+            <?php
+                if(isset($_SESSION['UserName']))
+                {
+                  require $_SERVER['DOCUMENT_ROOT']. "/kha-/Database/db_connect.php";
+                  $sql = "Select * from users where username = '".$_SESSION['UserName']."'";
+                  $result = mysqli_query($conn, $sql);
+                  $data = mysqli_fetch_assoc($result);
+                  if(empty($data['avatar'])){
+                    echo ' <img src="/kha-/UserAvatar/default.jpg" alt="Ảnh user">';
+                  }
+                  else{
+                    echo ' <img src="/kha-/UserAvatar/'.$data['avatar'].'" alt="Ảnh user">';
+                  }
+                }
+                
+            ?>
+            
         </div>
         <div class="username-warpper ">   
           <?php 
@@ -84,7 +100,7 @@
         <div class="dropdown user-info">
           <a href="#" id="update-info" class="dropdown-item show-info">Cập nhật thông tin</a>
           <a href="#" class="dropdown-item show-info">Đổi mật khẩu</a>
-          <a href="#" class="dropdown-item dang-xuat">Đăng xuất</a>
+          <a href="/kha-/PHP/logout.php" class="dropdown-item dang-xuat">Đăng xuất</a>
         </div>
       </div>
       <!-- <a href="#" class="signout-btn">Đăng xuất</a> -->
@@ -113,6 +129,11 @@
         user_info.addEventListener("click", function(e){
           user_dropdown.classList.toggle("show");
         });
+        document.querySelector(".dropdown-item.dang-xuat").addEventListener("click", function(e){
+          if(!confirm("Bạn có muốn đăng xuất không")){
+            e.preventDefault();
+          }
+        })
 
     </script>
 <?php
@@ -133,11 +154,15 @@
 <div class="new-windows">
     <div class="windows-user-data">
     <h1>Cập nhật thông tin</h1>
-    <form action="../DATABASE/Registerdb.php" method="POST">
+    <form action="/kha-/Database/changeInfo.php" method="POST" enctype="multipart/form-data">
       <table class="table-form">
         <tr>
           <td class="table-form col-1">Tên đăng nhập: </td>
           <td class="table-form col-2"><input type="text" name="user" disabled placeholder="Tên đăng nhập" required value="<?php echo $username ?>"></td>
+        </tr>
+        <tr>
+          <td class="table-form col-1">Avatar: </td>
+          <td class="table-form col-2"><input type="file" name="avatar"  required value="<?php echo $fullname ?>"></td>
         </tr>
         <tr>
           <td class="table-form col-1">Họ tên: </td>
@@ -189,5 +214,7 @@ new_windows.addEventListener("wheel", function(e) {
   function closeWindows(){
     new_windows.classList.remove("show")   
   }
+  
+
   
 </script>
