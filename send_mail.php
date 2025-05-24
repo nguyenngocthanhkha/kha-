@@ -21,7 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
         $mail->Username   = 'hotrodulichquynhon@gmail.com'; // Gmail của bạn
-        $mail->Password   = 'zojzoggsivxlrmeb'; // Mật khẩu ứng dụng
+        $mail->Password   = 'alrgrwongjcwlrgk'; // Mật khẩu ứng dụng
         $mail->SMTPSecure = 'tls';
         $mail->Port       = 587;
 

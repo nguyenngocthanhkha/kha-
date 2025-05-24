@@ -37,8 +37,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $mail->isSMTP();
             $mail->Host       = 'smtp.gmail.com';
             $mail->SMTPAuth   = true;
-            $mail->Username   = 'hotrodulichquynhon@gmail.com'; 
-            $mail->Password   = 'zojzoggsivxlrmeb'; // App Password
+            $mail->Username   = 'hotrodulichquynhon@gmail.com'; // Gmail của bạn
+            $mail->Password   = 'pchhvamklwbowhsm'; // Mật khẩu ứng dụng
             $mail->SMTPSecure = 'tls';
             $mail->Port       = 587;
 
