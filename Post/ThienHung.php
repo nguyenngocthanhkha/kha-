@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="../CSS/stylePost.css">
     <link rel="stylesheet" href="../CSS/styleHeader.css">
     <link rel="stylesheet" href="../CSS/styleFooter.css">
+    
 
 </head>
 

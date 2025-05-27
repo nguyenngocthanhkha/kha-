@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="../CSS/stylePost.css">
     <link rel="stylesheet" href="../CSS/styleHeader.css">
     <link rel="stylesheet" href="../CSS/styleFooter.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 </head>
 
