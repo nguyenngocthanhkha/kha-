@@ -104,7 +104,7 @@
             </div>
             <div class="dropdown user-info">
                 <a href="#" id="update-info" class="dropdown-item show-info">Cập nhật thông tin</a>
-                <a href="#" class="dropdown-item show-info">Đổi mật khẩu</a>
+                <a href="/kha-/PHP/change_Pass.php" class="dropdown-item show-info">Đổi mật khẩu</a>
                 <a href="/kha-/PHP/logout.php" class="dropdown-item dang-xuat">Đăng xuất</a>
             </div>
         </div>
