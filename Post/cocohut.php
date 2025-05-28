@@ -14,7 +14,7 @@
 
 <body>
     <main class="post-container">
-        <article class="style3">
+        <article class="style3"></article>
             <header class="post-header">
                 <h1>COCOHUT HOMESTAY – Không gian nghỉ dưỡng yên bình tại Quy Nhơn</h1>
             </header>
