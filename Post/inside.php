@@ -16,7 +16,7 @@
     <main class="post-container">
         <article class="style3">
             <header class="post-header">
-                <h1>Innside Homestay – tiện nghi như khách sạn mini tại Quy Nhơn</h1>
+                <>Innside Homestay – tiện nghi như khách sạn mini tại Quy Nhơn</header>h1>
                 
             </header>
 
