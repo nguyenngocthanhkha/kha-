@@ -20,7 +20,7 @@
         <h1>Bình Định trình làng 2 tour ưu đãi du khách bằng chuyến tàu 0 đồng</h1>
         <h2>🔥 Bình Định chơi lớn, tung tour 3N2Đ chỉ ~3,2 triệu/người – FREE vé tàu khứ hồi 🔥</h2>
         <figure>
-            <img src="https://top10quynhon.com/wp-content/uploads/2024/05/ga-dieu-tri-2-scaled.jpg" alt="Ga Diêu Trì">
+            <img src="../Picture/KhuyenMai1_0.jpg" alt="Ga Diêu Trì">
             <figcaption>Hiện nay, nhiều du khách lựa chọn đi tàu hỏa đến Bình Định du lịch (Ảnh: Doãn Công).
             </figcaption>
         </figure>
@@ -47,7 +47,7 @@
         <p>👉 Đặc biệt: <strong>trải nghiệm võ cổ truyền tại chùa Long Phước</strong>, nghe thôi là đã muốn múa vài
             đường rồi đó!</p>
         <figure>
-            <img src="https://quynhontourist.com/wp-content/uploads/2020/12/tour-con-chim-tieu-chung-vien-lang-song-vo-duong-chua-long-phuoc-1-ngay-quynhontourist-11.jpg"
+            <img src="../Picture/KhuyenMai1_1.jpg"
                 alt="Trải nghiệm võ cổ truyền">
             <figcaption>Du khách trải nghiệm đánh võ tại chùa</figcaption>
         </figure>

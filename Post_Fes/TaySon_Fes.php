@@ -20,7 +20,7 @@
 
         <h1>🎉 Tết là phải đi Tây Sơn!</h1>
         <figure>
-            <img src="https://binhdinh.gov.vn/upload/2005340/fck/phongnv/55481e9c02f270190986c3e2.jpg"
+            <img src="../Picture/TaySonFes_0.jpg"
                 alt="Cởi voi">
             <figcaption> Lễ hội Đống Đa - Tây Sơn</figcaption>
         </figure>
@@ -43,7 +43,7 @@
 
         <h2>🎊 Chiều mùng 4: Mở bát bằng nghi lễ truyền thống</h2>
         <figure>
-            <img src="https://quyzo.com/wp-content/uploads/2022/09/le-hoi-dong-da-tay-son-binh-dinh1.jpg"
+            <img src="../Picture/TaySonFes_1.jpg"
                 alt="Cờ quạt">
             <figcaption>Biểu diễn múa</figcaption>
         </figure>
@@ -53,7 +53,7 @@
 
         <h2>⚔️ Mùng 5: Hội là phải cháy!</h2>
         <figure>
-            <img src="https://binhdinh.gov.vn/upload/2005340/20250508/9FE8CD82-2071-4E97-BACC-47F177D87253_18fe2.jpeg"
+            <img src="../Picture/TaySonFes_2.jpg"
                 alt="múa võ">
             <figcaption>Biểu diễn võ cổ truyền Tây Sơn</figcaption>
         </figure>
@@ -70,7 +70,7 @@
 
         <h2>🔥 Highlight: Nhạc võ Tây Sơn – combo nghệ thuật và chiến binh</h2>
         <figure>
-            <img src="https://quyzo.com/wp-content/uploads/2022/09/le-hoi-dong-da-tay-son-binh-dinh2-768x511.jpg"
+            <img src="../Picture/TaySonFes_3.jpg"
                 alt="Rước cờ">
             <figcaption> Lễ hội Đống Đa - Tây Sơn</figcaption>
         </figure>

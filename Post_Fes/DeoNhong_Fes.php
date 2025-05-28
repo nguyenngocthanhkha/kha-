@@ -29,7 +29,7 @@
 
         <section>
             <figure>
-                <img src="https://dulichthuduc.com.vn/vnt_upload/news/NAM-TRUNG-BO/binh-dinh/le_hoi_deo_nhong_duong_lieu_binh_dinh_thu_duc_travel.jpg"
+                <img src="../Picture/DeoNhong_0.jpg"
                     alt="Dâng hương">
                 <figcaption> Lễ dâng hương tại lễ hội Đèo Nhông</figcaption>
             </figure>
@@ -66,7 +66,7 @@
         <section>
             <h2>Lễ hội có gì “chill” không?</h2>
             <figure>
-                <img src="https://cdn.media.dulich24.com.vn/diemden/le-hoi-deo-nhong-duong-lieu-5486/le-hoi-deo-nhong-duong-lieu-8.jpg"
+                <img src="../Picture/DeoNhong_1.jpg"
                     alt="Thi tải đạn">
                 <figcaption> Thi tải đạn</figcaption>
             </figure>
@@ -75,7 +75,7 @@
                     anh hùng liệt sĩ.</li>
                 <li>Đây cũng là điểm check-in cực “xịn” với hàng cây cổ thụ và tượng đài hoành tráng.</li>
                 <figure>
-                    <img src="https://cdn.media.dulich24.com.vn/diemden/le-hoi-deo-nhong-duong-lieu-5486/le-hoi-deo-nhong-duong-lieu-15.jpg"
+                    <img src="../Picture/DeoNhong_2.jpg"
                         alt="Đánh bóng chuyền">
                     <figcaption> Thi đấu bóng chuyền</figcaption>
                 </figure>

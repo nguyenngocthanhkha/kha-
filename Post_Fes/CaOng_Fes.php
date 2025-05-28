@@ -27,7 +27,7 @@
             sóng to gió lớn khi ra khơi. Truyền thuyết kể rằng cá Ông là hóa thân từ áo cà sa của Phật Bà Quan Âm, quăng
             xuống biển để cứu người bị nạn. Nên dân biển tôn kính hết nấc!</p>
         <figure>
-            <img src="https://vcdn1-vnexpress.vnecdn.net/2014/03/13/01-JPG-3293-1394698410.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=LCQOeRxxCrhj7KyVdFuXQQ"
+            <img src="../Picture/CaOng_0.png"
                 alt="Rước thần">
             <figcaption>Rước thần Nam Hải từ bãi biển về lăng</figcaption>
         </figure>
@@ -36,7 +36,7 @@
             chôn cất tử tế, sau 3 năm còn có lễ cải táng hoành tráng đưa vào lăng. Nghiêm túc và thành kính không thua
             gì đám tang con người.:</p>
         <figure>
-            <img src="https://vcdn1-vnexpress.vnecdn.net/2014/03/13/02-JPG-9003-1394698410.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=rxTvXjYRFwkHUadiasDR2Q"
+            <img src="../Picture/CaOng_1.png"
                 alt="Dải lụa đỏ – cầu để thần vào chánh điện">
             <figcaption>Dải lụa đỏ – cầu để thần vào chánh điện</figcaption>
         </figure>
@@ -44,7 +44,7 @@
         <p>Ngày 11 âm lịch, lễ chính tế Nam Hải Thần Ngư bắt đầu. Dân chài cầu mong mùa cá đầy ghe, trời yên biển lặng
             và cả bình an cho xóm làng. Ban đêm còn có phần múa gươm, múa bá trạo, đọc văn tế, cực “deep”.</p>
         <figure>
-            <img src="https://vcdn1-vnexpress.vnecdn.net/2014/03/13/03-JPG-7465-1394698410.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=JCF5Mw3lS9-wilKDnB1TIA"
+            <img src="../Picture/CaOng_2.png"
                 alt="Đội gươm theo rước thần">
             <figcaption>Đội gươm theo rước thần</figcaption>
         </figure>
@@ -54,7 +54,7 @@
         <p>Tầm 1h30 sáng – ai "trâu" thì ráng ở lại xem đội gươm múa hầu thần nha, vibe cực cháy. Đặc biệt, từ năm 2013
             còn có đội bá trạo mới toanh, thêm phần hấp dẫn cho lễ hội.</p>
         <figure>
-            <img src="https://vcdn1-vnexpress.vnecdn.net/2014/03/13/11-JPG-3223-1394698411.jpg?w=680&h=0&q=100&dpr=1&fit=crop&s=qBePUcibq7fQxQerxxi4lA"
+            <img src="../Picture/CaOng_3.png"
                 alt="Đội gươm múa hầu thần vào lúc 1 giờ 30 phút sáng trong chánh lễ tế thần Nam Hải.">
             <figcaption> Đội gươm múa hầu thần vào lúc 1 giờ 30 phút sáng trong chánh lễ tế thần Nam Hải</figcaption>
             <h2>💬 Không chỉ lễ, mà còn là dịp “bonding” cộng đồng</h2>

@@ -19,7 +19,7 @@
 
         <h1>🎉 Lễ hội đua thuyền Gò Bồi – "Cháy" hết mình mỗi dịp Tết ở Bình Định! 🚣‍♂️🔥</h1>
         <figure>
-            <img src="https://mia.vn/media/uploads/blog-du-lich/le-hoi-dua-thuyen-1-1679308143.jpg"
+            <img src="../Picture/DuaThuyen_0.jpg"
                 alt="Lễ hội đua thuyền Gò Bồi là nét đẹp văn hóa truyền thống của người dân Bình Định">
             <figcaption>Lễ hội đua thuyền Gò Bồi là nét đẹp văn hóa truyền thống của người dân Bình Định</figcaption>
         </figure>
@@ -38,7 +38,7 @@
         <li>
             🦆 Bắt vịt trên sông – Trò chơi tuổi thơ phiên bản siêu cấp!
             <figure>
-                <img src="https://mia.vn/media/uploads/blog-du-lich/le-hoi-dua-thuyen-3-1679308170.jpg" alt="Bắt vịt">
+                <img src="../Picture/DuaThuyen_1.jpg" alt="Bắt vịt">
                 <figcaption>Các vận động viên thể hiện tài nghệ bơi điêu luyện của mình qua trò chơi bắt vịt trên sông
                 </figcaption>
             </figure>
@@ -46,7 +46,7 @@
                 nước, người chơi thì nhảy ùm xuống, đua nhau bơi như cá mập để chộp lấy “chiến lợi phẩm”. Đội nào
                 bắt nhiều hơn là ẵm giải liền tay. Cười ra nước mắt luôn!</p>
             <figure>
-                <img src="https://mia.vn/media/uploads/blog-du-lich/le-hoi-dua-thuyen-4-1679308170.jpg" alt="Chống sào">
+                <img src="../Picture/DuaThuyen_2.jpg" alt="Chống sào">
                 <figcaption>Phần thi đua sõng câu bơi dầm đòi hỏi sự khéo léo của người chơi</figcaption>
             </figure>
         </li>
@@ -58,7 +58,7 @@
         <li>
             🐉 Đua thuyền rồng tập thể – Highlight không thể bỏ lỡ!
             <figure>
-                <img src="https://mia.vn/media/uploads/blog-du-lich/le-hoi-dua-thuyen-5-1679308170.jpg"
+                <img src="../Picture/DuaThuyen_3.jpg"
                     alt="Phần thi đua thuyền rồng tập thể được mong chờ nhất lễ hội">
                 <figcaption>Phần thi đua thuyền rồng tập thể được mong chờ nhất lễ hội</figcaption>
             </figure>
@@ -76,7 +76,7 @@
         <p>Mặc dù thi 13h (giờ Mùi), nhưng từ 12h trưa, dân làng đã chen chật bờ sông, trống chiêng đánh vang, ai
             cũng sẵn sàng cháy hết mình. Cổ động viên “quẩy” còn hơn cả vận động viên!</p>
         <figure>
-            <img src="https://mia.vn/media/uploads/blog-du-lich/le-hoi-dua-thuyen-2-1679308170.jpg"
+            <img src="../Picture/DuaThuyen_4.jpg"
                 alt="Lễ hội đua thuyền Gò Bồi thu hút đông đảo người dân đến tham dự">
             <figcaption>Lễ hội đua thuyền Gò Bồi thu hút đông đảo người dân đến tham dự</figcaption>
         </figure>
@@ -85,7 +85,7 @@
             hòa, cá tôm đầy ghe 🐟🌧️. Người Bình Định xem đây là nét văn hóa không thể thiếu – rèn sức khỏe, giữ
             tinh thần thượng võ, kết nối cộng đồng và truyền lửa truyền thống cho thế hệ sau.</p>
         <figure>
-            <img src="https://mia.vn/media/uploads/blog-du-lich/le-hoi-dua-thuyen-6-1679308170.jpg" alt="Đua thuyền">
+            <img src="../Picture/DuaThuyen_5.jpg" alt="Đua thuyền">
             <figcaption>Lễ hội đua thuyền Gò Bồi mang ý nghĩa khai thông kênh rạch, cầu mong năm mới bình an
             </figcaption>
         </figure>

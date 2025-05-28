@@ -35,7 +35,7 @@
         <h3>🕯️ Phần Lễ – Truyền Thống, Trang Nghiêm</h3>
         <ul>
             <figure>
-                <img src="https://quyzo.com/wp-content/uploads/2022/09/4787.jpg" alt="Lễ rước sắc">
+                <img src="../Picture/CauNgu_0.jpg" alt="Lễ rước sắc">
                 <figcaption>Lễ rước sắc</figcaption>
             </figure>
             <li><strong>Lễ rước Sắc:</strong> Mở đầu lễ hội với màn rước bài vị Ông Nam Hải (cá voi – loài vật linh
@@ -52,7 +52,7 @@
 
         <h3>🎉 Phần Hội – Nhiệt Huyết, Rộn Ràng</h3>
         <figure>
-            <img src="https://quyzo.com/wp-content/uploads/2022/09/158c1c92ae3342855b1bdcabd99df3d2.jpg"
+            <img src="../Picture/CauNgu_1.jpg"
                 alt="đua thuyền">
             <figcaption>Đua thuyền</figcaption>
         </figure>

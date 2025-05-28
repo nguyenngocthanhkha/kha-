@@ -19,7 +19,7 @@
     <article class="style2">
         <h1>Náo nhiệt lễ hội Chợ Gò – Ngày hội đầu xuân rộn ràng tại đất võ Bình Định</h1>
         <figure>
-            <img src="https://mia.vn/media/uploads/blog-du-lich/le-hoi-cho-go-1-1679370668.jpg" alt="Múa lân">
+            <img src="../Picture/ChoGo_0.jpg" alt="Múa lân">
             <figcaption>Lễ hội Chợ Gò là phong tục truyền thống của người dân Quy Nhơn, Bình Định mỗi dịp Tết đến
             </figcaption>
         </figure>
@@ -68,7 +68,7 @@
 
             <h3>2.3. Mua đặc sản, thưởng thức tinh hoa ẩm thực xứ Nẫu</h3>
             <figure>
-                <img src="../Picture/le-hoi-cho-go-5-1679370673.jpg" alt="Tré Bình Định">
+                <img src="../Picture/ChoGo_3.jpg" alt="Tré Bình Định">
                 <figcaption>Đặc sản tré trứ danh Bình Định</figcaption>
             </figure>
             <p>
