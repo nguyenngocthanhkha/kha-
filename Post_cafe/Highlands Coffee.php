@@ -18,7 +18,7 @@
         <section>
             <h1>Highlands Coffee – Không gian hiện đại giữa lòng thành phố Quy Nhơn</h1>
             <figure>
-                <img src="https://sonbetongconpa.vn/wp-content/uploads/2023/09/hinh-anh-highland-coffee-nguyen-chanh-ha-noi-1-1067x800.jpg" alt="Highlands Coffee Quy Nhơn - Nguyễn Trung Tín">
+                <img src="../Picture/cfhighland_0.jpg" alt="Highlands Coffee Quy Nhơn - Nguyễn Trung Tín">
                 <figcaption>Không gian rộng rãi, thoáng mát tại Highlands Coffee Quy Nhơn</figcaption>
             </figure>
             <p>

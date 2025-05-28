@@ -18,7 +18,7 @@
         <section>
             <h1>Phúc Long Cafe Quy Nhơn – Hương vị trà và cà phê chuẩn Sài Gòn giữa lòng phố biển</h1>
             <figure>
-                <img src="https://quynhonreview.com/wp-content/uploads/2022/09/phuc-long-thumb-quynhonreview.jpg" alt="Phúc Long Cafe Quy Nhơn">
+                <img src="../Picture/cfphuclong_0.jpg" alt="Phúc Long Cafe Quy Nhơn">
                 <figcaption>Không gian hiện đại, sang trọng của Phúc Long tại Quy Nhơn</figcaption>
             </figure>
             <p>

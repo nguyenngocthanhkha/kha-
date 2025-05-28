@@ -18,7 +18,7 @@
         <section>
             <h1>CAS Tea and Coffee House – Không gian cà phê cổ kính giữa phố biển Quy Nhơn</h1>
             <figure>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbqooc3AlzqjVPVpYFnznUf6ZyCmk5YB4tNg&s" alt="CAS Tea and Coffee House Quy Nhơn">
+                <img src="../Picture/cfcas_0.jpg" alt="CAS Tea and Coffee House Quy Nhơn">
                 <figcaption>Góc quán đậm chất hoài niệm tại CAS Tea and Coffee House</figcaption>
             </figure>
             <p>

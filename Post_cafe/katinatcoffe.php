@@ -18,7 +18,7 @@
         <section>
             <h1>Katinat Cafe Quy Nhơn – Cà phê đậm chất Sài Gòn giữa lòng phố biển</h1>
             <figure>
-                <img src="https://www.cotrang.org/public/images/tin_dang/1/33_katinat-quy-nhon-bk-01.jpg" alt="Katinat Cafe Quy Nhơn">
+                <img src="../Picture/cfkatinat_0.jpg" alt="Katinat Cafe Quy Nhơn">
                 <figcaption>Không gian hiện đại, sang trọng tại Katinat Cafe Quy Nhơn</figcaption>
             </figure>
             <p>

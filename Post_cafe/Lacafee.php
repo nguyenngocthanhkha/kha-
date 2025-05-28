@@ -17,7 +17,7 @@
         <section>
             <h1>Lacafee Coffee – Không gian tối giản, hiện đại tại Quy Nhơn</h1>
             <figure>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfWcPjFhYO7auUq8rHyY8-EeG0XUXsJ6_C1A&s" alt="Lacafee Coffee Quy Nhơn">
+                <img src="../Picture/cflaca_0.jpg" alt="Lacafee Coffee Quy Nhơn">
                 <figcaption>Thiết kế tối giản, sang trọng tại Lacafee Coffee Quy Nhơn</figcaption>
             </figure>
             <p>

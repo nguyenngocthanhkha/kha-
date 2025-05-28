@@ -18,7 +18,7 @@
         <section>
             <h1>Chòi Cafe Quy Nhơn – Không gian mộc giữa lòng phố biển</h1>
             <figure>
-                <img src="https://trinhvantuyen.com/wp-content/uploads/2022/03/lam-choi-la-co-04.jpg" alt="Chòi Cafe Quy Nhơn">
+                <img src="../Picture/cfchoi_0.jpg" alt="Chòi Cafe Quy Nhơn">
                 <figcaption>Chòi Cafe – nơi đậm chất mộc và đầy cảm hứng ở Quy Nhơn</figcaption>
             </figure>
             <p>
