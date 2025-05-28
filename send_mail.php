@@ -20,14 +20,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->isSMTP();
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'thanhkha23122005@gmail.com'; // Gmail của bạn
-        $mail->Password   = 'ucxcclkosshpijkh'; // Mật khẩu ứng dụng
+        $mail->Username   = 'hotrodulichquynhon@gmail.com'; // Gmail của bạn
+        $mail->Password   = 'alrgrwongjcwlrgk'; // Mật khẩu ứng dụng
         $mail->SMTPSecure = 'tls';
         $mail->Port       = 587;
 
         // Thiết lập người gửi và người nhận
         $mail->setFrom($from_email, $name);
-        $mail->addAddress('thanhkha23122005@gmail.com'); // Người nhận cố định
+        $mail->addAddress('hotrodulichquynhon@gmail.com'); // Người nhận cố định
 
         // Nội dung email
         $mail->isHTML(true);

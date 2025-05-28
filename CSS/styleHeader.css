@@ -158,4 +158,98 @@
         margin-top: 0.5rem;
       }
     }
-    
+
+    .hidden{
+      display: none;
+    }
+
+    .user-loginned{
+      
+      margin: 10px;
+    }
+    .dropdown.user-info{
+      display: none;
+ 
+    }
+    .dropdown.user-info.show{
+
+      display: block;
+      position: absolute;
+      transform: translateX(-50%);
+
+    }
+    .user-loginned img{
+
+      width: 60px;
+      height: 60px;
+      object-fit: cover;
+      border-radius: 50%;
+
+    }
+    .user-loginned-warpper{
+      position: relative;
+    }
+    .user-loginned .username-warpper{
+      margin-top: 10px;
+      text-align: center;
+    }
+    .user-loginned .img-warpper
+    {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .windows-user-data {
+      top: 20%;
+      left: 50%;
+      width: 500px;
+      transform: translateX(-50%);
+      font-size: 1.2rem;
+      background-color: white;
+      padding: 30px;
+      border-radius: 5%;
+      position: absolute;
+      z-index: 102;
+    }
+    .windows-user-data form > *{
+      margin-bottom: 5px;
+    }
+
+    .windows-user-data input:not(.btn){
+      padding: 5px 10px;
+      width: 210px;
+      
+    }
+
+    .new-windows{
+      display: none;
+    }
+    .new-windows.show{
+      display: block;
+      
+    }
+    .new-windows::before{
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      content: '';
+      background-color: rgba(0, 0, 0, 0.2);
+      z-index: 100;
+    }
+    .table-form.col-1{
+
+      width: 120px;
+
+    }
+    .table-form.col-2 > *{
+      width: 250px;
+    }
+    .new-windows .btn{
+      padding: 5px 10px;
+    }
+        .windows-user-data .select-gender{
+      display: block;
+      width: 150px;
+    }

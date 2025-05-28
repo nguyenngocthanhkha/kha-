@@ -26,8 +26,15 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 
         // Kiểm tra mật khẩu
         if ($hashed_pass && password_verify($pass, $hashed_pass)) {
+            session_start();
+            $_SESSION['UserName'] = $user;
             echo "<h1 style='color:green'>Đăng nhập thành công!</h1>";
-
+            // Nhớ mật khẩu qua cookie
+            if (!empty($_POST['remember'])) {
+                setcookie('user', $user, time() + (86400 * 30), "/", "", true, true);
+            } else {
+                setcookie('user', '', time() - 3600, "/");
+            }
             // Kiểm tra quyền admin
             if ($is_admin == 1) {
                 echo "<h2 style='color:blue'>Chào mừng Admin!</h2>";
@@ -37,22 +44,17 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
                 echo "<h2 style='color:gray'>Chào mừng người dùng!</h2>";
                 header("Location: ../home.php");
             }
-            exit;
+            // exit;
+            
 
-            // Nhớ mật khẩu qua cookie
-            if (!empty($_POST['remember'])) {
-                setcookie('user', $user, time() + (86400 * 30), "/", "", true, true);
-            } else {
-                setcookie('user', '', time() - 3600, "/");
-            }
         } else {
             echo "<h3 style='color:red'>Tên đăng nhập hoặc mật khẩu không đúng.</h3>";
-            header("Location: 3; url=../PHP/Login.php");
+            header("Refresh:url=../PHP/Login.php");
             exit;
         }
     } else {
         echo "<h3 style='color:red'>Vui lòng điền đầy đủ thông tin.</h3>";
-        header("Location: 3; url=../PHP/Login.php");
+        header("Refresh:url=../PHP/Login.php");
         exit;
     }
 }

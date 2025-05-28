@@ -185,3 +185,7 @@ INSERT INTO data (tieude, mota, hinhanh, alt, link, chuyen_muc_id) VALUES
 ALTER TABLE users 
 ADD COLUMN reset_otp VARCHAR(6) DEFAULT NULL,
 ADD COLUMN reset_otp_expiry DATETIME DEFAULT NULL;
+--Thêm cột
+ALTER TABLE users
+ADD avatar VARCHAR(255) NOT NULL DEFAULT 'default.jpg'
+AFTER email;

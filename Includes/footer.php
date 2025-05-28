@@ -3,16 +3,16 @@
         <div class="footer-content">
             <div>
                 <h4>Thông Tin Liên Hệ</h4>
-                <p>Email: dulich.binhdinh@gmail.com</p>
+                <p>Email: hotrodulichQuyNhon@gmail.com</p>
                 <p>Điện thoại: +84 123 456 789</p>
             </div>
             <div>
                 <h4>Liên Kết Nhanh</h4>
                 <ul>
                     <li><a href="/kha-/home.php">Trang Chủ</a></li>
-                    <li><a href="#">Cẩm nang du lịch</a></li>
-                    <li><a href="#">Nghiện cafe </a></li>
-                    <li><a href="#">Dịch vụ khác</a></li>
+                    <li><a href="/kha-/FamousLocation.php">Địa điểm nổi tiếng</a></li>
+                    <li><a href="/kha-/checklist_cafe.php">Cafe view đẹp </a></li>
+                    <li><a href="/kha-/Festival.php">Lễ hội</a></li>
                     <li><a href="/kha-/Pages/PrivacyPolicy.php" target="_blank" rel="noopener noreferrer">Chính sách bảo mật</a></li>
                 </ul>
             </div>

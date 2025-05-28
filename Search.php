@@ -16,8 +16,11 @@
     <?php
 include 'Database/db_connect.php';
 include 'PHP/renderPost.php';
-$chuyenMucId = 3;
-hienThiBaiVietTheoChuyenMuc($conn, $chuyenMucId);
+if (isset($_GET['tim']) && $_GET['tim'] != '') {
+    timKiemBaiViet($conn, $_GET['tim']);
+} else {
+    hienThiTatCaBaiViet($conn); 
+}
 ?>
 </body>
 

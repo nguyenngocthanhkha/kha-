@@ -10,6 +10,8 @@
     <link rel="stylesheet" href="../CSS/styleHeader.css">
     <link rel="stylesheet" href="../CSS/styleFooter.css">
     <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
 </head>
 
 <body>
