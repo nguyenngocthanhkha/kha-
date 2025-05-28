@@ -32,7 +32,7 @@
   <p>Đừng nhìn xuống nước hay đọc sách 📖, điện thoại 📱 trong lúc tàu di chuyển. Hãy nhìn ra xa, tập trung vào đường chân trời 🌅 – điều này giúp não bộ điều chỉnh cảm giác thăng bằng tốt hơn.</p>
 
   <figure>
-    <img src="https://nhahangeogio.com/wp-content/uploads/2020/06/kdl-ky-co-3.jpg" alt="Du lịch biển bằng cano tại Bình Định">
+    <img src="../Picture/MeoSaySong_0.jpg" alt="Du lịch biển bằng cano tại Bình Định">
     <figcaption>📷 Trải nghiệm đi cano ra đảo – thú vị hơn khi bạn không bị say sóng!</figcaption>
   </figure>
 
