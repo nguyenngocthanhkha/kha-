@@ -18,7 +18,7 @@
         <section>
             <h1>Daviden Homestay Quy Nhơn – Homestay yên tĩnh tại trung tâm Quy Nhơn</h1>
             <figure>
-                <img src="https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-6-1679530497.jpg" alt="Daviden Homestay Quy Nhơn">
+                <img src="../Picture/Daviden Homestay Quy Nhon0.jpg" alt="Daviden Homestay Quy Nhơn">
                 <figcaption>Daviden Homestay – Không gian yên bình và thoải mái ngay trung tâm Quy Nhơn</figcaption>
             </figure>
             <p>

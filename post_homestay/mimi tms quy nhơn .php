@@ -18,7 +18,7 @@
         <section>
             <h1>Mimi TMS Quy Nhơn - View Biển</h1>
             <figure>
-                <img src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/679309614.jpg?k=68ecf0c397ad06112df7ed2278c41cfb26cd175040073bad19597cc63a4c06ef&o=" alt="Mimi TMS Quy Nhơn">
+                <img src="../Picture/mimi tms quy nhơn0.jpg " alt="Mimi TMS Quy Nhơn">
                 <figcaption>Khung cảnh view biển tuyệt đẹp tại Mimi TMS Quy Nhơn.</figcaption>
             </figure>
             <p>

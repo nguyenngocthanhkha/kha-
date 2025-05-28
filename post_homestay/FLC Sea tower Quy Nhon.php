@@ -18,7 +18,7 @@
         <section>
             <h1>FLC Sea Tower Quy Nhơn</h1>
             <figure>
-                <img src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/678433483.jpg?k=89cb7d4e1b4b2a7403191bfb14adfe634ad761fd9bca36927dd6818e866cc1cf&o=&hp=1" alt="FLC Sea Tower Quy Nhơn">
+                <img src="../Picture/FLC Sea tower Quy Nhon0/jpg" alt="FLC Sea Tower Quy Nhơn">
                 <figcaption>FLC Sea Tower Quy Nhơn - view tuyệt đẹp từ căn hộ.</figcaption>
             </figure>
             <p>

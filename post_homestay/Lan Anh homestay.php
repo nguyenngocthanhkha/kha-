@@ -18,7 +18,7 @@
         <section>
             <h1>Lan Anh Homestay – Homestay giá rẻ ngay trung tâm Quy Nhơn</h1>
             <figure>
-                <img src="https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-9-1679530485.jpg" alt="Lan Anh Homestay">
+                <img src="../Picture/Lan Anh homestay0.jpg" alt="Lan Anh Homestay">
                 <figcaption>Lan Anh Homestay – Không gian thoải mái ngay trung tâm thành phố Quy Nhơn</figcaption>
             </figure>
             <p>

@@ -18,7 +18,7 @@
         <section>
             <h1>HAKU Boutique Hotel – Khách sạn phong cách Hàn Quốc ngay trung tâm Quy Nhơn</h1>
             <figure>
-                <img src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/268980476.jpg?k=754d1ec16a78ecdba7060d6fb6ca205ab9c335a180f50bc6f344051d05da92be&o=&hp=1" alt="HAKU Boutique Hotel Quy Nhơn">
+                <img src="../Picture/HAKU Boutique Hotel – Khách sạn phong cách Hàn Quốc ngay trung tâm Quy Nhơn0.jpg" alt="HAKU Boutique Hotel Quy Nhơn">
                 <figcaption>HAKU Boutique Hotel – Thiết kế tối giản, tinh tế đậm chất Hàn Quốc ngay trung tâm thành phố.</figcaption>
             </figure>
             <p>

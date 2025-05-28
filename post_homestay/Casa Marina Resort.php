@@ -18,7 +18,7 @@
         <section>
             <h1>Casa Marina Resort – Khu nghỉ dưỡng cao cấp tại Ghềnh Ráng, Quy Nhơn</h1>
             <figure>
-                <img src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/219494123.jpg?k=8221aed5c060c10b688e26af721eecd5398a1689db8a1a3bfa0feb9778023e78&o=&hp=1" alt="Casa Marina Resort Quy Nhơn">
+                <img src="../picture/Casa Marina Resort0.jpg" alt="Casa Marina Resort Quy Nhơn">
                 <figcaption>Không gian yên bình với biển xanh cát trắng tại Casa Marina Resort.</figcaption>
             </figure>
             <p>

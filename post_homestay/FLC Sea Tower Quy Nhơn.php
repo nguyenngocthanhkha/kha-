@@ -18,7 +18,7 @@
         <section>
             <h1>FLC Sea Tower Quy Nhơn – Căn hộ 1 phòng ngủ 2 giường sát biển</h1>
             <figure>
-                <img src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/678433487.jpg?k=f0b2d5559e9b5db97244cdbac65474448c45dce0c4c9088f36d822533071991d&o=&hp=1" alt="FLC Sea Tower Quy Nhơn view biển">
+                <img src="../Picture/FLC Sea Tower Quy Nhơn0.jpg" alt="FLC Sea Tower Quy Nhơn view biển">
                 <figcaption>Căn hộ cao cấp tại FLC Sea Tower – vị trí đắc địa trung tâm TP. Quy Nhơn</figcaption>
             </figure>
             <p>

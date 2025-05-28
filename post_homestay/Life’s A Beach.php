@@ -18,7 +18,7 @@
         <section>
             <h1>Life’s A Beach Homestay – Homestay gần biển Bãi Bàng Quy Nhơn</h1>
             <figure>
-                <img src="https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-8-1679530448.jpg" alt="Life’s A Beach Homestay">
+                <img src="../Picture/Life’s A Beach0.jpg" alt="Life’s A Beach Homestay">
                 <figcaption>Life’s A Beach Homestay – Không gian thư giãn gần biển Bãi Bàng Quy Nhơn</figcaption>
             </figure>
             <p>

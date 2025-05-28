@@ -18,7 +18,7 @@
         <section>
             <h1>Mộc Homestay Quy Nhơn – Homestay yên bình tại Nhơn Lý</h1>
             <figure>
-                <img src="https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-3-1679530485.jpg" alt="Mộc Homestay Quy Nhơn">
+                <img src="../Picture/Mộc Homestay Quy Nhơn0.jpg" alt="Mộc Homestay Quy Nhơn">
                 <figcaption>Mộc Homestay – Không gian xanh, bình yên tại Nhơn Lý.</figcaption>
             </figure>
             <p>

@@ -18,7 +18,7 @@
         <section>
             <h1>Little Quy Nhơn Homestay – Homestay ấm cúng, gần trung tâm Quy Nhơn</h1>
             <figure>
-                <img src="https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-2-1679530448.jpg" alt="Little Quy Nhơn Homestay">
+                <img src="../Picture/Little Quy Nhơn Homestay0.jpg" alt="Little Quy Nhơn Homestay">
                 <figcaption>Little Quy Nhơn – Không gian nhỏ xinh, gần trung tâm thành phố.</figcaption>
             </figure>
             <p>

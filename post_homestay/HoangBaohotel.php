@@ -18,7 +18,7 @@
         <section>
             <h1>Hoàng Bảo Hotel – Khách sạn tiện nghi gần trung tâm Quy Nhơn</h1>
             <figure>
-                <img src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/638435497.jpg?k=a4c64828669ba8c7d6687313b396d2d3aa3664bb714b78ea19e3cb3a90bfdb3d&o=&hp=1" alt="Hoàng Bảo Hotel Quy Nhơn">
+                <img src="../Picture/HoangBaohotel0.jpg" alt="Hoàng Bảo Hotel Quy Nhơn">
                 <figcaption>Không gian hiện đại, vị trí thuận lợi tại Hoàng Bảo Hotel</figcaption>
             </figure>
             <p>
