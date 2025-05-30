@@ -67,7 +67,7 @@
             <figure>
                 <img src="https://cdn.media.dulich24.com.vn/diemden/le-hoi-deo-nhong-duong-lieu-5486/le-hoi-deo-nhong-duong-lieu-8.jpg"
                     alt="Thi tải đạn">
-                <figcaption> Thi tải đạn</figcaption>
+                <figcaption > Thi tải đạn</figcaption>
             </figure>
             <ul>
                 <li>Đến đúng mùng 5 tháng Giêng, bạn sẽ cảm nhận không khí lễ hội sục sôi, được dâng hương tưởng nhớ các

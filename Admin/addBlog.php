@@ -1,12 +1,16 @@
+<?php include('../Includes/header.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../CSS/styleHeader.css">
+    <link rel="stylesheet" href="../CSS/styleFooter.css">
+    <link rel="stylesheet" href="../CSS/addpost.css">
     <title>Thêm blog mới</title>
 </head>
 <body>
-    <form action="../Database/submitBlog.php" method="post"  enctype="multipart/form-data">
+    <form  class="form-inp" action="../Database/submitBlog.php" method="post"  enctype="multipart/form-data">
         <div class="inp-warp title">
             <label for="">Tiêu đề:</label>
             <input class="inp inp-title" type="text" required name="title_txb">
@@ -67,8 +71,8 @@
                     </td> -->
                 </tr>
             </table>
-            <button type="button" onclick="addContentRow()">Thêm nội dung</button>
-            <button type="button" onclick="removeContentRow()">Xóa nội dung</button>
+            <button type="button" class="btn btn-add" onclick="addContentRow()">Thêm nội dung</button>
+            <button type="button"  class="btn btn-delete" onclick="removeContentRow()">Xóa nội dung</button>
             <script>
                 var i = 1;
 
@@ -82,6 +86,7 @@
                             <option value="h2">Tiêu đề h2</option>
                             <option value="h3">Tiêu đề h3</option>
                             <option value="img">Hình ảnh</option>
+                            <option value="img-des">Mô tả hình ảnh</option>
                             <option value="p">Đoạn văn</option>
                             <option value="ol">Danh sách có thứ tự</option>
                             <option value="ul">Danh sách không có thứ tự</option>
@@ -90,7 +95,7 @@
                     </td>
                     <td class="col3 td-content-row-${i}">
                         
-                    </td`;
+                    </td>`;
                     document.querySelector('.table-content-blog').insertAdjacentHTML("beforeend", template);
                     i++;
                 }
@@ -101,7 +106,7 @@
                 function addContent(e , row){
                     // alert(e.value);
                     domContentRow = document.querySelector(`.td-content-row-${row}`);
-                    if(e.value == 'h1' || e.value == 'h2' || e.value == 'h3')
+                    if(e.value == 'h1' || e.value == 'h2' || e.value == 'h3'|| e.value == 'img-des')
                     {
                         domContentRow.innerHTML = `<input class="blog-content-input" type="text" name="blog-content-row-${row}">`;
                     }
@@ -116,7 +121,8 @@
                 }
             </script>
         </div>
-        <input type="submit" value="Nhập">
+        <input type="submit" class="btn btn-submit" value="Nhập">
     </form>
 </body>
 </html>
+<?php include('../Includes/footer.php'); ?>

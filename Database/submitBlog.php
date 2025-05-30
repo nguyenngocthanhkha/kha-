@@ -80,6 +80,7 @@
                 exit;
             }
         }
+        // Chuyển mảng sang JSON
 
 
     }
