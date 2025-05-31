@@ -38,6 +38,7 @@
                 $fileImageMainName = saveImageBlog($_FILES['img-profile'], $lastID);
                 // nếu fileImageMainName không false thì cập nhật tên ảnh vào database
                 if ($fileImageMainName) {
+                    $fileImageMainName = "/kha-/PostData/Upload/".$lastID."/".$fileImageMainName;
                     $sql = "UPDATE data 
                             SET hinhanh = '".$fileImageMainName."'
                             WHERE `id` = ".$lastID;

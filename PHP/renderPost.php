@@ -34,7 +34,16 @@ function hienThiBaiVietTheoChuyenMuc($conn, $chuyenMucId, $soBaiMoiTrang = 12) {
                 <h3>' . $row['tieude'] . '</h3>
                 <p>' . $row['mota'] . '</p>
             </figcaption>
-            <a href="' . $row['link'] . '" class="read-more">Xem chi tiết</a>
+            ';
+    if(!empty($row['link']))
+    {
+        echo '<a href="' . $row['link'] . '" class="read-more">Xem chi tiết</a>';
+    }
+    else{
+        echo '<a href="./PHP/Post.php?id='.$row['id'].'" class="read-more">Xem chi tiết</a>';
+    }
+    echo'
+            
         </figure>';
     }
     echo '</div>';
