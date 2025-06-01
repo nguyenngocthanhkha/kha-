@@ -68,7 +68,7 @@
             <figure>
                 <img src="../Picture/DeoNhong_1.jpg"
                     alt="Thi tải đạn">
-                <figcaption> Thi tải đạn</figcaption>
+                <figcaption > Thi tải đạn</figcaption>
             </figure>
             <ul>
                 <li>Đến đúng mùng 5 tháng Giêng, bạn sẽ cảm nhận không khí lễ hội sục sôi, được dâng hương tưởng nhớ các

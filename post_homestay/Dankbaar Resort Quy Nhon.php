@@ -18,7 +18,7 @@
         <section>
             <h1>Dankbaar Resort Quy Nhơn – Nghỉ dưỡng sang trọng bên biển</h1>
             <figure>
-                <img src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/445425837.jpg?k=09e91d3271b5f578bae2e9fa71ab99eb6d5dc8641f0b4c5564a560dbad5e5351&o=" alt="Dankbaar Resort Quy Nhơn">
+                <img src="../picture/Dankbaar Resort Quy Nhon0.jpg" alt="Dankbaar Resort Quy Nhơn">
                 <figcaption>Resort chuẩn 4 sao với không gian thoáng đãng bên bãi biển</figcaption>
             </figure>
             <p>

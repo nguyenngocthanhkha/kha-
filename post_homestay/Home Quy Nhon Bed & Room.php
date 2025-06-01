@@ -18,7 +18,7 @@
         <section>
             <h1>Home Quy Nhon Bed & Room – Homestay giá rẻ tại trung tâm Quy Nhơn</h1>
             <figure>
-                <img src="https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-10-1679530711.jpg" alt="Home Quy Nhon Bed & Room">
+                <img src="../Picture/Home Quy Nhon Bed & Room0.jpg" alt="Home Quy Nhon Bed & Room">
                 <figcaption>Home Quy Nhon Bed & Room – không gian nghỉ ngơi tiện nghi tại Quy Nhơn</figcaption>
             </figure>
             <p>

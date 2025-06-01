@@ -18,7 +18,7 @@
         <section>
             <h1>Lặng Homestay Quy Nhơn – Không gian yên tĩnh tại trung tâm thành phố</h1>
             <figure>
-                <img src="https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-11-1679530711.jpg" alt="Lặng Homestay Quy Nhơn">
+                <img src="../Picture/Lặng homestay Quy Nhơn0.jpg" alt="Lặng Homestay Quy Nhơn">
                 <figcaption>Lặng Homestay – không gian nghỉ ngơi thanh bình tại Quy Nhơn</figcaption>
             </figure>
             <p>

@@ -1,5 +1,4 @@
-<?php include('../Includes/header.php'); ?>
-
+<?php include('D:\XAMPPOP\htdocs\kha-\Includes\header.php'); ?>
 <!DOCTYPE html>
 <html lang="vi">
 
@@ -18,7 +17,7 @@
         <section>
             <h1>Seagull Hotel – Khách sạn 4 sao ven biển Quy Nhơn</h1>
             <figure>
-                <img src="https://pix8.agoda.net/hotelImages/433/43382/43382_15052914050028022303.jpg?ca=4&ce=1&s=1024x" alt="Seagull Hotel Quy Nhơn">
+                <img src="../picture/Seagull Hotel - Quy Nhơn0.jpg" alt="Seagull Hotel Quy Nhơn">
                 <figcaption>Khách sạn Seagull nằm sát bãi biển trung tâm Quy Nhơn</figcaption>
             </figure>
             <p>

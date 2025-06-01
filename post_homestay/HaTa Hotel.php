@@ -18,7 +18,7 @@
         <section>
             <h1>HaTa Hotel – Khách sạn trung tâm với mức giá hợp lý tại Quy Nhơn</h1>
             <figure>
-                <img src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/236109846.jpg?k=9bb912c9c832041bdfd16df5d288ee6def221b80d586ccbe0646ee84d97b7774&o=&hp=1" alt="HaTa Hotel Quy Nhơn">
+                <img src="../Picture/HaTa Hotel0.jpg" alt="HaTa Hotel Quy Nhơn">
                 <figcaption>HaTa Hotel – Không gian lưu trú thoải mái và thuận tiện di chuyển tại trung tâm thành phố.</figcaption>
             </figure>
             <p>

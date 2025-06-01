@@ -18,7 +18,7 @@
         <section>
             <h1>TMS Luxury Quy Nhơn View Biển – Căn hộ nghỉ dưỡng cao cấp ngay trung tâm</h1>
             <figure>
-                <img src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/671769394.jpg?k=db0bc44a7a404bb826d457ce867c5502f5858f18b2bd3f958e05da58efad7dec&o=&hp=1" alt="TMS Luxury Quy Nhơn View Biển">
+                <img src="../picture/TMS LUXURY Quy Nhon0.jpg" alt="TMS Luxury Quy Nhơn View Biển">
                 <figcaption>View biển tuyệt đẹp tại TMS Luxury Quy Nhơn</figcaption>
             </figure>
             <p>

@@ -18,7 +18,7 @@
         <section>
             <h1>Haven Vietnam Homestay – Homestay gần bãi Xếp Quy Nhơn</h1>
             <figure>
-                <img src="https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-7-1679530485.jpg" alt="Haven Vietnam Homestay">
+                <img src="../Picture/Haven Vietnam Homestay0.jpg" alt="Haven Vietnam Homestay">
                 <figcaption>Haven Vietnam Homestay – Không gian thư giãn tuyệt vời tại bãi Xếp Quy Nhơn</figcaption>
             </figure>
             <p>

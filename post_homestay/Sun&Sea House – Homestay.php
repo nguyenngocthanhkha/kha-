@@ -18,7 +18,7 @@
         <section>
             <h1>Sun&Sea House – Homestay xinh xắn gần biển Quy Nhơn</h1>
             <figure>
-                <img src="https://mrvivu.com/wp-content/uploads/2020/11/238151107.jpg" alt="Sun&Sea House Homestay Quy Nhơn">
+                <img src="../picture/Sun&Sea House – Homestay0.jpg" alt="Sun&Sea House Homestay Quy Nhơn">
                 <figcaption>Sun&Sea House – Không gian ấm cúng, cách biển vài bước chân</figcaption>
             </figure>
             <p>

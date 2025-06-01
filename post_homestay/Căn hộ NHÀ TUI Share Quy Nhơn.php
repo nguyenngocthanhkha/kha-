@@ -18,7 +18,7 @@
         <section>
             <h1>NHÀ TUI Share Quy Nhơn – Căn hộ tiện nghi tại trung tâm thành phố Quy Nhơn</h1>
             <figure>
-                <img src="https://kenhhomestay.com/wp-content/uploads/2021/01/nha-tui-share-1.jpg" alt="NHÀ TUI Share Quy Nhơn">
+                <img src="../Picture/nha-tui-share-0.jpg" alt="NHÀ TUI Share Quy Nhơn">
                 <figcaption>NHÀ TUI Share Quy Nhơn – Căn hộ tiện nghi, gần các điểm tham quan nổi tiếng</figcaption>
             </figure>
             <p>

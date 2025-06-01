@@ -18,7 +18,7 @@
         <section>
             <h1>Cát Homestay Quy Nhơn – Homestay gần biển tại Quy Nhơn</h1>
             <figure>
-                <img src="https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-5-1679530448.jpg" alt="Cát Homestay Quy Nhơn">
+                <img src="../Picture/Cát Homestay Quy Nhơn0.jpg" alt="Cát Homestay Quy Nhơn">
                 <figcaption>Cát Homestay – Không gian thoải mái, gần biển Quy Nhơn</figcaption>
             </figure>
             <p>

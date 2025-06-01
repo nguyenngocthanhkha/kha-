@@ -18,7 +18,7 @@
         <section>
             <h1>Khách Sạn Hồng Thịnh - Chỗ Nghỉ Đầy Tiện Nghi Tại Quy Nhơn</h1>
             <figure>
-                <img src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/629473642.jpg?k=5c018e6422331bdd1466f1ffd4830142091fd17f45aedbd4669cde91647a6f95&o=&hp=1" alt="Khách sạn Hồng Thịnh Quy Nhơn">
+                <img src="../Picture/HongThinh0.jpg" alt="Khách sạn Hồng Thịnh Quy Nhơn">
                 <figcaption>Khách Sạn Hồng Thịnh – Tạo dựng không gian ấm cúng cho du khách.</figcaption>
             </figure>
             <p>

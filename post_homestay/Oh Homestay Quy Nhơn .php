@@ -18,7 +18,7 @@
         <section>
             <h1>Oh Homestay Quy Nhơn – Homestay gần trung tâm Quy Nhơn</h1>
             <figure>
-                <img src="https://mia.vn/media/uploads/blog-du-lich/homestay-quy-nhon-4-1679530448.jpg" alt="Oh Homestay Quy Nhơn">
+                <img src="../Picture/Oh Homestay Quy Nhơn0.jpg" alt="Oh Homestay Quy Nhơn">
                 <figcaption>Oh Homestay – Phòng nghỉ hiện đại, gần trung tâm thành phố.</figcaption>
             </figure>
             <p>

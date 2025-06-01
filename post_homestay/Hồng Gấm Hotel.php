@@ -18,7 +18,7 @@
         <section>
             <h1>Hồng Gấm Hotel – Lựa chọn lưu trú tiện nghi tại Quy Nhơn</h1>
             <figure>
-                <img src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/673249878.jpg?k=47d31557e009210fbacde994b2179804ec40d0fea278951596af0e5d26b54a2b&o=&hp=1" alt="Hồng Gấm Hotel Quy Nhơn">
+                <img src="../Picture/Hồng Gấm Hotel0.jpg" alt="Hồng Gấm Hotel Quy Nhơn">
                 <figcaption>Không gian hiện đại và tiện nghi tại Hồng Gấm Hotel.</figcaption>
             </figure>
             <p>
