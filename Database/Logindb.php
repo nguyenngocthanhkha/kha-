@@ -28,6 +28,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         if ($hashed_pass && password_verify($pass, $hashed_pass)) {
             session_start();
             $_SESSION['UserName'] = $user;
+            $_SESSION['is_admin'] = $is_admin;
             echo "<h1 style='color:green'>Đăng nhập thành công!</h1>";
             // Nhớ mật khẩu qua cookie
             if (!empty($_POST['remember'])) {
@@ -37,12 +38,14 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             }
             // Kiểm tra quyền admin
             if ($is_admin == 1) {
-                echo "<h2 style='color:blue'>Chào mừng Admin!</h2>";
-                header("Location: ../admin_dashboard.php");
+                // echo "<h2 style='color:blue'>Chào mừng Admin!</h2>";
+                header("Location: ../Admin/index.php");
+                exit;
             } else 
             {
-                echo "<h2 style='color:gray'>Chào mừng người dùng!</h2>";
+                //echo "<h2 style='color:gray'>Chào mừng người dùng!</h2>";
                 header("Location: ../home.php");
+                exit;
             }
             // exit;
             

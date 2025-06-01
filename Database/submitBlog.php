@@ -88,3 +88,4 @@
 
 ?>
 <h1>Thêm blog thành công</h1>
+<a href="../Admin/listBlog.php">Về trang quản lý</a>
