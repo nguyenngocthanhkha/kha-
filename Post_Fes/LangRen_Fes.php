@@ -18,7 +18,7 @@
     <article class="style1">
         <h1>🔥 Lễ hội làng rèn Tây Phương Danh – vibe cháy hết nấc!</h1>
         <figure>
-            <img src="https://binhdinh.gov.vn/upload/2005340/20211201/bd_88138.jpg" alt="Dâng hương">
+            <img src="../Picture/LangRen_0.jpg" alt="Dâng hương">
             <figcaption> Lễ hội làng rèn Tây Phương Danh</figcaption>
         </figure>
         <p><strong>📍 Check-in địa chỉ:</strong> Thôn Tây Phương Danh, thị trấn Đập Đá, thị xã An Nhơn, tỉnh Bình Định
@@ -34,7 +34,7 @@
 
         <h2>🎯 Highlight đầu tiên: Lễ bái tổ sư</h2>
         <figure>
-            <img src="https://binhdinh.gov.vn/upload/2005340/fck/adminbinhdinh/bd%20(1).jpg" alt="Rèn">
+            <img src="../Picture/LangRen_1.jpg" alt="Rèn">
             <figcaption> Các bô lão đang dâng hương lên cụ tổ nghề của làng</figcaption>
         </figure>
         <p>Đúng <strong>4 giờ sáng ngày 12/2 âm lịch</strong>, các cụ bô lão lên đồ truyền thống, trang nghiêm dâng
@@ -45,7 +45,7 @@
         <p>Nguyên vùng quê rộn ràng với loạt <em>chương trình văn hóa - nghệ thuật đậm chất quê nhưng vibe thì cực
                 chill</em>:</p>
         <figure>
-            <img src="https://binhdinh.gov.vn/upload/2005340/fck/adminbinhdinh/bd%20(2).jpg"
+            <img src="../Picture/LangRen_2.jpg"
                 alt="Biểu diễn nghệ thuật trong ngày Hội làng rèn">
             <figcaption> Biểu diễn nghệ thuật trong ngày Hội làng rèn</figcaption>
         </figure>

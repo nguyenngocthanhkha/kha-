@@ -18,7 +18,7 @@
         <section>
             <h1>☕ Võng Cafe Quy Nhơn – Nằm Chill, Uống Cà Phê, Nghe Biển Hát</h1>
             <figure>
-                <img src="https://suno.vn/blog/wp-content/uploads/2020/09/69.jpg" alt="Võng Cafe Quy Nhơn">
+                <img src="../Picture/cfvong_0.jpg" alt="Võng Cafe Quy Nhơn">
                 <figcaption>Góc võng thư giãn giữa thiên nhiên mộc mạc tại Võng Cafe</figcaption>
             </figure>
             <p>

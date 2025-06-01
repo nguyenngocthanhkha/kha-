@@ -1,4 +1,4 @@
-<?php include('../Includes/header.php'); ?>
+<?php include('../Includes/header-admin.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,7 +18,7 @@
         <div class="inp-warp cat">
             <label for="">Chọn chuyên mục:</label>
             <select class="inp cat-selector" name="cat_selector" id="">
-                
+                <option value="" disabled selected>-- Vui lòng chọn --</option>
                 <?php
                     require "../Database/db.php";
                     $sql = "select * from chuyen_muc";

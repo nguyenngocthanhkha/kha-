@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tết là phải đi Tây Sơn!</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <link rel="stylesheet" href="../CSS/stylePost.css">
     <link rel="stylesheet" href="../CSS/styleHeader.css">
     <link rel="stylesheet" href="../CSS/styleFooter.css">
@@ -33,11 +34,10 @@
 
         <h3>🕯️ Phần Lễ – Truyền Thống, Trang Nghiêm</h3>
         <ul>
-        <figure>
-            <img src="https://quyzo.com/wp-content/uploads/2022/09/4787.jpg"
-                alt="Lễ rước sắc">
-            <figcaption>Lễ rước sắc</figcaption>
-        </figure>
+            <figure>
+                <img src="../Picture/CauNgu_0.jpg" alt="Lễ rước sắc">
+                <figcaption>Lễ rước sắc</figcaption>
+            </figure>
             <li><strong>Lễ rước Sắc:</strong> Mở đầu lễ hội với màn rước bài vị Ông Nam Hải (cá voi – loài vật linh
                 thiêng được ngư dân tôn kính).</li>
             <li><strong>Lễ Nghinh Ông:</strong> Thuyền ra khơi rước "Ông" về làng – một nghi lễ linh thiêng diễn ra lúc
@@ -52,7 +52,7 @@
 
         <h3>🎉 Phần Hội – Nhiệt Huyết, Rộn Ràng</h3>
         <figure>
-            <img src="https://quyzo.com/wp-content/uploads/2022/09/158c1c92ae3342855b1bdcabd99df3d2.jpg"
+            <img src="../Picture/CauNgu_1.jpg"
                 alt="đua thuyền">
             <figcaption>Đua thuyền</figcaption>
         </figure>

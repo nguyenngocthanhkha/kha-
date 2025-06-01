@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="../CSS/stylePost.css">
     <link rel="stylesheet" href="../CSS/styleHeader.css">
     <link rel="stylesheet" href="../CSS/styleFooter.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <link
         href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Merriweather:wght@400;700&display=swap"
         rel="stylesheet">
@@ -20,7 +21,7 @@
             <h1>🎉 Bình Định "lên mood" đón lễ 30/4 và hè 2025: Dịch vụ chất như nước cất, chơi thả ga không lo bị chặt
                 chém! 🔥</h1>
                 <figure>
-                <img src="https://th.bing.com/th/id/R.15de070c88136aceac5564091cececd1?rik=y3ISEOPhRWOAuA&riu=http%3a%2f%2fworldtravelowl.com%2fwp-content%2fuploads%2f2016%2f06%2fGhenh-Rang-1024x680.jpg&ehk=XYOJjK4ERxHDVkLUSZpG99ECK0%2fLDYvPuaYiWDRvSLg%3d&risl=&pid=ImgRaw&r=0"
+                <img src="../Picture/KhuyenMai2_0.jpg"
                     alt="Bãi Trứng">
                 <figcaption>Cảnh thiên nhiên tuyệt đẹp tại Bình Định</figcaption>
             </figure>

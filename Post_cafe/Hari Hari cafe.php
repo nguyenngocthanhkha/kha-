@@ -18,7 +18,7 @@
         <section>
             <h1>Hari Hari – Quán cà phê phong cách Nhật nhẹ nhàng tại Quy Nhơn</h1>
             <figure>
-                <img src="https://scontent.fhan2-5.fna.fbcdn.net/v/t39.30808-6/490076510_1236359778499902_6330559395232484601_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFXoa5qMJNqHwqeDDbr5MfYgBqztEUrf1uAGrO0RSt_WxGvWjuyq5vDrRgC2976uuREs9dHJEXCJ7CdN2tChYwT&_nc_ohc=i0FImR3xjxAQ7kNvwGsjpsD&_nc_oc=AdnPoN6op19JwXvqTyUPFLrKqbKBoAwm5zjaGkTEHyQQC5wOsuBUBlikyQb9KK5bwEmxWyhcwGZdrvwvRps1y7Xk&_nc_zt=23&_nc_ht=scontent.fhan2-5.fna&_nc_gid=ynH50QvpPXAoKRf3-_4vGw&oh=00_AfJVHy-f7l03cZgtNTWLkjF6HY1QLeVrqVvrunu56AeIuw&oe=68215B33" alt="Hari Hari Coffee Quy Nhơn">
+                <img src="../Picture/cfhari_0.png" alt="Hari Hari Coffee Quy Nhơn">
                 <figcaption>Không gian tối giản kiểu Nhật tại Hari Hari Coffee</figcaption>
             </figure>
             <p>

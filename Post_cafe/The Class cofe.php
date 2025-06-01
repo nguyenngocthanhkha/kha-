@@ -19,7 +19,7 @@
         <section>
             <h1>The Class Coffee – Không Gian Mở 24/24 Giữa Lòng Quy Nhơn</h1>
             <figure>
-                <img src="https://scontent.fhan2-5.fna.fbcdn.net/v/t39.30808-6/488438163_122148659954556967_4093630187277879807_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeH2Bv0SiOgCi_WgiYCh68heb1YLsEkUiv1vVguwSRSK_bErYsb8-lkM4_uavitzaG7hyzd51YMg7MEbPhM6xXQo&_nc_ohc=oIBL0Zi0OEIQ7kNvwGUwATG&_nc_oc=AdlfslWjPnVS-yTtW6o8Ogz7EMjUMd4mE5ai9HpqQr3-jmosL3LzCNXDDCYEQiL4v0eqe79YAL-wSM67ixlyrd-I&_nc_zt=23&_nc_ht=scontent.fhan2-5.fna&_nc_gid=66XYahloQeeRfEidoAphgg&oh=00_AfIju0l78qegh0HYFfTRtcO6K7cUYIENd-MGsHM--DnvgA&oe=6823F32A" alt="The Class Coffee Quy Nhơn">
+                <img src="../Picture/cftheclass_0.jpg" alt="The Class Coffee Quy Nhơn">
                 <figcaption>Không gian sang trọng, hiện đại tại The Class Coffee Quy Nhơn</figcaption>
             </figure>
             <p>

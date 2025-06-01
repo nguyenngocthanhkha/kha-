@@ -7,6 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>QNTour</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <link rel="stylesheet" href="./CSS/styleHome.css">
     <link rel="stylesheet" href="./CSS/styleHeader.css">
     <link rel="stylesheet" href="./CSS/styleFooter.css">
@@ -109,44 +110,44 @@
         <div class="guide-grid">
             <!-- Quán 1 -->
             <div class="guide-card">
-                <img src="https://th.bing.com/th/id/OIP.kw3HEodhljpDH8wGw_YzcgHaE7?rs=1&pid=ImgDetMain" alt="Cafe 1988">
+                <img src="/kha-/Picture/Cafe1988_0.jpg" alt="Cafe 1988">
                 <div class="guide-content">
                     <h3>Cafe 1988 - View biển chill</h3>
                     <p>Không gian vintage hòa cùng sóng biển tạo nên trải nghiệm cà phê cực thư giãn.</p>
-                    <a href="#" class="guide-button">Xem chi tiết</a>
+                    <a href="/kha-/Post_cafe/Cafe1988.php" class="guide-button">Xem chi tiết</a>
                 </div>
             </div>
 
             <!-- Quán 2 -->
             <div class="guide-card">
-                <img src="https://th.bing.com/th/id/OIP.TBtdamv9sZCivJFnfsakVwHaFj?rs=1&pid=ImgDetMain"
+                <img src="/kha-/Picture/SurfCoffee_0.jpg"
                     alt="Surf Coffee">
                 <div class="guide-content">
                     <h3>Surf Coffee - Đậm chất Bali</h3>
                     <p>Không gian mở, tone gỗ trắng, cực hợp để sống ảo và thư giãn cả ngày.</p>
-                    <a href="#" class="guide-button">Xem chi tiết</a>
+                    <a href="/kha-/Post_cafe/SurfCoffee.php" class="guide-button">Xem chi tiết</a>
                 </div>
             </div>
 
             <!-- Quán 3 -->
             <div class="guide-card">
-                <img src="https://i.pinimg.com/originals/56/a6/2e/56a62e695af603e5587039d8bb8d34fb.jpg"
+                <img src="/kha-/Picture/TropicalGarden_0.jpg"
                     alt="Tropical Garden">
                 <div class="guide-content">
                     <h3>Tropical Garden</h3>
                     <p>Góc vườn xanh mát, yên tĩnh, rất lý tưởng cho những buổi trò chuyện nhẹ nhàng.</p>
-                    <a href="#" class="guide-button">Xem chi tiết</a>
+                    <a href="/kha-/Post_cafe/TropicalGarden.php" class="guide-button">Xem chi tiết</a>
                 </div>
             </div>
 
             <!-- Quán 4 -->
             <div class="guide-card">
-                <img src="https://haloquynhontravel.com/wp-content/uploads/2022/11/quan-cafe-ngay-bien-quy-nhon.png"
+                <img src="/kha-/Picture/TheCoffeTalk_0.png"
                     alt="The Coffee Talk">
                 <div class="guide-content">
                     <h3>The Coffee Talk - Chill rooftop</h3>
                     <p>View tầng thượng nhìn toàn cảnh thành phố – quá lý tưởng để ngắm hoàng hôn.</p>
-                    <a href="#" class="guide-button">Xem chi tiết</a>
+                    <a href="/kha-/Post_cafe/TheCoffeTalk.php" class="guide-button">Xem chi tiết</a>
                 </div>
             </div>
         </div>

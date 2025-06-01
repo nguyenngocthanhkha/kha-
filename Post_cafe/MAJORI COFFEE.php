@@ -18,7 +18,7 @@
         <section>
             <h1>MAJORI COFFEE – Quán cà phê kiến trúc Địa Trung Hải tại Quy Nhơn</h1>
             <figure>
-                <img src="https://scontent.fhan2-5.fna.fbcdn.net/v/t39.30808-6/473643069_980305057489380_4103180172903618585_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHg04xs2OrwWSn37IvSoE0-PQ1GbhOj9xo9DUZuE6P3GgZUQPdiXOgg8caeFphDjcvL_3M6Bfy5nK49U_qdWLil&_nc_ohc=IB1dhkc-K10Q7kNvwHK2YVg&_nc_oc=Adn_D4zNEXiegO7XT_JU8CXeFdkP2_tcWqQoE-Atx2HaE41YR5NlQrbY0gR_UrmOzHdlqaJSBAX9dXyIYY-Vlkqh&_nc_zt=23&_nc_ht=scontent.fhan2-5.fna&_nc_gid=jrW39DC3lkDWAik7beDZWA&oh=00_AfIO1HKxlhWfsi-RwIJK4CN9JpDc-e1VayIsGeglMYbXGw&oe=6823D19E" alt="MAJORI COFFEE Quy Nhơn">
+                <img src="../Picture/cfmajory_0.jpg" alt="MAJORI COFFEE Quy Nhơn">
                 <figcaption>Không gian MAJORI – nét Địa Trung Hải giữa lòng phố biển</figcaption>
             </figure>
             <p>

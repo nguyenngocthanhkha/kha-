@@ -6,6 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lễ hội bài chòi</title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <link rel="stylesheet" href="../CSS/stylePost.css">
     <link rel="stylesheet" href="../CSS/styleHeader.css">
     <link rel="stylesheet" href="../CSS/styleFooter.css">
@@ -23,7 +24,7 @@
             góc phố. Không khí ở đây “náo nhiệt level max” với hội bài chòi dân gian – một “đặc sản văn hóa” mà ai đến
             Quy Nhơn cũng nên thử ít nhất một lần cho biết!</p>
         <figure>
-            <img src="https://baobinhdinh.vn/viewimage.aspx?imgid=268965" alt="Quang cảnh hội thi diễn xướng bài chòi.">
+            <img src="../Picture/BaiChoi_0.jpg" alt="Quang cảnh hội thi diễn xướng bài chòi.">
             <figcaption>Quang cảnh hội thi diễn xướng bài chòi. Ảnh: NGUYỄN DŨNG</figcaption>
         </figure>
         <p>Không chỉ đơn thuần là trò chơi giải trí, hội bài chòi ở Quy Nhơn là một buổi biểu diễn nghệ thuật thực
@@ -31,7 +32,7 @@
             nếu bạn là người mê văn hóa truyền thống nhưng vẫn thích vibe sôi động, thì bài chòi chắc chắn là “gu
             của bạn”.</p>
         <figure>
-            <img src="https://baobinhdinh.vn/viewimage.aspx?imgid=268965"
+            <img src="../Picture/BaiChoi_1.jpg"
                 alt="Đội thi phường Nguyễn Văn Cừ đang diễn xướng phần thi bài chòi.">
             <figcaption>Đội thi phường Nguyễn Văn Cừ đang diễn xướng phần thi bài chòi. Ảnh: NGUYỄN DŨNG</figcaption>
         </figure>

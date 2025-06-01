@@ -18,7 +18,7 @@
         <section>
             <h1>Kome Cafe Quy Nhơn – Quán cà phê phong cách Nhật giữa lòng phố biển</h1>
             <figure>
-                <img src="https://scontent.fhan4-4.fna.fbcdn.net/v/t39.30808-6/491847527_1194299179337506_6037881392594423229_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFpHICyxzXOffJP9sR_Xvpo3Si2Az-eBvrdKLYDP54G-na7bfu-J3CdBUdLjR4cioU_Ui_IaykH7vJAicKnnSQi&_nc_ohc=DFuWYeDQs3UQ7kNvwFD5i9R&_nc_oc=AdnqG6Bgmkm8JoVotwmEmI9vQaGCOaSQut8FUMMm_ap5elWgxODymdrf_rIK8zX4i1A&_nc_zt=23&_nc_ht=scontent.fhan4-4.fna&_nc_gid=rP2Df9tqH5zjmdLi2PDcYA&oh=00_AfIZ8--5DDLSIF1i4BrVj-mTgi2yRihCVkXPVmIbvFdeSw&oe=6820E3EE" alt="Kome Cafe Quy Nhơn">
+                <img src="../Picture/cfkome_0.jpg" alt="Kome Cafe Quy Nhơn">
                 <figcaption>Không gian Nhật Bản tối giản tại Kome Cafe Quy Nhơn</figcaption>
             </figure>
             <p>

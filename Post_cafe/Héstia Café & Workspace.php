@@ -17,7 +17,7 @@
         <section>
             <h1>Héstia Café & Workspace – Không Gian Làm Việc Sáng Tạo Giữa Lòng Quy Nhơn</h1>
             <figure>
-                <img src="https://quynhonreview.vn/wp-content/uploads/2024/11/hestia-cafe-workspace-52-chuong-duong-quy-nhon-1730887632.jpeg" alt="Héstia Café & Workspace Quy Nhơn">
+                <img src="../Picture/cfhestia_0.jpeg" alt="Héstia Café & Workspace Quy Nhơn">
                 <figcaption>Không gian làm việc kết hợp thư giãn tại Héstia Café & Workspace</figcaption>
             </figure>
             <p>

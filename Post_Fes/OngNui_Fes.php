@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="../CSS/stylePost.css">
     <link rel="stylesheet" href="../CSS/styleHeader.css">
     <link rel="stylesheet" href="../CSS/styleFooter.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <link
         href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Merriweather:wght@400;700&display=swap"
         rel="stylesheet">
@@ -24,7 +25,7 @@
             hóa - tâm linh đậm chất bản sắc Việt, lại còn được sống ảo với khung cảnh “xịn không cần chỉnh”.
         </p>
         <figure>
-            <img src="https://tourquynhon.com.vn/wp-content/uploads/2021/08/le-hoi-chua-nui-ong-binh-binh-quy-nhon-b.jpg"
+            <img src="../Picture/OngNuiFes_0.jpg"
                 alt="Chùa Ông Núi Bình Định Quy Nhơn">
             <figcaption>Chùa Ông Núi Bình Định Quy Nhơn</figcaption>
         </figure>
@@ -35,7 +36,7 @@
                 Nguyên Đán – thời điểm trời đẹp, không khí mát mẻ, cực kỳ lý tưởng để xách ba lô lên và đi.
             </p>
             <figure>
-                <img src="https://tourquynhon.com.vn/wp-content/uploads/2021/08/le-hoi-chua-nui-ong-binh-binh-quy-nhon-c.jpg"
+                <img src="../Picture/OngNuiFes_1.jpg"
                     alt="Du khách thập phương đổ về vui chơi lễ Chùa Ông Núi">
                 <figcaption>Du khách thập phương đổ về vui chơi lễ Chùa Ông Núi</figcaption>
             </figure>
@@ -74,7 +75,7 @@
                 gian hàng ẩm thực địa phương – đủ để bạn "ăn no, cầu đủ".
             </p>
             <figure>
-                <img src="https://tourquynhon.com.vn/wp-content/uploads/2021/08/le-hoi-chua-nui-ong-binh-binh-quy-nhon-d.jpg"
+                <img src=../Picture/OngNuiFes_2.jpg"
                     alt="Nào 2 ba cùng nhau xông pha múa lân">
                 <figcaption>Lễ hội chùa Ông Núi Bình Định Quy Nhơn</figcaption>
             </figure>
@@ -88,7 +89,7 @@
                 hơn để chụp hình.
             </p>
             <figure>
-                <img src="https://tourquynhon.com.vn/wp-content/uploads/2021/08/le-hoi-chua-nui-ong-binh-binh-quy-nhon.jpg"
+                <img src="../Picture/OngNuiFes_3.jpg"
                     alt="Chùa Ông Núi chào đón bình minh">
                 <figcaption>Chùa Ông Núi chào đón bình minh</figcaption>
             </figure>

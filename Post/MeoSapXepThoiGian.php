@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="../CSS/stylePost.css">
     <link rel="stylesheet" href="../CSS/styleHeader.css">
     <link rel="stylesheet" href="../CSS/styleFooter.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 </head>
 
@@ -34,7 +35,7 @@
             bạn sẽ có thể tận dụng được khoảng thời gian "vàng" này để tham quan mà không quá mệt mỏi.</p>
 
         <figure>
-            <img src="https://th.bing.com/th/id/OIP.bnT6QKqBBG7APBnefa7e7wHaEz?w=298&h=193&c=7&r=0&o=5&dpr=1.1&pid=1.7"
+            <img src="../Picture/MeoSapXepThoiGian_0.jpg"
                 alt="Biển Quy Nhơn buổi sáng">
             <figcaption>Biển Quy Nhơn vào buổi sáng – thơ mộng và yên bình.</figcaption>
         </figure>

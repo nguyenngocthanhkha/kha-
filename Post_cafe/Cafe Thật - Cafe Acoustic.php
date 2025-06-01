@@ -19,7 +19,7 @@
         <section>
             <h1>Cafe Thật – Giai Điệu Mộc Giữa Lòng Quy Nhơn</h1>
             <figure>
-                <img src="https://quynhonreview.vn/wp-content/uploads/2023/11/1699061609-quan-ca-phe-acoustic-tai-quy-nhon.jpg" alt="Cafe Thật Quy Nhơn">
+                <img src="../Picture/cfthat_0.jpg" alt="Cafe Thật Quy Nhơn">
                 <figcaption>Không gian mộc mạc và sâu lắng tại Cafe Thật, Quy Nhơn</figcaption>
             </figure>
             <p>

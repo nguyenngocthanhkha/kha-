@@ -18,7 +18,7 @@
         <section>
             <h1>The PUMBAA Coffee – Không gian đậm chất Âu giữa lòng Quy Nhơn</h1>
             <figure>
-                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShPy5o02FZBiBdu6sp6vfL4Ry39HvPvxIx-A&s" alt="The PUMBAA Coffee Quy Nhơn">
+                <img src="../Picture/cfpumpa_0.jpg" alt="The PUMBAA Coffee Quy Nhơn">
                 <figcaption>View châu Âu sang trọng tại The PUMBAA Coffee</figcaption>
             </figure>
             <p>

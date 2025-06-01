@@ -18,7 +18,7 @@
         <section>
             <h1>Hẻm Cà Phê Quy Nhơn – Homestay chill giữa lòng phố biển</h1>
             <figure>
-                <img src="https://i.pinimg.com/736x/34/d9/0e/34d90e33747640deb0711b9271181c3b.jpg" alt="Hẻm Cà Phê Quy Nhơn">
+                <img src="../Picture/cfhem_0.jpg" alt="Hẻm Cà Phê Quy Nhơn">
                 <figcaption>Không gian xanh, ấm cúng tại Hẻm Cà Phê Homestay</figcaption>
             </figure>
             <p>

@@ -18,7 +18,7 @@
         <section>
             <h1>Days Cafe – Không gian nghệ thuật giữa lòng Quy Nhơn</h1>
             <figure>
-                <img src="https://visitbinhdinh.vn/wp-content/uploads/2021/02/cafe_days.jpg" alt="Days Cafe Quy Nhơn">
+                <img src="../Picture/cfday_0.jpg" alt="Days Cafe Quy Nhơn">
                 <figcaption>Không gian mang hơi hướng Hàn Quốc, đầy nghệ thuật tại Days Cafe Quy Nhơn</figcaption>
             </figure>
             <p>

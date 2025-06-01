@@ -18,7 +18,7 @@
     <section>
         <h1>A’dor Café – Quán cà phê tone trắng Hàn Quốc giữa lòng Quy Nhơn</h1>
         <figure>
-            <img src="https://scontent.fhan2-4.fna.fbcdn.net/v/t39.30808-6/470991040_931131762461693_2273921877984669226_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeFpKM48nsD0w-8DhiHtqG_7c3uuJTfR9YFze64lN9H1gULmCA2-Elp6kPRAB_5DFkVNTHY5QITgNmMHDkbP9EfP&_nc_ohc=HOfAWRojXi0Q7kNvwFvbFVB&_nc_oc=AdkEzqGKw7HBSTpb1Jy4rnj7gkYVTBv7t-rkHppTRRW-hVi4XneaJqsuPyAXmdDTes8pYmh7W656U0obXSf3itgn&_nc_zt=23&_nc_ht=scontent.fhan2-4.fna&_nc_gid=0PHoFIjvxA82nbD-ZudPlg&oh=00_AfKkwkfIMHGwEfPipR_bvyim_VEfllpUkYEQva6gWecBdQ&oe=68220377" alt="A’dor Café Quy Nhơn">
+            <img src="../Picture/edorcf_0.png" alt="A’dor Café Quy Nhơn">
             <figcaption>Thiết kế tinh tế, nhẹ nhàng và hiện đại của A’dor Café</figcaption>
         </figure>
         <p>

@@ -18,7 +18,7 @@
         <section>
             <h1>Núi Cô Đơn Cafe Quy Nhơn – Trạm dừng chân của những tâm hồn lang thang</h1>
             <figure>
-                <img src="https://www.cotrang.org/tin-tuc/images/kon-tum/mang-den/cafe/41_view-sieu-chill-mang-den-bk-2.jpg" alt="Núi Cô Đơn Cafe Quy Nhơn">
+                <img src="../Picture/cfnuicodon_0.jpg" alt="Núi Cô Đơn Cafe Quy Nhơn">
                 <figcaption>Không gian hoang sơ, tĩnh lặng giữa thiên nhiên tại Núi Cô Đơn Cafe</figcaption>
             </figure>
             <p>

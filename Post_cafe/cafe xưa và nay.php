@@ -18,7 +18,7 @@
         <section>
             <h1>Cafe Xưa & Nay – Không gian hoài cổ giữa lòng Quy Nhơn</h1>
             <figure>
-                <img src="https://scontent.fhan2-4.fna.fbcdn.net/v/t39.30808-6/481082261_9394905447212286_3386340550340615047_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGoA48xHYUMYziDYnuqVP4ZC39w688RyvsLf3DrzxHK-x-Ytd6OCxWv-ZAoYjU9XPrs4EAbM1wSCpoJPyfqQtjH&_nc_ohc=O2WdxI4Mn1sQ7kNvwE2ZUWV&_nc_oc=AdkFBU5VnrOI3JgevjcPNJYrzGNemIxpIgBwtQnutuW1Xby-61Y67XCCHeQOGfwn0-doh7jUNbTQbiYFFpm9jEK9&_nc_zt=23&_nc_ht=scontent.fhan2-4.fna&_nc_gid=glUpikdWNRJJKpJldqGsCQ&oh=00_AfLbODRS7d_MqEoLC2i63tanbht1PV0DQhtsSiXnaIMVeQ&oe=6821D3C1" alt="Cafe Xưa và Nay Quy Nhơn">
+                <img src="../Picture/cfxuanay_0.png" alt="Cafe Xưa và Nay Quy Nhơn">
                 <figcaption>Không gian đậm chất hoài niệm tại Cafe Xưa & Nay – Quy Nhơn</figcaption>
             </figure>
             <p>

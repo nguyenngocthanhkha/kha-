@@ -18,7 +18,7 @@
         <section>
             <h1>Monk Cafe – Chất riêng giữa phố biển Quy Nhơn</h1>
             <figure>
-                <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-6/471164698_122175163310137034_8815007061620082721_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHWO3HfUa8iBfC-dwa0LTHnUMOxkNb98iNQw7GQ1v3yI8mRG1u4ar1mQGpVq1GNMahTimZDnNLdWgIvajROVkPL&_nc_ohc=yGXaMrQp_hgQ7kNvwF4GIbP&_nc_oc=Adkv4-qmYtudSvCGntyHAQ59RUtvyQ-BP1Rb_aiYOl0JHz0-wH9rJZvwxYVTrUJle5fMkLIFfyhoauQeIeooWozN&_nc_zt=23&_nc_ht=scontent.fhan2-3.fna&_nc_gid=4Bb2kdQt1_gxHDNNxXOJ2Q&oh=00_AfLzaX7Fw2roR0X1iVn27pzAqZR8usif8QDneHN68Kkoxg&oe=6821EDF3" alt="Monk Cafe Quy Nhơn">
+                <img src="../Picture/cfmonk_0.jpg" alt="Monk Cafe Quy Nhơn">
                 <figcaption>Không gian độc đáo, mang dấu ấn riêng tại Monk Cafe</figcaption>
             </figure>
             <p>

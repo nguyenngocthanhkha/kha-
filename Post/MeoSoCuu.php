@@ -22,7 +22,7 @@
 
     <h2>🌞 1. Sơ Cứu Khi Bị Say Nắng</h2>
     <figure>
-        <img src="https://thiennhienmoitruong.vn/upload2024/images/btv2-11/btv2-d/023.png" alt="Du khách bị say nắng">
+        <img src="../Picture/socuu_0.png" alt="Du khách bị say nắng">
         <figcaption>Du khách bị say nắng khi tham gia các hoạt động ngoài trời tại Bình Định.</figcaption>
     </figure>
     <ul>
@@ -34,7 +34,7 @@
 
     <h2>🦟 2. Xử Lý Vết Côn Trùng Cắn</h2>
     <figure>
-        <img src="https://dulichdaocoto.net/view-660/at_bi-quyet-phong-tranh-muoi-va-vat-can-khi-di-du-lich_bfd2e815cafea841943c7fa65801cee5.jpg" alt="Côn trùng cắn khi đi rừng">
+        <img src="../Picture/socuu_1.jpg" alt="Côn trùng cắn khi đi rừng">
         <figcaption>Côn trùng cắn khi đi du lịch tại các khu rừng hay bãi biển hoang sơ.</figcaption>
     </figure>
     <ul>
@@ -46,7 +46,7 @@
 
     <h2>🩹 3. Sơ Cứu Vết Thương Nhẹ (Trầy Xước, Đứt Tay)</h2>
     <figure>
-        <img src="https://cdn.nhathuoclongchau.com.vn/unsafe/800x0/filters:quality(95)/https://cms-prod.s3-sgn09.fptcloud.com/cach_xu_ly_vet_tray_xuoc_da_tai_nha1_47b34c3ee5.jpg" alt="Xử lý vết trầy xước">
+        <img src="../Picture/socuu_2.webp" alt="Xử lý vết trầy xước">
         <figcaption>Xử lý vết trầy xước trong các hoạt động ngoài trời như leo núi hoặc tắm biển.</figcaption>
     </figure>
     <ul>
@@ -57,7 +57,7 @@
 
     <h2>🤢 4. Khi Bị Ngộ Độc Thực Phẩm Nhẹ</h2>
     <figure>
-        <img src="https://www.benhduongtieuhoa.com/wp-content/uploads/2016/05/nhung-trieu-chung-cua-ngo-doc-thuc-pham-2-1-586x415.jpg" alt="Ngộ độc thực phẩm khi đi du lịch">
+        <img src="../Picture/socuu_3.jpg" alt="Ngộ độc thực phẩm khi đi du lịch">
         <figcaption>Ngộ độc thực phẩm nhẹ có thể xảy ra khi ăn uống không cẩn thận khi du lịch.</figcaption>
     </figure>
     <li>🚱 Ngưng ăn uống tạm thời để theo dõi.</li>
@@ -68,7 +68,7 @@
 
     <h2>🎒 5. Mang Theo Bộ Sơ Cứu Du Lịch</h2>
     <figure>
-        <img src="https://bvnguyentriphuong.com.vn/uploads/images/bo-dung-cu-so-cuu(1).jpg" alt="Bộ sơ cứu cá nhân khi đi du lịch">
+        <img src="../Picture/socuu_4.jpg" alt="Bộ sơ cứu cá nhân khi đi du lịch">
         <figcaption>Bộ sơ cứu du lịch bạn nên mang theo trong hành trình khám phá Bình Định.</figcaption>
     </figure>
     <p>Một bộ sơ cứu gọn nhẹ bạn nên chuẩn bị khi du lịch Bình Định gồm:</p>

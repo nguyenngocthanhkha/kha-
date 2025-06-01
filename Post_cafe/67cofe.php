@@ -18,7 +18,7 @@
         <section>
             <h1>67 Cafe Quy Nhơn – Cà phê kết hợp workshop nghệ thuật giữa lòng phố</h1>
             <figure>
-                <img src="https://media-cdn.tripadvisor.com/media/photo-s/08/0b/bf/13/cafe-67-in-newark-shopping.jpg" alt="67 Cafe Quy Nhơn">
+                <img src="../Picture/cafe67_0.jpg" alt="67 Cafe Quy Nhơn">
                 <figcaption>Không gian ấm cúng, pha trộn giữa cà phê và nghệ thuật tại 67 Cafe</figcaption>
             </figure>
             <p>

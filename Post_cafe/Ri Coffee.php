@@ -17,7 +17,7 @@
     <section>
         <h1>Ri Coffee – Quán Cà Phê View Biển Cực Chill Tại Quy Nhơn</h1>
         <figure>
-            <img src="https://thichtours.com/wp-content/uploads/2023/07/pumpa-coffeee.jpeg" alt="Ri Coffee Quy Nhơn">
+            <img src="../Picture/cfri_0.jpeg"   alt="Ri Coffee Quy Nhơn">
             <figcaption>View biển thoáng đãng và phong cách tropical tại Ri Coffee</figcaption>
         </figure>
         <p>
