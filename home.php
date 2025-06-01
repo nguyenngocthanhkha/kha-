@@ -1,4 +1,5 @@
-<?php include('Includes/header.php'); ?>
+<?php include("Includes/header.php"); ?>
+
 <!DOCTYPE html>
 <html lang="vi">
 
@@ -45,7 +46,7 @@
             </div>
         </div>
     </section>
-    <!-- Cẩm nang du lịch -->
+ <!-- Cẩm nang du lịch -->
     <section class="section-guide">
         <h2 class="section-title">Cẩm nang du lịch</h2>
         <p class="section-description">
@@ -326,3 +327,14 @@
 </body>
 
 </html>
+ <!-- Đặt đoạn script ở đây -->
+    <script>
+        document.querySelectorAll('.carousel-wrapper').forEach(wrapper => {
+            const container = wrapper.querySelector('.carousel-container');
+            wrapper.querySelector('.arrow.left').onclick = () => container.scrollBy({ left: -300, behavior: 'smooth' });
+            wrapper.querySelector('.arrow.right').onclick = () => container.scrollBy({ left: 300, behavior: 'smooth' });
+        });
+    </script>
+</body>
+</html>
+  

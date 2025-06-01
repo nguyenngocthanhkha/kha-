@@ -16,8 +16,7 @@
     <main class="post-container">
         <article class="style3">
             <header class="post-header">
-                <>Innside Homestay – tiện nghi như khách sạn mini tại Quy Nhơn</header>h1>
-                
+                <h1>Innside Homestay – tiện nghi như khách sạn mini tại Quy Nhơn</h1>
             </header>
 
             <figure class="featured-image">
@@ -26,20 +25,13 @@
             </figure>
 
             <section class="intro-section">
-                <p>
-                    <strong>Innside Homestay</strong> là điểm dừng chân lý tưởng cho du khách yêu thích sự hiện đại và tiện nghi tại trung tâm <strong>thành phố Quy Nhơn</strong>. Với thiết kế tối giản nhưng tinh tế, mỗi phòng đều được bố trí hợp lý và trang bị đầy đủ các thiết bị như điều hòa, TV, tủ lạnh mini, máy sấy tóc.
-                </p>
-                <p>
-                    Nổi bật với ban công riêng thoáng mát, bạn có thể ngắm nhìn phố xá nhộn nhịp hoặc thư giãn cùng một tách cà phê buổi sáng. Homestay mang đến không gian sạch sẽ, yên tĩnh, phù hợp cho nhóm bạn, cặp đôi hay những ai muốn tìm một nơi nghỉ dưỡng nhẹ nhàng giữa lòng thành phố.
-                </p>
+                <p><strong>Innside Homestay</strong> là điểm dừng chân lý tưởng cho du khách yêu thích sự hiện đại và tiện nghi tại trung tâm <strong>thành phố Quy Nhơn</strong>. Với thiết kế tối giản nhưng tinh tế, mỗi phòng đều được bố trí hợp lý và trang bị đầy đủ các thiết bị như điều hòa, TV, tủ lạnh mini, máy sấy tóc.</p>
+                <p>Nổi bật với ban công riêng thoáng mát, bạn có thể ngắm nhìn phố xá nhộn nhịp hoặc thư giãn cùng một tách cà phê buổi sáng. Homestay mang đến không gian sạch sẽ, yên tĩnh, phù hợp cho nhóm bạn, cặp đôi hay những ai muốn tìm một nơi nghỉ dưỡng nhẹ nhàng giữa lòng thành phố.</p>
             </section>
 
             <section class="info-section">
                 <h2>📍 Thông tin liên hệ & chỉ đường</h2>
-                <p>
-                    <i class="fas fa-map-marker-alt" style="color: #e74c3c;"></i>
-                    <strong>Địa chỉ:</strong> 27A Nguyễn Thái Học, TP. Quy Nhơn, Bình Định
-                </p>
+                <p><i class="fas fa-map-marker-alt" style="color: #e74c3c;"></i> <strong>Địa chỉ:</strong> 27A Nguyễn Thái Học, TP. Quy Nhơn, Bình Định</p>
                 <p>
                     <a href="https://www.google.com/maps?q=27A+Nguyễn+Thái+Học,+Quy+Nhơn" target="_blank" class="map-link">
                         <i class="fas fa-location-arrow"></i> Xem bản đồ trên Google Maps
