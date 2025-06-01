@@ -1,5 +1,5 @@
 <?php ;  
-require_once('./Database/db.php');
+require_once('../Database/db.php');
     if(!isset($_GET['id']))
     {
         echo "Yêu cầu không hợp lệ";
@@ -19,13 +19,13 @@ require_once('./Database/db.php');
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?php echo $data['tieude'] ?></title>
-    <link rel="stylesheet" href="./CSS/stylePost.css">
-    <link rel="stylesheet" href="./CSS/styleHeader.css">
-    <link rel="stylesheet" href="./CSS/styleFooter.css">
+    <link rel="stylesheet" href="../CSS/stylePost.css">
+    <link rel="stylesheet" href="../CSS/styleHeader.css">
+    <link rel="stylesheet" href="../CSS/styleFooter.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
 <?php
-include('./Includes/header.php')
+include('../Includes/header.php')
 ?>
 <!DOCTYPE html>
 <html lang="vi">
@@ -34,7 +34,7 @@ include('./Includes/header.php')
 <body>
     <article class="style3">
             <?php
-        $rawData = json_decode(file_get_contents('./PostData/Post/'.$_GET['id'].'.json'), true); 
+        $rawData = json_decode(file_get_contents('../PostData/Post/'.$_GET['id'].'.json'), true); 
         $isOpenSesion = false;
         foreach ($rawData as $chunk) {
             
