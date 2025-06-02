@@ -56,7 +56,7 @@ function hienThiBaiVietTrangQuanLy($conn, $chuyenMucId, $soBaiMoiTrang = 12){
         echo '<a href="../PHP/Post.php?id='.$row['id'].'" class="read-more">Xem chi tiết</a>';
     }
     echo'
-        <a href="../Database/deletePost?id='.$row['id'].'" class="read-more">Xóa bài</a>    
+        <a href="../Database/deletePost.php?id='.$row['id'].'" class="read-more">Xóa bài</a>    
         </figure>';
     }
     echo '</div>';
