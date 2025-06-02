@@ -1,4 +1,4 @@
-<?php include('D:\XAMPPOP\htdocs\kha-\Includes\header.php'); ?>
+<?php include('..\Includes\header.php'); ?>
 <!DOCTYPE html>
 <html lang="vi">
 <head>

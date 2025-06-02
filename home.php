@@ -81,7 +81,7 @@
                 <div class="guide-content">
                     <h3>Lịch trình du lịch Quy Nhơn</h3>
                     <p>3 ngày 2 đêm cực chất dành cho bạn đam mê khám phá...</p>
-                    <a href="#" class="guide-button">Xem chi tiết</a>
+                    <a href="\kha-\Post\LichTrinh.php" class="guide-button">Xem chi tiết</a>
                 </div>
             </div>
 
@@ -170,7 +170,7 @@
                 <div class="card-content">
                     <h3>LaRose Homestay</h3>
                     <p>Thiết kế nhẹ nhàng, tinh tế, không gian yên tĩnh và gần trung tâm.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <a href="\kha-\Post\larose.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
 
@@ -192,7 +192,7 @@
                 <div class="card-content">
                     <h3>Cocohut Homestay</h3>
                     <p>Trang trí tông trắng – xanh biển, nổi bật với khu vườn xinh xắn và quán cà phê riêng.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <a href="\kha-\Post_quán_ăn\cocohut.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
 
@@ -203,7 +203,7 @@
                 <div class="card-content">
                     <h3>Innside Homestay</h3>
                     <p>Thiết kế hiện đại, sạch sẽ, có ban công nhìn ra phố – tiện nghi như khách sạn mini.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <a href="\kha-\Post_quán_ăn\inside.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
         </div>
