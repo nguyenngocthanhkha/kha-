@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="../CSS/stylePost.css">
     <link rel="stylesheet" href="../CSS/styleHeader.css">
     <link rel="stylesheet" href="../CSS/styleFooter.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 </head>
 
@@ -38,7 +39,7 @@
 
         <h2>📍 2. Mua Ở Đâu Là Uy Tín?</h2>
         <figure>
-            <img src="https://th.bing.com/th/id/OIP.ohJ-pRD-fo1D9BUdrmRIlwHaFj?rs=1&pid=ImgDetMain" alt="Chợ Quy Nhơn">
+            <img src="../Picture/MeoMuaDacSan_0.jpg" alt="Chợ Quy Nhơn">
             <figcaption>Chợ Quy Nhơn – nơi bán đặc sản Bình Định với nhiều lựa chọn đa dạng, nhưng hãy chú ý hỏi giá
                 trước
                 nhé!</figcaption>
@@ -56,7 +57,7 @@
 
         <h2>💰 3. Mẹo Mua Giá Tốt – Không Bị "Chặt"</h2>
         <figure>
-            <img src="https://th.bing.com/th/id/R.1bffc8356d849f85cf6bed05228a2240?rik=Q64ICOnusJih4A&riu=http%3a%2f%2fnhipcauthegioi.hu%2fuploads%2fnews%2f2017_02%2f11_1.jpg&ehk=i6m06YO0BiJvzvMfU7nz6wTcCQH%2bJP%2f5DxS94%2bIaUks%3d&risl=&pid=ImgRaw&r=0" alt="Mặc cả khi đi chợ">
+            <img src="../Picture/MeoMuaDacSan_1.jpg" alt="Mặc cả khi đi chợ">
             <figcaption>Mặc cả khi đi chợ – đôi khi bạn sẽ nhận được mức giá giảm nếu nở nụ cười và mặc cả lịch sự.
             </figcaption>
         </figure>
@@ -69,7 +70,7 @@
 
         <h2>✈️ 4. Mẹo Đóng Gói & Mang Lên Máy Bay</h2>
         <figure>
-            <img src="https://quadanang.com/wp-content/uploads/2022/11/muc-kho-da-nang.jpg" alt="Đóng gói đặc sản du lịch">
+            <img src="../Picture/MeoMuaDacSan_2.jpg" alt="Đóng gói đặc sản du lịch">
             <figcaption>Đóng gói đặc sản đúng cách giúp bạn mang theo mà không lo bị hư hỏng trong chuyến bay.
             </figcaption>
         </figure>

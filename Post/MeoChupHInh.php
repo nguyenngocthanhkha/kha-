@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="../CSS/stylePost.css">
     <link rel="stylesheet" href="../CSS/styleHeader.css">
     <link rel="stylesheet" href="../CSS/styleFooter.css">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 </head>
 
@@ -22,7 +23,7 @@
 
     <h2>⏰ 1. Chọn Thời Gian Vàng Để Chụp Ảnh</h2>
     <figure>
-        <img src="https://thichtours.com/wp-content/uploads/2017/01/120932287_931015897423900_8646393099874610409_o.jpg" alt="Bình minh tại biển Bình Định" >
+        <img src="../Picture/MeoChupHinh_0.jpg" alt="Bình minh tại biển Bình Định" >
         <figcaption>Bình minh tại biển Bình Định – khoảnh khắc lý tưởng để chụp ảnh với ánh sáng dịu nhẹ</figcaption>
     </figure>
     <p>Ánh sáng là yếu tố quan trọng nhất khi chụp hình. Ở Bình Định, khung giờ "vàng" để có ảnh đẹp là:</p>
@@ -34,7 +35,7 @@
 
     <h2>🌍 2. Tận Dụng Địa Hình Đa Dạng</h2>
     <figure>
-        <img src="https://kycotourist.com/wp-content/uploads/2022/08/tour-ky-co-eo-gio-3-ngay-2-dem-5.jpeg" alt="Eo Gió và Kỳ Co" >
+        <img src="../Picture/MeoChupHinh_1.jpeg" alt="Eo Gió và Kỳ Co" >
         <figcaption>Khung cảnh Eo Gió – Kỳ Co tuyệt đẹp, hòa quyện giữa núi, biển và bầu trời</figcaption>
     </figure>
     <p>Bình Định có đủ loại cảnh quan: biển, núi, đồi, làng chài, tháp Chăm, ruộng lúa... Hãy khai thác đa dạng địa hình
@@ -49,7 +50,7 @@
 
     <h2>👗 3. Trang Phục Phù Hợp Với Khung Cảnh</h2>
     <figure>
-        <img src="https://ik.imagekit.io/tvlk/blog/2022/02/dia-diem-du-lich-binh-dinh-7-820x1024.jpg?tr=q-70,c-at_max,w-500,h-300,dpr-2" alt="Trang phục du lịch biển" >
+        <img src="../Picture/MeoChupHinh_2.webp" alt="Trang phục du lịch biển" >
         <figcaption>Chọn trang phục phù hợp giúp bạn nổi bật và hài hòa với khung cảnh</figcaption>
     </figure>
     <p>Hãy chọn quần áo phù hợp để nổi bật trong khung hình:</p>
@@ -62,7 +63,7 @@
 
     <h2>🎯 4. Canh Góc Và Bố Cục Hợp Lý</h2>
     <figure>
-        <img src="https://vietnamstaytravel.com/wp-content/uploads/2021/09/202110091027-image5.jpg" >
+        <img src="../Picture/MeoChupHinh_3.jpg" >
         <figcaption>Góc chụp thấp giúp bạn “ăn gian” chiều cao và làm nổi bật bối cảnh phía sau</figcaption>
     </figure>
     <ul>
@@ -73,7 +74,7 @@
 
     <h2>📱 5. Dùng Điện Thoại Cũng Có Ảnh Đẹp!</h2>
     <figure>
-        <img src="https://phongvu.vn/cong-nghe/wp-content/uploads/2019/08/rule-of-thirds-composition-57dfc2d64ad27__880.jpg" alt="Chụp ảnh bằng điện thoại" >
+        <img src="../Picture/MeoChupHinh_4.jpg" alt="Chụp ảnh bằng điện thoại" >
         <figcaption>Bật tính năng đường bố cục để dễ dàng ứng dụng quy tắc 1/3</figcaption>
     </figure>
     <p>Không cần máy ảnh chuyên nghiệp, điện thoại bây giờ cũng đủ sức tạo nên những bức ảnh xuất sắc nếu bạn:</p>
@@ -85,7 +86,7 @@
 
     <h2>😄 6. Hãy Tự Nhiên &amp; Vui Vẻ</h2>
     <figure>
-        <img src="https://cdn2.fptshop.com.vn/unsafe/Uploads/images/tin-tuc/166312/Originals/cach-tao-tao-dang-chup-anh-dung-ngoai-troi-29.jpg" alt="Chụp ảnh tự nhiên và vui vẻ" >
+        <img src="../Picture/MeoChupHinh_5.jpg" alt="Chụp ảnh tự nhiên và vui vẻ" >
         <figcaption>Khoảnh khắc tự nhiên, vui vẻ luôn tạo nên bức ảnh có hồn nhất</figcaption>
     </figure>
     <p>Đừng quá gò bó trong tư thế. Những bức ảnh đẹp nhất thường là khoảnh khắc tự nhiên, bạn cười thật tươi, đi dạo,

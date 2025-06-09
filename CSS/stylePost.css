@@ -117,7 +117,7 @@
   background-color: #f8f1e4; /* nền giấy cổ */
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.08);
   border-radius: 8px;
-  border: 1px solid #e7d8c2;
+  border: 1px solid #f1f1ee;
 }
 
 /* Tiêu đề chính giữa */
@@ -126,7 +126,7 @@
   font-size: 2.4em;
   margin-bottom: 0.6em;
   color: #8b3e1a;
-  border-bottom: 1px solid #e0b48a;
+  border-bottom: 1px solid #f8f6f4;
   padding-bottom: 0.4em;
 }
 

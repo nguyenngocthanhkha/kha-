@@ -53,3 +53,14 @@ document.querySelector('.newsletter').addEventListener('submit', function(event)
   // Ở đây bạn có thể thêm mã PHP để gửi email hoặc lưu vào cơ sở dữ liệu
 });
 
+function showDetail(title, content) {
+  document.getElementById("detailTitle").textContent = title;
+  document.getElementById("detailContent").textContent = content;
+  document.querySelector(".cafe-container").classList.add("hidden");
+  document.getElementById("cafeDetail").classList.remove("hidden");
+}
+
+function closeDetail() {
+  document.querySelector(".cafe-container").classList.remove("hidden");
+  document.getElementById("cafeDetail").classList.add("hidden");
+}

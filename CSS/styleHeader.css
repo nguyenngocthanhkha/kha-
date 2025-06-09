@@ -9,9 +9,10 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 0.75rem 1.5rem;
+      /* padding: 0.75rem 1.5rem; */
+      padding: 0rem;
       background-color: white;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0);
       font-family: Arial, sans-serif;
     }
 
@@ -157,3 +158,164 @@
         margin-top: 0.5rem;
       }
     }
+
+    .hidden{
+      display: none;
+    }
+
+    .user-loginned{
+      
+      margin: 10px;
+    }
+    .dropdown.user-info{
+      display: none;
+ 
+    }
+    .dropdown.user-info.show{
+
+      display: block;
+      position: absolute;
+      transform: translateX(-50%);
+
+    }
+    .user-loginned img{
+
+      width: 60px;
+      height: 60px;
+      object-fit: cover;
+      border-radius: 50%;
+
+    }
+    .user-loginned-warpper{
+      position: relative;
+    }
+    .user-loginned .username-warpper{
+      margin-top: 10px;
+      text-align: center;
+    }
+    .user-loginned .img-warpper
+    {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .windows-user-data {
+      top: 20%;
+      left: 50%;
+      width: 500px;
+      transform: translateX(-50%);
+      font-size: 1.2rem;
+      background-color: white;
+      padding: 30px;
+      border-radius: 5%;
+      position: absolute;
+      z-index: 102;
+    }
+    .windows-user-data form > *{
+      margin-bottom: 5px;
+    }
+
+    .windows-user-data input:not(.btn){
+      padding: 5px 10px;
+      width: 210px;
+      
+    }
+
+    .new-windows{
+      display: none;
+    }
+    .new-windows.show{
+      display: block;
+      
+    }
+    .new-windows::before{
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      content: '';
+      background-color: rgba(0, 0, 0, 0.2);
+      z-index: 100;
+    }
+    .table-form.col-1{
+
+      width: 120px;
+
+    }
+    .table-form.col-2 > *{
+      width: 250px;
+    }
+    .new-windows .btn{
+      padding: 5px 10px;
+    }
+        .windows-user-data .select-gender{
+      display: block;
+      width: 150px;
+    }
+    /* Ẩn nút menu hamburger trên desktop */
+.mobile-menu-toggle {
+  display: none;
+  font-size: 26px;
+  cursor: pointer;
+  padding: 10px;
+}
+
+/* Menu mặc định trên desktop */
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+/* Responsive cho màn hình nhỏ */
+@media (max-width: 768px) {
+  .menu {
+    display: none;
+    flex-direction: column;
+    align-items: flex-start; /* căn chỉnh menu sang trái*/
+    background: white;
+    width: 100%;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    z-index: 1000;
+    border-top: 1px solid #ccc;
+    padding: 10px 0;
+  }
+
+  .menu.show {
+    display: flex;
+  }
+
+  .mobile-menu-toggle {
+    display: block;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+  }
+
+  .auth {
+    margin-top: 10px;
+    text-align: center;
+  }
+
+  .search-box {
+    margin-top: 10px;
+    padding: 0 10px;
+  }
+
+  .dropdown {
+    position: relative;
+    left: 0;
+    top: 0;
+    background: #f5f5f5;
+    box-shadow: none;
+    display: none;
+  }
+
+  .menu-item:hover .dropdown {
+    display: block;
+    position: relative;
+  }
+}

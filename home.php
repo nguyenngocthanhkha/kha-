@@ -1,4 +1,5 @@
-<?php include('Includes/header.php'); ?>
+<?php include("Includes/header.php"); ?>
+
 <!DOCTYPE html>
 <html lang="vi">
 
@@ -6,6 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>QNTour</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <link rel="stylesheet" href="./CSS/styleHome.css">
     <link rel="stylesheet" href="./CSS/styleHeader.css">
     <link rel="stylesheet" href="./CSS/styleFooter.css">
@@ -45,7 +47,7 @@
             </div>
         </div>
     </section>
-    <!-- Cẩm nang du lịch -->
+ <!-- Cẩm nang du lịch -->
     <section class="section-guide">
         <h2 class="section-title">Cẩm nang du lịch</h2>
         <p class="section-description">
@@ -80,7 +82,7 @@
                 <div class="guide-content">
                     <h3>Lịch trình du lịch Quy Nhơn</h3>
                     <p>3 ngày 2 đêm cực chất dành cho bạn đam mê khám phá...</p>
-                    <a href="#" class="guide-button">Xem chi tiết</a>
+                    <a href="\kha-\Post\LichTrinh.php" class="guide-button">Xem chi tiết</a>
                 </div>
             </div>
 
@@ -91,7 +93,7 @@
                 <div class="guide-content">
                     <h3>Tips sống ảo tại Quy Nhơn</h3>
                     <p>Gợi ý những góc chụp ảnh thần thánh bạn nên biết!</p>
-                    <a href="#" class="guide-button">Xem chi tiết</a>
+                    <a href="Post/MeoChupHInh.php" class="guide-button">Xem chi tiết</a>
                 </div>
             </div>
         </div>
@@ -108,44 +110,44 @@
         <div class="guide-grid">
             <!-- Quán 1 -->
             <div class="guide-card">
-                <img src="https://th.bing.com/th/id/OIP.kw3HEodhljpDH8wGw_YzcgHaE7?rs=1&pid=ImgDetMain" alt="Cafe 1988">
+                <img src="/kha-/Picture/Cafe1988_0.jpg" alt="Cafe 1988">
                 <div class="guide-content">
                     <h3>Cafe 1988 - View biển chill</h3>
                     <p>Không gian vintage hòa cùng sóng biển tạo nên trải nghiệm cà phê cực thư giãn.</p>
-                    <a href="#" class="guide-button">Xem chi tiết</a>
+                    <a href="/kha-/Post_cafe/Cafe1988.php" class="guide-button">Xem chi tiết</a>
                 </div>
             </div>
 
             <!-- Quán 2 -->
             <div class="guide-card">
-                <img src="https://th.bing.com/th/id/OIP.TBtdamv9sZCivJFnfsakVwHaFj?rs=1&pid=ImgDetMain"
+                <img src="/kha-/Picture/SurfCoffee_0.jpg"
                     alt="Surf Coffee">
                 <div class="guide-content">
                     <h3>Surf Coffee - Đậm chất Bali</h3>
                     <p>Không gian mở, tone gỗ trắng, cực hợp để sống ảo và thư giãn cả ngày.</p>
-                    <a href="#" class="guide-button">Xem chi tiết</a>
+                    <a href="/kha-/Post_cafe/SurfCoffee.php" class="guide-button">Xem chi tiết</a>
                 </div>
             </div>
 
             <!-- Quán 3 -->
             <div class="guide-card">
-                <img src="https://i.pinimg.com/originals/56/a6/2e/56a62e695af603e5587039d8bb8d34fb.jpg"
+                <img src="/kha-/Picture/TropicalGarden_0.jpg"
                     alt="Tropical Garden">
                 <div class="guide-content">
                     <h3>Tropical Garden</h3>
                     <p>Góc vườn xanh mát, yên tĩnh, rất lý tưởng cho những buổi trò chuyện nhẹ nhàng.</p>
-                    <a href="#" class="guide-button">Xem chi tiết</a>
+                    <a href="/kha-/Post_cafe/TropicalGarden.php" class="guide-button">Xem chi tiết</a>
                 </div>
             </div>
 
             <!-- Quán 4 -->
             <div class="guide-card">
-                <img src="https://haloquynhontravel.com/wp-content/uploads/2022/11/quan-cafe-ngay-bien-quy-nhon.png"
+                <img src="/kha-/Picture/TheCoffeTalk_0.png"
                     alt="The Coffee Talk">
                 <div class="guide-content">
                     <h3>The Coffee Talk - Chill rooftop</h3>
                     <p>View tầng thượng nhìn toàn cảnh thành phố – quá lý tưởng để ngắm hoàng hôn.</p>
-                    <a href="#" class="guide-button">Xem chi tiết</a>
+                    <a href="/kha-/Post_cafe/TheCoffeTalk.php" class="guide-button">Xem chi tiết</a>
                 </div>
             </div>
         </div>
@@ -169,7 +171,7 @@
                 <div class="card-content">
                     <h3>LaRose Homestay</h3>
                     <p>Thiết kế nhẹ nhàng, tinh tế, không gian yên tĩnh và gần trung tâm.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <a href="\kha-\Post\larose.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
 
@@ -180,7 +182,7 @@
                 <div class="card-content">
                     <h3>Life’s A Beach</h3>
                     <p>Homestay sát biển mang vibe du mục, thân thiện và mộc mạc.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <a href="post_homestay/Life’s A Beach.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
 
@@ -191,7 +193,7 @@
                 <div class="card-content">
                     <h3>Cocohut Homestay</h3>
                     <p>Trang trí tông trắng – xanh biển, nổi bật với khu vườn xinh xắn và quán cà phê riêng.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <a href="\kha-\Post_quán_ăn\cocohut.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
 
@@ -202,7 +204,7 @@
                 <div class="card-content">
                     <h3>Innside Homestay</h3>
                     <p>Thiết kế hiện đại, sạch sẽ, có ban công nhìn ra phố – tiện nghi như khách sạn mini.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <a href="\kha-\Post_quán_ăn\inside.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
         </div>
@@ -281,7 +283,7 @@
                 <div class="card-content">
                     <h3>Lễ hội Đống Đa – Tây Sơn</h3>
                     <p>Rước kiệu, múa trống trận Tây Sơn, biểu diễn võ cổ truyền Bình Định cực kỳ ấn tượng.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <a href="Post_Fes/TaySon_Fes.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
 
@@ -293,7 +295,7 @@
                     <h3>Lễ hội ca bài chòi</h3>
                     <p>Người dân tham gia chơi bài chòi dưới các chòi tre, lắng nghe những làn điệu mộc mạc mang đậm bản
                         sắc miền Trung.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <a href="Post_Fes/BaiChoi_Fes.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
 
@@ -304,7 +306,7 @@
                 <div class="card-content">
                     <h3>Lễ hội cầu ngư</h3>
                     <p> </p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <a href="Post_Fes/CauNgu_Fes.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
 
@@ -315,7 +317,7 @@
                 <div class="card-content">
                     <h3>Lễ hội Cá Ông</h3>
                     <p>Tế lễ truyền thống, rước thần trên biển, múa lân, múa bông, hát bội.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <a href="Post_Fes/CaOng_Fes.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
         </div>
@@ -326,3 +328,14 @@
 </body>
 
 </html>
+ <!-- Đặt đoạn script ở đây -->
+    <script>
+        document.querySelectorAll('.carousel-wrapper').forEach(wrapper => {
+            const container = wrapper.querySelector('.carousel-container');
+            wrapper.querySelector('.arrow.left').onclick = () => container.scrollBy({ left: -300, behavior: 'smooth' });
+            wrapper.querySelector('.arrow.right').onclick = () => container.scrollBy({ left: 300, behavior: 'smooth' });
+        });
+    </script>
+</body>
+</html>
+  
