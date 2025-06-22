@@ -18,7 +18,7 @@
         <section>
             <h1>Ahihi Quán – Ăn Vặt Ngon tại Quy Nhơn</h1>
             <figure>
-                <img src="https://2trip.vn/wp-content/uploads/2020/09/ahihi-quan-quy-nhon.jpg" alt="Ahihi Quán - Ăn vặt Quy Nhơn" />
+                <img src="../Picture/quan3_0.jpg" alt="Ahihi Quán - Ăn vặt Quy Nhơn" />
                 <figcaption>Ahihi Quán – Một trong những điểm ăn vặt được yêu thích tại Quy Nhơn.</figcaption>
             </figure>
             <p>

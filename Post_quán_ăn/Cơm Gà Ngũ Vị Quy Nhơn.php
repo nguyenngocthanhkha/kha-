@@ -19,7 +19,7 @@
         <section>
             <h1>Cơm Gà Ngũ Vị – Đậm Đà Hương Vị Quy Nhơn</h1>
             <figure>
-                <img src="https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-6/497537625_1275765027319863_7675378151730984163_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFsD-fEAr0vqwRgD9gGL6JAniebu8VRZEaeJ5u7xVFkRo7t5m1UYWiS2HR4FQf24yfmaAbI2UGfz2QpJblXqn4t&_nc_ohc=7q278rcmzI8Q7kNvwGfjGQs&_nc_oc=Adk-s1zBrC6Qld6DNHrU2wZsKqi1fidR8EkgKCsUOUUmmMRFwFL6yuEDFj7sSlXXA7L7LEWkvVw-sbo6yXmoEGR_&_nc_zt=23&_nc_ht=scontent.fhan20-1.fna&_nc_gid=E11BSjwsMqlT4FDMdrgAUw&oh=00_AfJsBXfXQ-Oxb_I_bjPRMLqs8Ss5dMKL_FzFIoHh2dF8ew&oe=682A8ADB" alt="Cơm Gà Ngũ Vị Quy Nhơn">
+                <img src="../Picture/NguVi_0.jpg" alt="Cơm Gà Ngũ Vị Quy Nhơn">
                 <figcaption>Đĩa cơm gà vàng óng, thơm lừng đặc trưng của Ngũ Vị</figcaption>
             </figure>
             <p>

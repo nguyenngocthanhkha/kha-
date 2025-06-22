@@ -18,7 +18,7 @@
         <section>
             <h1>Cơm Bao Cấp Quy Nhơn – Trở về ký ức xưa trong từng bữa cơm</h1>
             <figure>
-                <img src="https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-6/492368141_9542925659161168_3159909594389327727_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeHxRivufpjS9NCvklrCBpDRN_5yk7q52jc3_nKTurnaN7Rs2CGAkcmtJMui3tgjcaiJ55SDYmM2E19kXCw9dKiJ&_nc_ohc=I9s3O9J9TDQQ7kNvwExl6wq&_nc_oc=AdnW4E3Ym3q08KkOOcq68vwPhJz5Dtb-KAI2ldyvZ8mP2ClqMcz8gdsNrJ4cIAHzNWKttEpswO72DrjV3RuxJhHr&_nc_zt=23&_nc_ht=scontent.fhan20-1.fna&_nc_gid=6lfKQ3TpWbM1ZfpT7LRhCA&oh=00_AfLreFO0nhA99PEqN7ZhnvlA1ByyO7NzxqWaNOPMeL1qKQ&oe=6829EA6A" alt="Cơm Bao Cấp Quy Nhơn">
+                <img src="../Picture/ComBaoCap_0.webp" alt="Cơm Bao Cấp Quy Nhơn">
                 <figcaption>Không gian hoài cổ gợi nhớ thời bao cấp tại quán cơm độc đáo ở Quy Nhơn</figcaption>
             </figure>
             <p>

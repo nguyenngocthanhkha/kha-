@@ -23,7 +23,7 @@
         <section>
             <h1>Bánh Canh Hải Sản Càng Đỏ Quán – Đậm đà hương vị biển giữa lòng Quy Nhơn</h1>
             <figure>
-                <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-6/470188809_122167495346276674_8112512879781349916_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEEDCV6FC_J0k0JpJxfk_54X8IUzZCg_9FfwhTNkKD_0cOFEtJt30BX32VH5THJ1HonZaHrz3quop5wpbX_eqaJ&_nc_ohc=KZIHmd0mGAAQ7kNvwHj-Rxu&_nc_oc=AdkJAhD2gqYpZNIeEe9Wz7JXZeWbiYI_6m3FU0v81m13uE6j3ABYBeQ1aOk69YO82trznq76-Ukhso2iXtUjguut&_nc_zt=23&_nc_ht=scontent.fhan2-3.fna&_nc_gid=UdAdnG7ZczCtR1prEZekCQ&oh=00_AfKdeWAFZ9GnkMQ4PU56XWsN_2uiD2Dy_SAMCqOjfKtDfA&oe=682A7604" alt="Bánh Canh Hải Sản Càng Đỏ Quán Quy Nhơn">
+                <img src="../Picture/DoQuan_0.jpg">
                 <figcaption>Tô bánh canh hải sản nóng hổi, hấp dẫn tại Càng Đỏ Quán</figcaption>
             </figure>
             <p>

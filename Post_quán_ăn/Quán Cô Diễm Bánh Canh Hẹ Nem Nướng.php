@@ -19,7 +19,7 @@
         <section>
             <h1>Quán Cô Diễm – Bánh Canh Hẹ & Nem Nướng Quy Nhơn</h1>
             <figure>
-                <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-6/472969893_548186075038333_1731387732707366856_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEPHNHTeWMBSfZlLw7-M9zIGcx7QQIKmgMZzHtBAgqaA9Loq0qIXF7k_Wz_sb09TFAnK3Id-VhFPZKRNPSCRlAw&_nc_ohc=m2n7GfuLc6UQ7kNvwGOEHIQ&_nc_oc=Adk5WtSWY6iPKX-xWkd3Htb__xBds7l6N4eUS1FntlsSWK1jTpopvTC7RnTiF2VQplP8BYQIR2VpAOTmbeh3SyFs&_nc_zt=23&_nc_ht=scontent.fhan2-3.fna&_nc_gid=myEGjfmK_aYpqckp0DtRYw&oh=00_AfI5zpZG5XVJcloxKk2A-RnsTMzL5TmGJdKazIZWWxFLRg&oe=682A7180" alt="Bánh Canh Hẹ Cô Diễm Quy Nhơn">
+                <img src="../Picture/He_0.webp" alt="Bánh Canh Hẹ Cô Diễm Quy Nhơn">
                 <figcaption>Bánh canh hẹ xanh mướt, nem nướng thơm lừng tại Quán Cô Diễm</figcaption>
             </figure>
             <p>

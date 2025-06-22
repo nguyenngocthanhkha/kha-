@@ -18,7 +18,7 @@
         <section>
             <h1>Quán Bánh Tráng Trứng – Phan Bội Châu</h1>
             <figure>
-                <img src="https://2trip.vn/wp-content/uploads/2020/09/quan-banh-trang-trung-phan-boi-chau.jpg" alt="Bánh Tráng Trứng Phan Bội Châu" />
+                <img src="../Picture/quan7_0.jpg" alt="Bánh Tráng Trứng Phan Bội Châu" />
                 <figcaption>Hình ảnh quen thuộc của quán bánh tráng trứng vỉa hè tại đường Phan Bội Châu, Quy Nhơn</figcaption>
             </figure>
             <p>

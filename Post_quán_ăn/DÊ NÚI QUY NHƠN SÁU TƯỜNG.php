@@ -19,7 +19,7 @@
         <section>
             <h1>DÊ NÚI QUY NHƠN SÁU TƯỜNG – Đậm Đà Hương Vị Dê Tươi Bình Định</h1>
             <figure>
-                <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-6/361858707_114382488391188_3517469251538829351_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGXeC2I9x6UNfipyHUKeDXcNeXnDqny-Vc15ecOqfL5V6lfqAxNbKT1c2oqQySjduWhtJuvztIyyaVq70O-ZAVT&_nc_ohc=59kuNYbNDsAQ7kNvwHy3imF&_nc_oc=Adn8JV748SAW3DSiD_L1GPIS07y1oRUoxIGuI5WM8OWfipHXXNbfFJ92c_e_arC-zAxDoauVegcYrCptlq1HcxhQ&_nc_zt=23&_nc_ht=scontent.fhan2-3.fna&_nc_gid=Z2-kvoRV_R9uwSQ3-mtjkA&oh=00_AfJiFkhrxMeIvAC7gZ5RQsLxp7p5lYnc6-VbhN1JWxmHWQ&oe=682A991B" alt="Dê Núi Sáu Tường Quy Nhơn">
+                <img src="../Picture/DeNui_0.webp" alt="Dê Núi Sáu Tường Quy Nhơn">
                 <figcaption>Món dê hấp sả và nướng mọi đặc sắc tại Dê Núi Sáu Tường</figcaption>
             </figure>
             <p>

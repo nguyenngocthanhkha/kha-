@@ -18,7 +18,7 @@
         <section>
             <h1>Quán Xiên Que Woắn – Thiên Đường Xiên Nướng Tại Quy Nhơn</h1>
             <figure>
-                <img src="https://2trip.vn/wp-content/uploads/2020/09/quan-xien-que-woan.jpg" alt="Quán Xiên Que Woắn" />
+                <img src="../Picture/quan6_0.jpg" alt="Quán Xiên Que Woắn" />
                 <figcaption>Quán Xiên Que Woắn – điểm hẹn lý tưởng cho những ai đam mê ăn xiên nướng tại Quy Nhơn.</figcaption>
             </figure>
             <p>

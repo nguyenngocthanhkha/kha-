@@ -18,7 +18,7 @@
         <section>
             <h1>Quán Chè Chuối Nướng</h1>
             <figure>
-                <img src="https://2trip.vn/wp-content/uploads/2020/09/quan-che-chuoi-nuong-quy-nhon.jpg" alt="Quán Chè Chuối Nướng" />
+                <img src="../Picture/quan10_0.jpg" alt="Quán Chè Chuối Nướng" />
                 <figcaption>Chè Chuối Nướng thơm ngon tại quán</figcaption>
             </figure>
             <p>

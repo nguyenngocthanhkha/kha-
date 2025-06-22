@@ -18,7 +18,7 @@
         <section>
             <h1>Quán Kem – Gỏi Thanh Tâm – Món Ngon Không Thể Bỏ Lỡ Ở Quy Nhơn</h1>
             <figure>
-                <img src="https://2trip.vn/wp-content/uploads/2020/09/quan-kem-goi-thanh-tam.jpg" alt="Quán Kem – Gỏi Thanh Tâm" />
+                <img src="../Picture/quan5_0.jpg" alt="Quán Kem – Gỏi Thanh Tâm" />
                 <figcaption>Quán Kem – Gỏi Thanh Tâm – Địa điểm lý tưởng cho team mê ăn vặt khi đến Quy Nhơn.</figcaption>
             </figure>
             <p>

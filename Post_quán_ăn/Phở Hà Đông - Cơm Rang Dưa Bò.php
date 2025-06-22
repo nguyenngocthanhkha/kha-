@@ -18,7 +18,7 @@
         <section>
             <h1>Phở Hà Đông – Cơm Rang Dưa Bò Ngon Chuẩn Hà Nội Giữa Lòng Quy Nhơn</h1>
             <figure>
-                <img src="https://scontent.fhan2-5.fna.fbcdn.net/v/t39.30808-6/468529410_122188896800159173_7739803935743222325_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF6mT_2YYyTOsxoVmbRVLT07zKA4H47pqfvMoDgfjumpygLUxViVd2Ebzs2yquGYfnw43snfhu7ABIU-LrVnw0y&_nc_ohc=TVg15J9ZUNIQ7kNvwE4MAhx&_nc_oc=AdmYdZ07Zc-0qNhxiy99yk5rsOfsymF2MiFjtmWuuznLSu1UA6AhBuCbqumRJYPo5-lln2XcOJzIouH0SZksZP7W&_nc_zt=23&_nc_ht=scontent.fhan2-5.fna&_nc_gid=8cVP2GOsBTTzbvF2VV6BPA&oh=00_AfJ00MyZjXHEhy6kbv2UbwOB_sbCQ5S3x4krhvbXX8lD7A&oe=682A671E" alt="Phở Hà Đông - Cơm rang dưa bò tại Quy Nhơn">
+                <img src="../Picture/HaDong_0.webp" alt="Phở Hà Đông - Cơm rang dưa bò tại Quy Nhơn">
                 <figcaption>Món cơm rang dưa bò đậm đà, phở chuẩn vị Bắc tại Phở Hà Đông</figcaption>
             </figure>
             <p>

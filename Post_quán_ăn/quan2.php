@@ -18,7 +18,7 @@
         <section>
             <h1>Face Quán – Các Món Ăn Vặt Ngon tại Quy Nhơn</h1>
             <figure>
-                <img src="https://2trip.vn/wp-content/uploads/2020/09/face-quan-quy-nhon.jpg" alt="Face Quán - Ăn Vặt Quy Nhơn" />
+                <img src="../Picture/quan2_0.jpg" alt="Face Quán - Ăn Vặt Quy Nhơn" />
                 <figcaption>Face Quán – Địa điểm ăn vặt yêu thích tại Quy Nhơn, nổi bật với thực đơn đa dạng.</figcaption>
             </figure>
             <p>

@@ -18,7 +18,7 @@
         <section>
             <h1>Quán Ăn Vặt Ngô Mây</h1>
             <figure>
-                <img src="https://2trip.vn/wp-content/uploads/2020/09/quan-an-vat-ngo-may-quy-nhon.jpg" alt="Quán Ăn Vặt Ngô Mây" />
+                <img src="../Picture/quan8_0.jpg" alt="Quán Ăn Vặt Ngô Mây" />
                 <figcaption>Không gian dân dã, thân thiện tại Quán Ăn Vặt Ngô Mây</figcaption>
             </figure>
             <p>

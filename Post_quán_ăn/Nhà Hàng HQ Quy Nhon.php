@@ -19,7 +19,7 @@
         <section>
             <h1>Nhà Hàng HQ Quy Nhơn – Không gian sang trọng, ẩm thực tinh tế</h1>
             <figure>
-                <img src="https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-6/476889777_581233368238066_6269567867702377690_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFeAZHkGhfKe5CaGkUc04N-KtN6aYqAcWQq03ppioBxZCn1F0h8ucXHHZ4lNNRScZobkpf4VLx6ZIIbcT1XKSgK&_nc_ohc=wWg8hUizSCoQ7kNvwFT6lO6&_nc_oc=AdmkIThhstVKs_Z-aT2WvjUe4eNebOTE8Z7bsu9Gl-iQqAHed48sKSe1iTcz1nQnYMFKnSIknMQt0ROKuPXFWMET&_nc_zt=23&_nc_ht=scontent.fhan20-1.fna&_nc_gid=-LpLpLi9WfKAh8Jsd04eNw&oh=00_AfKZROdtSovSxFsZNMGNLjn9IfoUxD9gy_LtuH2VrJZgrw&oe=682A5DC3" alt="Nhà hàng HQ Quy Nhơn">
+                <img src="../Picture/HQ_0.webp" alt="Nhà hàng HQ Quy Nhơn">
                 <figcaption>Không gian hiện đại, ấm cúng tại Nhà Hàng HQ Quy Nhơn</figcaption>
             </figure>
             <p>

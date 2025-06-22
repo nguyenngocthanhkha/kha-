@@ -19,7 +19,7 @@
         <section>
             <h1>Hải Sản Hoài Hương – Trải Nghiệm Hải Sản Tươi Sống Tại Quy Nhơn</h1>
             <figure>
-                <img src="https://scontent.fhan2-5.fna.fbcdn.net/v/t39.30808-6/327437644_884184882903709_6159533806957014025_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFXWOkaXNnnt9mOhMR7Mi2Q0_sxV6Q7NzfT-zFXpDs3NyxfI5BJ3mdGHmBx8tXvQo1gCddBFvnIcfxMG0ZVYHFu&_nc_ohc=uLZFUmnJYAkQ7kNvwEimzEe&_nc_oc=Adlk5eNEgAAzCbAp3GihRidgJY5cecfO5ezRZdFELzoKoJKy0-7nOyaqWsO25FxjEMaBIEoUoSnIMZY1XhTVPiPf&_nc_zt=23&_nc_ht=scontent.fhan2-5.fna&_nc_gid=xdcPGcHQVt63C-q_mzRqsA&oh=00_AfL_cIdsnRYLz6PLYDqjXhRhQ2MQ3b0yIbZ72elala64zA&oe=682A6242" alt="Hải Sản Hoài Hương Quy Nhơn">
+                <img src="../Picture/HoaiHuong_0.webp" alt="Hải Sản Hoài Hương Quy Nhơn">
                 <figcaption>Hải sản tươi sống, chế biến đậm đà tại Hoài Hương Quy Nhơn</figcaption>
             </figure>
             <p>

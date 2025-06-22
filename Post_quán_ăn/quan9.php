@@ -18,7 +18,7 @@
         <section>
             <h1>Quán Bánh Rế – Xôi Chiên</h1>
             <figure>
-                <img src="https://2trip.vn/wp-content/uploads/2020/09/quan-banh-re-xoi-chien.jpg" alt="Quán Bánh Rế – Xôi Chiên" />
+                <img src="../Picture/quan9_0.jpg" alt="Quán Bánh Rế – Xôi Chiên" />
                 <figcaption>Thưởng thức Bánh Rế và Xôi Chiên thơm ngon tại quán</figcaption>
             </figure>
             <p>

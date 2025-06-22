@@ -18,7 +18,7 @@
         <section>
             <h1>Quán Cô Gù – Ăn Vặt Bình Dân Ngon, Giá Rẻ tại Quy Nhơn</h1>
             <figure>
-                <img src="https://2trip.vn/wp-content/uploads/2020/09/quan-co-gu-an-vat-binh-dan.jpg" alt="Quán Cô Gù - Ăn Vặt Bình Dân" />
+                <img src="../Picture/quan1_0.jpg" alt="Quán Cô Gù - Ăn Vặt Bình Dân" />
                 <figcaption>Quán Cô Gù – Ăn vặt ngon, giá bình dân tại trung tâm Quy Nhơn.</figcaption>
             </figure>
             <p>

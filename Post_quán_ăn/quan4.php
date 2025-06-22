@@ -18,7 +18,7 @@
         <section>
             <h1>Quán Ăn Vặt Quy Nhơn – Địa Chỉ Lý Tưởng Cho Buổi Tối Thư Giãn</h1>
             <figure>
-                <img src="https://2trip.vn/wp-content/uploads/2020/09/quan-an-vat-quy-nhon.jpg" alt="Quán Ăn Vặt Quy Nhơn" />
+                <img src="../Picture/quan4_0.jpg" alt="Quán Ăn Vặt Quy Nhơn" />
                 <figcaption>Không gian gần gũi tại Quán Ăn Vặt Quy Nhơn – Nơi dừng chân lý tưởng cho mọi độ tuổi.</figcaption>
             </figure>
             <p>

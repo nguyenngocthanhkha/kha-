@@ -17,7 +17,7 @@
         <section>
             <h1>Cơm Ngon Làng Vũ Đại – Hương vị Bắc giữa lòng phố biển Quy Nhơn</h1>
             <figure>
-                <img src="https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-6/449840856_122172053816198936_4222749303965535843_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGhUdv22vmuuFWAWjX-NnShfiQsCZMFvuN-JCwJkwW-456MewHJAPaSERGIm-B0lTfBy7ghMxHLVGipyo961xvi&_nc_ohc=WvxCgvuAwwYQ7kNvwEdqYLl&_nc_oc=AdnuEGvrshzpgOIe1w8lF5OEP0IsAfuCP02i-9h7E0gZbUyrTPbiLe1JPc-k0w70Cs885tuA4SCYe8Pg7NJZib2x&_nc_zt=23&_nc_ht=scontent.fhan20-1.fna&_nc_gid=0mT_Pmra657QpPi-vGbcCA&oh=00_AfKLvbg1-blw4vT9yX5TkhI48yFgqQRyWSwRSRBhktwXfw&oe=682A1BBB" alt="Cơm Ngon Làng Vũ Đại Quy Nhơn">
+                <img src="../Picture/VuDai_0.webp" alt="Cơm Ngon Làng Vũ Đại Quy Nhơn">
                 <figcaption>Không gian mộc mạc, đậm chất Bắc bộ tại Làng Vũ Đại Quy Nhơn</figcaption>
             </figure>
             <p>

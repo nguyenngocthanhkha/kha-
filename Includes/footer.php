@@ -4,7 +4,7 @@
             <div>
                 <h4>Thông Tin Liên Hệ</h4>
                 <p>Email: hotrodulichQuyNhon@gmail.com</p>
-                <p>Điện thoại: +84 123 456 789</p>
+                <p>Điện thoại: +84 358 396 049</p>
             </div>
             <div>
                 <h4>Liên Kết Nhanh</h4>

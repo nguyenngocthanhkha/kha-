@@ -18,7 +18,7 @@
         <section>
             <h1>Quán Bánh Bèo Bà Xê</h1>
             <figure>
-                <img src="https://2trip.vn/wp-content/uploads/2021/08/quan-banh-beo-ngon-tai-quy-nhon-1.jpg" alt="Quán Bánh Bèo Bà Xê" />
+                <img src="../Picture/quan11_0.jpg" alt="Quán Bánh Bèo Bà Xê" />
                 <figcaption>Bánh bèo thơm ngon tại Quán Bà Xê</figcaption>
             </figure>
             <p>

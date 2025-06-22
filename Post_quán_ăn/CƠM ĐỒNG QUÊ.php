@@ -18,7 +18,7 @@
         <section>
             <h1>Cơm Đồng Quê Quy Nhơn – Hương vị quê giữa lòng phố biển</h1>
             <figure>
-                <img src="https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-6/483489147_1195475019252163_2061285516936401913_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFnFQUgX509QBI-dDAkfHdIUeEVHy6G1ZZR4RUfLobVlnvcoCUAxKakZpjhXmLE0xm-gb9VVWtdQH_aabLdowz9&_nc_ohc=OKlC9mkB38AQ7kNvwEsTWuT&_nc_oc=AdkjiJHnR1H2r-wNkHXtCBLwmbOb4881AqakeuS7Et7Zha4mWO0zchjHbpiMHIYV-bFcvUOmHUC05DtNFsQwgBIY&_nc_zt=23&_nc_ht=scontent.fhan20-1.fna&_nc_gid=A36lq83tgnYcftQ8COssXg&oh=00_AfK22DQIn5Cpcy8xZpchUgITTTMwYfOOhtEOqRCVjs1FXQ&oe=682A4B1E" alt="Cơm Đồng Quê Quy Nhơn">
+                <img src="../Picture/DongQue_0.jpg" alt="Cơm Đồng Quê Quy Nhơn">
                 <figcaption>Không gian dân dã, món ăn đậm đà hương vị quê tại Cơm Đồng Quê Quy Nhơn</figcaption>
             </figure>
             <p>

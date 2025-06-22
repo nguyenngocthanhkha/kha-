@@ -18,7 +18,7 @@
         <section>
             <h1>Nhà Hàng Cá Khói – Hương vị biển cả giữa lòng Quy Nhơn</h1>
             <figure>
-                <img src="https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-6/487391375_644049885158140_1352287888255691895_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeGMyI5vUqP-tAFtF24IzEIejEvUuHdrOJCMS9S4d2s4kHVdWussY3kPOwTLYB35piO1VIzmNp7jVc_EsTQh-U6Z&_nc_ohc=OUOgZIkk9qYQ7kNvwFCyQBq&_nc_oc=AdlMOQ9MsiV1F5ATq9mQoue__YntlayehDe2IaoJF8rrMjKS9yjPvirl0eerqLVnrVBDPD5eNQrU7JYiZsyWy_-0&_nc_zt=23&_nc_ht=scontent.fhan20-1.fna&_nc_gid=-49jhUQQKL6NNIVvsccL2A&oh=00_AfK-mKlJzUpeCACNEpZ9GCsAvITW7TNs5-Tx1KytDzwz1A&oe=682A03E1" alt="Nhà hàng Cá Khói Quy Nhơn">
+                <img src="../Picture/CaKhoi_0.webp" alt="Nhà hàng Cá Khói Quy Nhơn">
                 <figcaption>Không gian hiện đại, ấm cúng mang phong cách biển tại Nhà hàng Cá Khói</figcaption>
             </figure>
             <p>

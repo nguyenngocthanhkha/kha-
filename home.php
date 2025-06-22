@@ -47,7 +47,7 @@
             </div>
         </div>
     </section>
- <!-- Cẩm nang du lịch -->
+    <!-- Cẩm nang du lịch -->
     <section class="section-guide">
         <h2 class="section-title">Cẩm nang du lịch</h2>
         <p class="section-description">
@@ -71,7 +71,7 @@
                 <div class="guide-content">
                     <h3>Ẩm thực đặc trưng Quy Nhơn</h3>
                     <p>Khám phá những món ăn dân dã không thể bỏ lỡ...</p>
-                    <a href="#" class="guide-button">Xem chi tiết</a>
+                    <a href="\kha-\Post_quán_ăn\quan11.php" class="guide-button">Xem chi tiết</a>
                 </div>
             </div>
 
@@ -120,8 +120,7 @@
 
             <!-- Quán 2 -->
             <div class="guide-card">
-                <img src="/kha-/Picture/SurfCoffee_0.jpg"
-                    alt="Surf Coffee">
+                <img src="/kha-/Picture/SurfCoffee_0.jpg" alt="Surf Coffee">
                 <div class="guide-content">
                     <h3>Surf Coffee - Đậm chất Bali</h3>
                     <p>Không gian mở, tone gỗ trắng, cực hợp để sống ảo và thư giãn cả ngày.</p>
@@ -131,8 +130,7 @@
 
             <!-- Quán 3 -->
             <div class="guide-card">
-                <img src="/kha-/Picture/TropicalGarden_0.jpg"
-                    alt="Tropical Garden">
+                <img src="/kha-/Picture/TropicalGarden_0.jpg" alt="Tropical Garden">
                 <div class="guide-content">
                     <h3>Tropical Garden</h3>
                     <p>Góc vườn xanh mát, yên tĩnh, rất lý tưởng cho những buổi trò chuyện nhẹ nhàng.</p>
@@ -142,12 +140,11 @@
 
             <!-- Quán 4 -->
             <div class="guide-card">
-                <img src="/kha-/Picture/TheCoffeTalk_0.png"
-                    alt="The Coffee Talk">
+                <img src="/kha-/Picture/TheCoffeTalk_0.png" alt="The Coffee Talk">
                 <div class="guide-content">
                     <h3>The Coffee Talk - Chill rooftop</h3>
                     <p>View tầng thượng nhìn toàn cảnh thành phố – quá lý tưởng để ngắm hoàng hôn.</p>
-                    <a href="/kha-/Post_cafe/TheCoffeTalk.php" class="guide-button">Xem chi tiết</a>
+                    <a href="\kha-\Post_cafe\TheCoffeeTalk .php" class="guide-button">Xem chi tiết</a>
                 </div>
             </div>
         </div>
@@ -166,8 +163,7 @@
         <div class="card-container">
             <!-- Homestay 1 -->
             <div class="card">
-                <img src="https://kenhhomestay.com/wp-content/uploads/2017/07/LaRose-Homestay-15.jpg"
-                    alt="LaRose Homestay">
+                <img src="\kha-\Picture\Larose_0.jpg" alt="LaRose Homestay">
                 <div class="card-content">
                     <h3>LaRose Homestay</h3>
                     <p>Thiết kế nhẹ nhàng, tinh tế, không gian yên tĩnh và gần trung tâm.</p>
@@ -177,8 +173,7 @@
 
             <!-- Homestay 2 -->
             <div class="card">
-                <img src="https://kenhhomestay.com/wp-content/uploads/2019/01/life%E2%80%99s-a-beach-quy-nhon-4.jpg"
-                    alt="Life's A Beach">
+                <img src="\kha-\Picture\Life’s A Beach0.jpg" alt="Life's A Beach">
                 <div class="card-content">
                     <h3>Life’s A Beach</h3>
                     <p>Homestay sát biển mang vibe du mục, thân thiện và mộc mạc.</p>
@@ -223,44 +218,48 @@
         <div class="card-container">
             <!-- Địa điểm 1 -->
             <div class="card">
-                <img src="https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/bun-ram-quy-nhon.jpg"
-                    alt="Bún Rạm Mỹ Hạnh">
+                <img src="./Picture/nieu_0.webp"
+                    alt="CƠM NIÊU QUY NHƠN">
                 <div class="card-content">
-                    <h3>Bún Rạm Mỹ Hạnh</h3>
-                    <p>Nước dùng ngọt thanh không quá đậm, tôm tươi dai thịt ăn kèm bánh tráng ngon đúng vị.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <h3>CƠM NIÊU QUY NHƠN</h3>
+                    <p>Quán chuyên phục vụ cơm niêu truyền thống giữa lòng Quy Nhơn, nổi bật với lớp cơm cháy giòn rụm,
+                        món ăn dân dã và không gian ấm cúng gợi nhớ hương vị quê nhà.</p>
+                    <a href="/kha-/Post_quán_ăn/CƠM NIÊU QUY NHƠN.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
 
             <!-- Địa điểm 2 -->
             <div class="card">
-                <img src="https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/com-ga-e1506390410985.jpg"
-                    alt="Cơm gà xứ Quãng">
+                <img src="./Picture/ComNha_0.jpg" alt="Cơm nhà 1989">
                 <div class="card-content">
-                    <h3>Cơm gà xứ Quảng</h3>
-                    <p>Suất cơm gà đầy đủ các thức các vị, thịt gà mềm thơm, cơm chiên vừa phải ăn kèm với một số loại
-                        rau thơm.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <h3>Cơm Nhà 1989</h3>
+                    <p>Quán cơm mang phong cách hoài cổ, tái hiện bữa cơm gia đình đậm chất Việt giữa lòng thành phố Quy
+                        Nhơn, nổi bật với món ăn dân dã và không gian ấm cúng như trở về tuổi thơ.</p>
+                    <a href="/kha-/Post_quán_ăn/Cơm Nhà 1989.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
 
             <!-- Địa điểm 3 -->
             <div class="card">
-                <img src="https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/pho-quy-nhon.jpg" alt="Phở Anh Vũ">
+                <img src="./Picture/HaDong_0.webp" alt="Phở Hà Đông - Cơm Rang Dưa Bò">
                 <div class="card-content">
-                    <h3>Phở Anh Vũ</h3>
-                    <p>Thưởng thức tô phở trong không gian cây xanh, có tiếng chim hót cảm giác thật thanh tao.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <h3>Phở Hà Đông - Cơm Rang Dưa Bò</h3>
+                    <p>Phở Hà Đông – Cơm Rang Dưa Bò là quán ăn được nhiều thực khách tại Quy Nhơn yêu thích với hương
+                        vị đậm chất Bắc, món cơm rang dưa bò thơm ngon, phở bò chuẩn vị Hà Nội, phục vụ nhanh chóng,
+                        không gian đơn giản, giá cả hợp lý, phù hợp dân văn phòng, sinh viên và khách du lịch.</p>
+                    <a href="/kha-/Post_quán_ăn/Phở Hà Đông - Cơm Rang Dưa Bò.php" class="read-more">Xem chi tiết</a>
                 </div>
             </div>
 
             <!-- Địa điểm 4 -->
             <div class="card">
-                <img src="https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/09/bun-ca.jpg" alt="Bún cá cô Liên">
+                <img src="./Picture/HoaLu_0.webp" alt="BÚN CÁ HOA LƯ">
                 <div class="card-content">
-                    <h3>Bún cá cô Liên</h3>
-                    <p>Bún cá, bún riêu, bún sứa, bún chả cá, đặc biệt bún hải sản rất được thực khách yêu thích.</p>
-                    <a href="#" class="read-more">Xem chi tiết</a>
+                    <h3>BÚN CÁ HOA LƯ - Bún chả cá thu ngon tại Quy Nhơn</h3>
+                    <p>Bún Cá Hoa Lư là quán bún chả cá thu nổi tiếng tại Quy Nhơn với nước dùng thanh ngọt, chả cá thu
+                        vàng giòn, không tanh, phục vụ sạch sẽ và giá cả hợp lý.</p>
+                    <a href="/kha-/Post_quán_ăn/BÚN CÁ HOA LƯ - Bún chả cá thu ngon tại Quy Nhơn.php"
+                        class="read-more">Xem chi tiết</a>
                 </div>
             </div>
         </div>
@@ -328,14 +327,20 @@
 </body>
 
 </html>
- <!-- Đặt đoạn script ở đây -->
-    <script>
-        document.querySelectorAll('.carousel-wrapper').forEach(wrapper => {
-            const container = wrapper.querySelector('.carousel-container');
-            wrapper.querySelector('.arrow.left').onclick = () => container.scrollBy({ left: -300, behavior: 'smooth' });
-            wrapper.querySelector('.arrow.right').onclick = () => container.scrollBy({ left: 300, behavior: 'smooth' });
-        });
-    </script>
+<!-- Đặt đoạn script ở đây -->
+<script>
+document.querySelectorAll('.carousel-wrapper').forEach(wrapper => {
+    const container = wrapper.querySelector('.carousel-container');
+    wrapper.querySelector('.arrow.left').onclick = () => container.scrollBy({
+        left: -300,
+        behavior: 'smooth'
+    });
+    wrapper.querySelector('.arrow.right').onclick = () => container.scrollBy({
+        left: 300,
+        behavior: 'smooth'
+    });
+});
+</script>
 </body>
+
 </html>
-  

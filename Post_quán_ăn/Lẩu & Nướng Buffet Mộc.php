@@ -19,7 +19,7 @@
         <section>
             <h1>Lẩu & Nướng Buffet Mộc Quy Nhơn – Thiên đường ăn uống giá hợp lý</h1>
             <figure>
-                <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-6/362227235_751950053605747_2747372033043211209_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHAV27sSztjrZtnX5GXzhArS-qV9tRFpedL6pX21EWl58g2QOF5rOhIrjaMXiAJaoaNqa1ki0VF0lewH4YKwihX&_nc_ohc=PhjeJtMITvAQ7kNvwF3Z61g&_nc_oc=AdkDDHC-md5az9NrcqI4TUbfipyT4VOZvOE9MDmS3AtkTyyweD8Q2l9rrDi4vI8ndxs-lAP5PGTQcWnjVELaGEUT&_nc_zt=23&_nc_ht=scontent.fhan2-3.fna&_nc_gid=Wmnjin8l1jBpJ567qi8SJw&oh=00_AfLkPDSRwzwWPTNu9YfrV-_CTRUnR9d6omMnQbdPFz5ezw&oe=682A4D52" alt="Buffet Mộc Quy Nhơn">
+                <img src="../Picture/Loc_0.webp" alt="Buffet Mộc Quy Nhơn">
                 <figcaption>Không gian thoáng mát, món nướng hấp dẫn tại Buffet Mộc Quy Nhơn</figcaption>
             </figure>
             <p>

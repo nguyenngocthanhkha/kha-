@@ -51,9 +51,13 @@ require_once(__DIR__ . '/../Database/db_connect.php');
 <div class="mobile-menu-toggle" onclick="toggleMobileMenu()">☰</div>
 
   <!-- Search -->
+<form method="GET" action="/kha-/Search.php">
   <div class="search-box">
-    <input type="text" class="search-input" placeholder="Tìm kiếm" />
+    <input type="text" class="search-input" name="tim" placeholder="Tìm kiếm..." required />
+    <button type="submit" class="search-button">Tìm</button>
   </div>
+</form>
+
 
   <!-- Đăng ký / Đăng nhập -->
   <div class="auth" <?php if (isset($_SESSION['UserName'])) echo 'style="display: none;"'; ?>>

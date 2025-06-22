@@ -19,7 +19,7 @@
         <section>
             <h1>Bò Tơ Tây Ninh Ông Minh – Hương vị đặc sản Tây Ninh giữa lòng Quy Nhơn</h1>
             <figure>
-                <img src="https://scontent.fhan2-5.fna.fbcdn.net/v/t39.30808-6/485745468_1060989322722490_5478826387173211408_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHeJlev4j6ehZSopNHvkzzNdSAmUweAVpp1ICZTB4BWmtkm2EBOu4d5zBLMijQQzRKQ7OPGpE9Y1GB9xVVMwjHq&_nc_ohc=uj5OyTUK0ZcQ7kNvwE-wktB&_nc_oc=AdlhkH7OPS5l6RCb3DkCsEk9z5yO7ze3PLXf21Y-u7MqR-WIYm4hEe0b0dVuPf1XqPfkBUzmEH_gVoam9Q_WdR3i&_nc_zt=23&_nc_ht=scontent.fhan2-5.fna&_nc_gid=jSOEBonkS-FG4TUWohoCPA&oh=00_AfIIKsBPOGWW7tfcZ0GWpZ4Jr5qzJIk98RGLLGfFnJlp5A&oe=682A7927" alt="Bò Tơ Tây Ninh Ông Minh Quy Nhơn">
+                <img src="../Picture/OngMinh_0.jpg" alt="Bò Tơ Tây Ninh Ông Minh Quy Nhơn">
                 <figcaption>Không gian rộng rãi, đậm chất miền Tây Ninh tại quán Ông Minh</figcaption>
             </figure>
             <p>

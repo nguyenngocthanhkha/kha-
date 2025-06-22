@@ -19,7 +19,7 @@
         <section>
             <h1>Cơm Nhà 1989 Quy Nhơn – Bữa cơm ấm lòng như trở về tuổi thơ</h1>
             <figure>
-                <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-6/490751151_1211456584275628_7213046684328408207_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeF06TpUspSAYRTSQXQr-hdMZhN4I8oBFuxmE3gjygEW7Nj2wQbHvEa2Zf8vsX_aG_W7vzVqRG3NJW3D5oT3EWxr&_nc_ohc=rnv4FpXWvisQ7kNvwGR-rXv&_nc_oc=AdnTGUMoym5b_zGU2-7uMp8oO6Zmjh0jeLGp77JbbpRGzOsakesY0OHAb3vgKuRjFfpwfIa4u2lMnHbUEhZa2Zk6&_nc_zt=23&_nc_ht=scontent.fhan2-3.fna&_nc_gid=7LTvra-FxnQYxJFYs1mMEQ&oh=00_AfJOvghaOcWiwkl6Ki-aJXBliAmhq-tUWESFLVb9gVB-6Q&oe=682A449B" alt="Cơm Nhà 1989 Quy Nhơn">
+                <img src="../Picture/ComNha_0.jpg" alt="Cơm Nhà 1989 Quy Nhơn">
                 <figcaption>Không gian hoài cổ đậm chất Việt tại Cơm Nhà 1989 Quy Nhơn</figcaption>
             </figure>
             <p>

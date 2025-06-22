@@ -19,7 +19,7 @@
     <section>
       <h1>LaRouse Homestay – đậm chất Pháp giữa lòng Quy Nhơn</h1>
       <figure>
-        <img src="https://quynhonrent.com/wp-content/uploads/2020/09/larose-homestay.jpg" alt="LaRouse Homestay Quy Nhơn" />
+        <img src="../Picture/Larose_0.jpg" alt="LaRouse Homestay Quy Nhơn" />
         <figcaption>LaRouse Homestay – Nơi cảm hứng nghệ thuật và yên bình giao thoa</figcaption>
       </figure>
       <p>

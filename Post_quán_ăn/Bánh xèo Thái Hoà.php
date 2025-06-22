@@ -19,7 +19,7 @@
         <section>
             <h1>Bánh Xèo Thái Hòa – Món Ngon Bình Dân Hút Khách tại Quy Nhơn</h1>
             <figure>
-                <img src="https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-6/486638510_1063315985815005_7331392660471720152_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFOEunZ2r4rSJ4C5jps2suovVm50M7ubwq9WbnQzu5vCtm6zUogy47cM6P-EzqeWN6nWoVN1FasnF35aUPElxrf&_nc_ohc=k4-rExv65_AQ7kNvwHPf0yH&_nc_oc=Adn2WV4qEoz9UujqqMcNeLk1j83cNeuk__ICFkKrkRiQ8EEoFTedX4q-dHDVVQu3cM_VAUqsMo4v0wHiG-Vx55K-&_nc_zt=23&_nc_ht=scontent.fhan20-1.fna&_nc_gid=0EpLnXot-OXoEYZ5yRIkrw&oh=00_AfJ00iaxtQiqlSFAj1raL2ibGh-pR3Y9vESEFLbtLK6CxQ&oe=682A7340" alt="Bánh xèo Thái Hòa Quy Nhơn">
+                <img src="../Picture/ThaiHoa.webp">
                 <figcaption>Bánh xèo tôm nhảy nóng giòn, ăn kèm rau sống tươi ngon</figcaption>
             </figure>
             <p>

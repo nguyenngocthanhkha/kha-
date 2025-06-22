@@ -19,7 +19,7 @@
         <section>
             <h1>BÚN CÁ HOA LƯ – Bún chả cá thu ngon tại Quy Nhơn</h1>
             <figure>
-                <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-1/364207285_6163279793770556_8215499811322896313_n.jpg?stp=c243.0.500.500a_dst-jpg_s200x200_tt6&_nc_cat=101&ccb=1-7&_nc_sid=2d3e12&_nc_eui2=AeENuNvTpXOMYgMpuY4vDA5gKnUenL3CdO8qdR6cvcJ077JXGmSqTZLRHgR3kKflv_zRzNocQORPJKSJ8Nnbm8wS&_nc_ohc=LbTuj4QJl9UQ7kNvwGFnGIx&_nc_oc=AdnOCtK7b4VHRS5cgL6GUKKstuLNB4_r3AusyjCM_Csmfi2HYHTDlqHO7C4_ziGM5G3FhBAEtQA7FcLiHwm27pJu&_nc_zt=24&_nc_ht=scontent.fhan2-3.fna&_nc_gid=J9m7mEM8TAzN4hul0QHsQw&oh=00_AfJ9IJugR5Mvy9Z-dBCHvmtIXMfymNvwyE1CwFbB0KS8PA&oe=682A67F8" alt="Bún cá Hoa Lư Quy Nhơn">
+                <img src="../Picture/HoaLu_0.webp" alt="Bún cá Hoa Lư Quy Nhơn">
                 <figcaption>Tô bún đậm đà với chả cá thu vàng ươm tại Bún Cá Hoa Lư</figcaption>
             </figure>
             <p>

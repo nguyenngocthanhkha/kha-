@@ -19,7 +19,7 @@
         <section>
             <h1>Cơm Niêu Quy Nhơn – Hương vị dân dã trong từng niêu cơm nóng hổi</h1>
             <figure>
-                <img src="https://scontent.fhan2-5.fna.fbcdn.net/v/t39.30808-6/472204185_122139825080380018_8488845868164323138_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHziHGYmWMboJ9QJ_KzWyaWO4qYYx0o4gQ7iphjHSjiBFdv-_SE6-afy2cwyNID8GR2UQUQN6YeL2AuSlTaMHaH&_nc_ohc=qIIPddX8L98Q7kNvwH8iMcV&_nc_oc=AdmVtDeDcfspuqKwQbI7MQXh7Pik_eDLM-3ZXc7PDY-_Ve5k6jAczm0bGmn6va_q7MLtV3m2NEGxBSINOfln5Xcm&_nc_zt=23&_nc_ht=scontent.fhan2-5.fna&_nc_gid=XxtAv8Ys-ti1AZf8PiTs4g&oh=00_AfKfqd2j1rkvMfQITk-J5YQx55e9QT5k73Fk_QFcjlnWjw&oe=682A20BF" alt="Cơm Niêu Quy Nhơn">
+                <img src="../Picture/nieu_0.webp" alt="Cơm Niêu Quy Nhơn">
                 <figcaption>Cơm cháy giòn rụm, món ăn quê thân thuộc tại Cơm Niêu Quy Nhơn</figcaption>
             </figure>
             <p>

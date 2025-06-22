@@ -19,7 +19,7 @@
         <section>
             <h1>Hankook BBQ – Nhà Hàng Nướng Hàn Quốc Hấp Dẫn Tại Quy Nhơn</h1>
             <figure>
-                <img src="https://scontent.fhan20-1.fna.fbcdn.net/v/t39.30808-6/492087236_612274621838277_6695809345880921228_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGBohB7V7UOAEr_oGqQlYeQLSxOlS4n0JstLE6VLifQm1vwz3_g0ky2A37hocv03OLeEGsuYdn2Exycgu_7a7S0&_nc_ohc=wwwSU0RWMiUQ7kNvwEuRZDn&_nc_oc=AdliZ0hcz-1iUf2e5p78eJRc6tiQfvVD1ZIzBPrZoiEzUeNnnwSzYsM3pxfLXwgSLG9e0e78RnP2LBrIlW7HE2--&_nc_zt=23&_nc_ht=scontent.fhan20-1.fna&_nc_gid=2jA3FzPMlbYlydkAOqbeNg&oh=00_AfIzN4a9l7nLDcnCFhXt6taejmbu9By2Cj1gw34sWn90Yg&oe=682A6276" alt="Nhà hàng Hankook BBQ Quy Nhơn">
+                <img src="../Picture/BBQ_0.webp" alt="Nhà hàng Hankook BBQ Quy Nhơn">
                 <figcaption>Không gian đậm chất Hàn và món nướng hấp dẫn tại Hankook BBQ</figcaption>
             </figure>
             <p>

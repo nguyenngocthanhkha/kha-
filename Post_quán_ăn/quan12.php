@@ -18,7 +18,7 @@
         <section>
             <h1>Cửa hàng kem Mixue</h1>
             <figure>
-                <img src="https://static.vinwonders.com/production/an-vat-quy-nhon-2.jpg" alt="Cửa hàng kem Mixue tại Quy Nhơn" />
+                <img src="../Picture/quan12_0.jpg" alt="Cửa hàng kem Mixue tại Quy Nhơn" />
                 <figcaption>Thưởng thức kem mát lạnh tại Mixue Quy Nhơn</figcaption>
             </figure>
             <p>

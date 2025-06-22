@@ -19,7 +19,7 @@
         <section>
             <h1>CƠM GÀ 125 – Đậm Đà Vị Truyền Thống Giữa Lòng Quy Nhơn</h1>
             <figure>
-                <img src="https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-6/487895027_1231291705664468_9089819767594098668_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEA5TsZ85H3j2WTmfYfjEVN_peX9yNRDWj-l5f3I1ENaDTNVrf1CO_rWiW7609gWZR_xN-2vuF7HJ7SJRrIY0o1&_nc_ohc=zMjOtlqLhAcQ7kNvwFRrQDT&_nc_oc=Adn4xhirOZwT3UGUDB_q5ZPurBOivJNxQjSRmKmDNRaCRd-308pPryWyFbOwQ1S0WMKLjI3Nmi-J_FTci-9k95dS&_nc_zt=23&_nc_ht=scontent.fhan2-3.fna&_nc_gid=jbXK-nCRaWwxpR88Wb4VRQ&oh=00_AfL09xwVUrkEKDRHS-2Z4Twy4jrBAGSGBKrLPzwtzW3f3w&oe=682A93C4" alt="Cơm Gà 125 Quy Nhơn">
+                <img src="../Picture/125_0.jpg" alt="Cơm Gà 125 Quy Nhơn">
                 <figcaption>Suất cơm gà chuẩn vị – nổi tiếng lâu đời tại Quy Nhơn</figcaption>
             </figure>
             <p>
