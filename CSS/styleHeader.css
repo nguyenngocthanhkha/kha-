@@ -118,15 +118,15 @@
 .search-button {
   padding: 8px 12px;
   font-size: 16px;
-  background-color: #007bff;
+  background-color: darkorange;
   color: white;
-  border: 1px solid #007bff;
+  border: 1px solid darkorange;
   border-radius: 0 4px 4px 0;
   cursor: pointer;
 }
 
 .search-button:hover {
-  background-color: #0056b3;
+  background-color:  orangered;
 }
 
     .auth {
